@@ -1,0 +1,4 @@
+Activity log 1;subtype;Activity log 2;subtype;similarity;F1;rule applierd
+Agree System Access;receiveTask;Agree System Access;sendTask; 0.99; 1;Rule 1
+Assign IP Address;receiveTask;Assign IP Address;sendTask;0.99;1;Rule 1
+Request System Access;sendTask;Request System Access;receiveTask;0.99;1;Rule 1
