@@ -1,0 +1,1151 @@
+id_new;IdCase;time:timestamp;msgType;org:group;concept:name;msgFlow;msgInstanceId
+00;case_1;2021-06-17 10:58:55.472000+02:00;send;Patient;Communicate disease;disease;disease_0
+00;case_1;2021-06-17 10:58:55.472000+02:00;send;Patient;Receive disease info;disease;disease_0
+00;case_1;2021-06-17 10:59:25.039000+02:00;receive;Patient;Receive prescription;prescription;prescription_3
+11;case_101;2021-06-17 11:14:19.906000+02:00;send;Patient;Communicate disease;disease;disease_104
+11;case_101;2021-06-17 11:14:19.906000+02:00;send;Patient;Receive disease info;disease;disease_104
+11;case_101;2021-06-17 11:14:53.006000+02:00;receive;Patient;Receive prescription;prescription;prescription_107
+22;case_106;2021-06-17 11:14:54.873000+02:00;send;Patient;Communicate disease;disease;disease_108
+22;case_106;2021-06-17 11:14:54.873000+02:00;send;Patient;Receive disease info;disease;disease_108
+22;case_106;2021-06-17 11:15:25.678000+02:00;receive;Patient;Receive prescription;prescription;prescription_111
+33;case_11;2021-06-17 10:59:51.039000+02:00;send;Patient;Communicate disease;disease;disease_8
+33;case_11;2021-06-17 10:59:51.039000+02:00;send;Patient;Receive disease info;disease;disease_8
+33;case_11;2021-06-17 11:00:54.505000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_11
+33;case_11;2021-06-17 11:01:09.588000+02:00;receive;Patient;Receive admission info;admission;admission_14
+44;case_111;2021-06-17 11:15:29.244000+02:00;send;Patient;Communicate disease;disease;disease_112
+44;case_111;2021-06-17 11:15:29.244000+02:00;send;Patient;Receive disease info;disease;disease_112
+44;case_111;2021-06-17 11:16:12.300000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_115
+44;case_111;2021-06-17 11:16:26.755000+02:00;receive;Patient;Receive admission info;admission;admission_118
+55;case_116;2021-06-17 11:16:31.702000+02:00;send;Patient;Communicate disease;disease;disease_119
+55;case_116;2021-06-17 11:16:31.702000+02:00;send;Patient;Receive disease info;disease;disease_119
+55;case_116;2021-06-17 11:16:59.628000+02:00;receive;Patient;Receive prescription;prescription;prescription_122
+66;case_121;2021-06-17 11:17:03.218000+02:00;send;Patient;Communicate disease;disease;disease_123
+66;case_121;2021-06-17 11:17:03.218000+02:00;send;Patient;Receive disease info;disease;disease_123
+66;case_121;2021-06-17 11:17:41.235000+02:00;receive;Patient;Receive prescription;prescription;prescription_126
+77;case_126;2021-06-17 11:17:44.611000+02:00;send;Patient;Communicate disease;disease;disease_127
+77;case_126;2021-06-17 11:17:44.611000+02:00;send;Patient;Receive disease info;disease;disease_127
+77;case_126;2021-06-17 11:18:06.556000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_130
+77;case_126;2021-06-17 11:18:31.608000+02:00;receive;Patient;Receive admission info;admission;admission_133
+88;case_131;2021-06-17 11:18:31.843000+02:00;send;Patient;Communicate disease;disease;disease_134
+88;case_131;2021-06-17 11:18:31.843000+02:00;send;Patient;Receive disease info;disease;disease_134
+88;case_131;2021-06-17 11:19:03.978000+02:00;receive;Patient;Receive prescription;prescription;prescription_137
+99;case_136;2021-06-17 11:19:05.560000+02:00;send;Patient;Communicate disease;disease;disease_138
+99;case_136;2021-06-17 11:19:05.560000+02:00;send;Patient;Receive disease info;disease;disease_138
+99;case_136;2021-06-17 11:19:55.150000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_141
+99;case_136;2021-06-17 11:20:04.043000+02:00;receive;Patient;Receive admission info;admission;admission_144
+1010;case_141;2021-06-17 11:20:05.691000+02:00;send;Patient;Communicate disease;disease;disease_145
+1010;case_141;2021-06-17 11:20:05.691000+02:00;send;Patient;Receive disease info;disease;disease_145
+1010;case_141;2021-06-17 11:20:45.599000+02:00;receive;Patient;Receive prescription;prescription;prescription_148
+1111;case_146;2021-06-17 11:20:50.209000+02:00;send;Patient;Communicate disease;disease;disease_149
+1111;case_146;2021-06-17 11:20:50.209000+02:00;send;Patient;Receive disease info;disease;disease_149
+1111;case_146;2021-06-17 11:21:29.148000+02:00;receive;Patient;Receive prescription;prescription;prescription_152
+1212;case_151;2021-06-17 11:21:33.564000+02:00;send;Patient;Communicate disease;disease;disease_153
+1212;case_151;2021-06-17 11:21:33.564000+02:00;send;Patient;Receive disease info;disease;disease_153
+1212;case_151;2021-06-17 11:22:04.367000+02:00;receive;Patient;Receive prescription;prescription;prescription_156
+1313;case_156;2021-06-17 11:22:07.753000+02:00;send;Patient;Communicate disease;disease;disease_157
+1313;case_156;2021-06-17 11:22:07.753000+02:00;send;Patient;Receive disease info;disease;disease_157
+1313;case_156;2021-06-17 11:23:13.488000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_160
+1313;case_156;2021-06-17 11:23:24.967000+02:00;receive;Patient;Receive admission info;admission;admission_163
+1414;case_16;2021-06-17 11:01:12.718000+02:00;send;Patient;Communicate disease;disease;disease_15
+1414;case_16;2021-06-17 11:01:12.718000+02:00;send;Patient;Receive disease info;disease;disease_15
+1414;case_16;2021-06-17 11:01:53.447000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_18
+1414;case_16;2021-06-17 11:02:18.401000+02:00;receive;Patient;Receive admission info;admission;admission_21
+1515;case_161;2021-06-17 11:23:29.471000+02:00;send;Patient;Communicate disease;disease;disease_164
+1515;case_161;2021-06-17 11:23:29.471000+02:00;send;Patient;Receive disease info;disease;disease_164
+1515;case_161;2021-06-17 11:23:59.485000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_167
+1515;case_161;2021-06-17 11:24:35.183000+02:00;receive;Patient;Receive admission info;admission;admission_170
+1616;case_166;2021-06-17 11:24:37.984000+02:00;send;Patient;Communicate disease;disease;disease_171
+1616;case_166;2021-06-17 11:24:37.984000+02:00;send;Patient;Receive disease info;disease;disease_171
+1616;case_166;2021-06-17 11:25:02.772000+02:00;receive;Patient;Receive prescription;prescription;prescription_174
+1717;case_171;2021-06-17 11:25:06.624000+02:00;send;Patient;Communicate disease;disease;disease_175
+1717;case_171;2021-06-17 11:25:06.624000+02:00;send;Patient;Receive disease info;disease;disease_175
+1717;case_171;2021-06-17 11:25:31.720000+02:00;receive;Patient;Receive prescription;prescription;prescription_178
+1818;case_176;2021-06-17 11:25:34.287000+02:00;send;Patient;Communicate disease;disease;disease_179
+1818;case_176;2021-06-17 11:25:34.287000+02:00;send;Patient;Receive disease info;disease;disease_179
+1818;case_176;2021-06-17 11:26:12.446000+02:00;receive;Patient;Receive prescription;prescription;prescription_182
+1919;case_181;2021-06-17 11:26:16.324000+02:00;send;Patient;Communicate disease;disease;disease_183
+1919;case_181;2021-06-17 11:26:16.324000+02:00;send;Patient;Receive disease info;disease;disease_183
+1919;case_181;2021-06-17 11:26:54.667000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_186
+1919;case_181;2021-06-17 11:27:22.700000+02:00;receive;Patient;Receive admission info;admission;admission_189
+2020;case_186;2021-06-17 11:27:26.977000+02:00;send;Patient;Communicate disease;disease;disease_190
+2020;case_186;2021-06-17 11:27:26.977000+02:00;send;Patient;Receive disease info;disease;disease_190
+2020;case_186;2021-06-17 11:28:40.955000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_193
+2020;case_186;2021-06-17 11:28:53.513000+02:00;receive;Patient;Receive admission info;admission;admission_196
+2121;case_191;2021-06-17 11:28:56.579000+02:00;send;Patient;Communicate disease;disease;disease_197
+2121;case_191;2021-06-17 11:28:56.579000+02:00;send;Patient;Receive disease info;disease;disease_197
+2121;case_191;2021-06-17 11:29:55.355000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_200
+2121;case_191;2021-06-17 11:30:12.588000+02:00;receive;Patient;Receive admission info;admission;admission_203
+2222;case_196;2021-06-17 11:30:14.365000+02:00;send;Patient;Communicate disease;disease;disease_204
+2222;case_196;2021-06-17 11:30:14.365000+02:00;send;Patient;Receive disease info;disease;disease_204
+2222;case_196;2021-06-17 11:30:50.596000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_207
+2222;case_196;2021-06-17 11:31:20.409000+02:00;receive;Patient;Receive admission info;admission;admission_210
+2323;case_201;2021-06-17 11:31:25.399000+02:00;send;Patient;Communicate disease;disease;disease_211
+2323;case_201;2021-06-17 11:31:25.399000+02:00;send;Patient;Receive disease info;disease;disease_211
+2323;case_201;2021-06-17 11:31:57.931000+02:00;receive;Patient;Receive prescription;prescription;prescription_214
+2424;case_206;2021-06-17 11:31:58.258000+02:00;send;Patient;Communicate disease;disease;disease_215
+2424;case_206;2021-06-17 11:31:58.258000+02:00;send;Patient;Receive disease info;disease;disease_215
+2424;case_206;2021-06-17 11:32:40.601000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_218
+2424;case_206;2021-06-17 11:33:11.157000+02:00;receive;Patient;Receive admission info;admission;admission_221
+2525;case_21;2021-06-17 11:02:23.321000+02:00;send;Patient;Communicate disease;disease;disease_22
+2525;case_21;2021-06-17 11:02:23.321000+02:00;send;Patient;Receive disease info;disease;disease_22
+2525;case_21;2021-06-17 11:03:10.370000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_25
+2525;case_21;2021-06-17 11:03:42.208000+02:00;receive;Patient;Receive admission info;admission;admission_28
+2626;case_211;2021-06-17 11:33:11.727000+02:00;send;Patient;Communicate disease;disease;disease_222
+2626;case_211;2021-06-17 11:33:11.727000+02:00;send;Patient;Receive disease info;disease;disease_222
+2626;case_211;2021-06-17 11:33:37.382000+02:00;receive;Patient;Receive prescription;prescription;prescription_225
+2727;case_216;2021-06-17 11:33:37.748000+02:00;send;Patient;Communicate disease;disease;disease_226
+2727;case_216;2021-06-17 11:33:37.748000+02:00;send;Patient;Receive disease info;disease;disease_226
+2727;case_216;2021-06-17 11:34:03.016000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_229
+2727;case_216;2021-06-17 11:34:28.542000+02:00;receive;Patient;Receive admission info;admission;admission_232
+2828;case_221;2021-06-17 11:34:29.739000+02:00;send;Patient;Communicate disease;disease;disease_233
+2828;case_221;2021-06-17 11:34:29.739000+02:00;send;Patient;Receive disease info;disease;disease_233
+2828;case_221;2021-06-17 11:35:12.474000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_236
+2828;case_221;2021-06-17 11:35:37.469000+02:00;receive;Patient;Receive admission info;admission;admission_239
+2929;case_226;2021-06-17 11:35:38.252000+02:00;send;Patient;Communicate disease;disease;disease_240
+2929;case_226;2021-06-17 11:35:38.252000+02:00;send;Patient;Receive disease info;disease;disease_240
+2929;case_226;2021-06-17 11:37:03.509000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_243
+2929;case_226;2021-06-17 11:37:13.267000+02:00;receive;Patient;Receive admission info;admission;admission_246
+3030;case_231;2021-06-17 11:37:18.058000+02:00;send;Patient;Communicate disease;disease;disease_247
+3030;case_231;2021-06-17 11:37:18.058000+02:00;send;Patient;Receive disease info;disease;disease_247
+3030;case_231;2021-06-17 11:38:10.020000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_250
+3030;case_231;2021-06-17 11:38:30.274000+02:00;receive;Patient;Receive admission info;admission;admission_253
+3131;case_236;2021-06-17 11:38:34.194000+02:00;send;Patient;Communicate disease;disease;disease_254
+3131;case_236;2021-06-17 11:38:34.194000+02:00;send;Patient;Receive disease info;disease;disease_254
+3131;case_236;2021-06-17 11:38:59.776000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_257
+3131;case_236;2021-06-17 11:39:24.162000+02:00;receive;Patient;Receive admission info;admission;admission_260
+3232;case_241;2021-06-17 11:39:25.555000+02:00;send;Patient;Communicate disease;disease;disease_261
+3232;case_241;2021-06-17 11:39:25.555000+02:00;send;Patient;Receive disease info;disease;disease_261
+3232;case_241;2021-06-17 11:39:56.737000+02:00;receive;Patient;Receive prescription;prescription;prescription_264
+3333;case_246;2021-06-17 11:40:01.426000+02:00;send;Patient;Communicate disease;disease;disease_265
+3333;case_246;2021-06-17 11:40:01.426000+02:00;send;Patient;Receive disease info;disease;disease_265
+3333;case_246;2021-06-17 11:40:44.233000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_268
+3333;case_246;2021-06-17 11:41:12.617000+02:00;receive;Patient;Receive admission info;admission;admission_271
+3434;case_251;2021-06-17 11:41:13.070000+02:00;send;Patient;Communicate disease;disease;disease_272
+3434;case_251;2021-06-17 11:41:13.070000+02:00;send;Patient;Receive disease info;disease;disease_272
+3434;case_251;2021-06-17 11:42:09.958000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_275
+3434;case_251;2021-06-17 11:42:26.199000+02:00;receive;Patient;Receive admission info;admission;admission_278
+3535;case_256;2021-06-17 11:42:27.616000+02:00;send;Patient;Communicate disease;disease;disease_279
+3535;case_256;2021-06-17 11:42:27.616000+02:00;send;Patient;Receive disease info;disease;disease_279
+3535;case_256;2021-06-17 11:42:54.529000+02:00;receive;Patient;Receive prescription;prescription;prescription_282
+3636;case_26;2021-06-17 11:03:43.234000+02:00;send;Patient;Communicate disease;disease;disease_29
+3636;case_26;2021-06-17 11:03:43.234000+02:00;send;Patient;Receive disease info;disease;disease_29
+3636;case_26;2021-06-17 11:04:35.328000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_32
+3636;case_26;2021-06-17 11:05:00.723000+02:00;receive;Patient;Receive admission info;admission;admission_35
+3737;case_261;2021-06-17 11:42:55.505000+02:00;send;Patient;Communicate disease;disease;disease_283
+3737;case_261;2021-06-17 11:42:55.505000+02:00;send;Patient;Receive disease info;disease;disease_283
+3737;case_261;2021-06-17 11:43:30.484000+02:00;receive;Patient;Receive prescription;prescription;prescription_286
+3838;case_266;2021-06-17 11:43:32.519000+02:00;send;Patient;Communicate disease;disease;disease_287
+3838;case_266;2021-06-17 11:43:32.519000+02:00;send;Patient;Receive disease info;disease;disease_287
+3838;case_266;2021-06-17 11:44:26.036000+02:00;receive;Patient;Receive prescription;prescription;prescription_290
+3939;case_271;2021-06-17 11:44:26.960000+02:00;send;Patient;Communicate disease;disease;disease_291
+3939;case_271;2021-06-17 11:44:26.960000+02:00;send;Patient;Receive disease info;disease;disease_291
+3939;case_271;2021-06-17 11:44:56.914000+02:00;receive;Patient;Receive prescription;prescription;prescription_294
+4040;case_276;2021-06-17 11:44:57.579000+02:00;send;Patient;Communicate disease;disease;disease_295
+4040;case_276;2021-06-17 11:44:57.579000+02:00;send;Patient;Receive disease info;disease;disease_295
+4040;case_276;2021-06-17 11:45:35.568000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_298
+4040;case_276;2021-06-17 11:45:53.967000+02:00;receive;Patient;Receive admission info;admission;admission_301
+4141;case_281;2021-06-17 11:45:57.685000+02:00;send;Patient;Communicate disease;disease;disease_302
+4141;case_281;2021-06-17 11:45:57.685000+02:00;send;Patient;Receive disease info;disease;disease_302
+4141;case_281;2021-06-17 11:47:05.852000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_305
+4141;case_281;2021-06-17 11:47:16.577000+02:00;receive;Patient;Receive admission info;admission;admission_308
+4242;case_286;2021-06-17 11:47:16.995000+02:00;send;Patient;Communicate disease;disease;disease_309
+4242;case_286;2021-06-17 11:47:16.995000+02:00;send;Patient;Receive disease info;disease;disease_309
+4242;case_286;2021-06-17 11:47:46.640000+02:00;receive;Patient;Receive prescription;prescription;prescription_312
+4343;case_291;2021-06-17 11:47:48.021000+02:00;send;Patient;Communicate disease;disease;disease_313
+4343;case_291;2021-06-17 11:47:48.021000+02:00;send;Patient;Receive disease info;disease;disease_313
+4343;case_291;2021-06-17 11:48:17.696000+02:00;receive;Patient;Receive prescription;prescription;prescription_316
+4444;case_296;2021-06-17 11:48:19.864000+02:00;send;Patient;Communicate disease;disease;disease_317
+4444;case_296;2021-06-17 11:48:19.864000+02:00;send;Patient;Receive disease info;disease;disease_317
+4444;case_296;2021-06-17 11:48:54.384000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_320
+4444;case_296;2021-06-17 11:49:21.207000+02:00;receive;Patient;Receive admission info;admission;admission_323
+4545;case_301;2021-06-17 11:49:23.369000+02:00;send;Patient;Communicate disease;disease;disease_324
+4545;case_301;2021-06-17 11:49:23.369000+02:00;send;Patient;Receive disease info;disease;disease_324
+4545;case_301;2021-06-17 11:50:01.044000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_327
+4545;case_301;2021-06-17 11:50:24.080000+02:00;receive;Patient;Receive admission info;admission;admission_330
+4646;case_306;2021-06-17 11:50:25.819000+02:00;send;Patient;Communicate disease;disease;disease_331
+4646;case_306;2021-06-17 11:50:25.819000+02:00;send;Patient;Receive disease info;disease;disease_331
+4646;case_306;2021-06-17 11:50:55.402000+02:00;receive;Patient;Receive prescription;prescription;prescription_334
+4747;case_31;2021-06-17 11:05:01.534000+02:00;send;Patient;Communicate disease;disease;disease_36
+4747;case_31;2021-06-17 11:05:01.534000+02:00;send;Patient;Receive disease info;disease;disease_36
+4747;case_31;2021-06-17 11:05:30.142000+02:00;receive;Patient;Receive prescription;prescription;prescription_39
+4848;case_311;2021-06-17 11:50:59.474000+02:00;send;Patient;Communicate disease;disease;disease_335
+4848;case_311;2021-06-17 11:50:59.474000+02:00;send;Patient;Receive disease info;disease;disease_335
+4848;case_311;2021-06-17 11:51:32.030000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_338
+4848;case_311;2021-06-17 11:52:04.641000+02:00;receive;Patient;Receive admission info;admission;admission_341
+4949;case_316;2021-06-17 11:52:08.795000+02:00;send;Patient;Communicate disease;disease;disease_342
+4949;case_316;2021-06-17 11:52:08.795000+02:00;send;Patient;Receive disease info;disease;disease_342
+4949;case_316;2021-06-17 11:52:38.386000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_345
+4949;case_316;2021-06-17 11:53:01.265000+02:00;receive;Patient;Receive admission info;admission;admission_348
+5050;case_321;2021-06-17 11:53:06.137000+02:00;send;Patient;Communicate disease;disease;disease_349
+5050;case_321;2021-06-17 11:53:06.137000+02:00;send;Patient;Receive disease info;disease;disease_349
+5050;case_321;2021-06-17 11:53:51.031000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_352
+5050;case_321;2021-06-17 11:54:17.359000+02:00;receive;Patient;Receive admission info;admission;admission_355
+5151;case_326;2021-06-17 11:54:20.778000+02:00;send;Patient;Communicate disease;disease;disease_356
+5151;case_326;2021-06-17 11:54:20.778000+02:00;send;Patient;Receive disease info;disease;disease_356
+5151;case_326;2021-06-17 11:54:56.801000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_359
+5151;case_326;2021-06-17 11:55:19.214000+02:00;receive;Patient;Receive admission info;admission;admission_362
+5252;case_331;2021-06-17 11:55:19.824000+02:00;send;Patient;Communicate disease;disease;disease_363
+5252;case_331;2021-06-17 11:55:19.824000+02:00;send;Patient;Receive disease info;disease;disease_363
+5252;case_331;2021-06-17 11:56:13.492000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_366
+5252;case_331;2021-06-17 11:56:26.667000+02:00;receive;Patient;Receive admission info;admission;admission_369
+5353;case_336;2021-06-17 11:56:30.956000+02:00;send;Patient;Communicate disease;disease;disease_370
+5353;case_336;2021-06-17 11:56:30.956000+02:00;send;Patient;Receive disease info;disease;disease_370
+5353;case_336;2021-06-17 11:56:58.128000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_373
+5353;case_336;2021-06-17 11:57:33.623000+02:00;receive;Patient;Receive admission info;admission;admission_376
+5454;case_341;2021-06-17 11:57:34.377000+02:00;send;Patient;Communicate disease;disease;disease_377
+5454;case_341;2021-06-17 11:57:34.377000+02:00;send;Patient;Receive disease info;disease;disease_377
+5454;case_341;2021-06-17 11:58:15.199000+02:00;receive;Patient;Receive prescription;prescription;prescription_380
+5555;case_346;2021-06-17 11:58:17.088000+02:00;send;Patient;Communicate disease;disease;disease_381
+5555;case_346;2021-06-17 11:58:17.088000+02:00;send;Patient;Receive disease info;disease;disease_381
+5555;case_346;2021-06-17 11:58:45.983000+02:00;receive;Patient;Receive prescription;prescription;prescription_384
+5656;case_351;2021-06-17 11:58:48.018000+02:00;send;Patient;Communicate disease;disease;disease_385
+5656;case_351;2021-06-17 11:58:48.018000+02:00;send;Patient;Receive disease info;disease;disease_385
+5656;case_351;2021-06-17 11:59:13.265000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_388
+5656;case_351;2021-06-17 11:59:43.406000+02:00;receive;Patient;Receive admission info;admission;admission_391
+5757;case_356;2021-06-17 11:59:47.447000+02:00;send;Patient;Communicate disease;disease;disease_392
+5757;case_356;2021-06-17 11:59:47.447000+02:00;send;Patient;Receive disease info;disease;disease_392
+5757;case_356;2021-06-17 12:00:54.581000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_395
+5757;case_356;2021-06-17 12:01:08.903000+02:00;receive;Patient;Receive admission info;admission;admission_398
+5858;case_36;2021-06-17 11:05:31.471000+02:00;send;Patient;Communicate disease;disease;disease_40
+5858;case_36;2021-06-17 11:05:31.471000+02:00;send;Patient;Receive disease info;disease;disease_40
+5858;case_36;2021-06-17 11:06:13.619000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_43
+5858;case_36;2021-06-17 11:06:33.996000+02:00;receive;Patient;Receive admission info;admission;admission_46
+5959;case_361;2021-06-17 12:01:08.958000+02:00;send;Patient;Communicate disease;disease;disease_399
+5959;case_361;2021-06-17 12:01:08.958000+02:00;send;Patient;Receive disease info;disease;disease_399
+5959;case_361;2021-06-17 12:01:48.575000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_402
+5959;case_361;2021-06-17 12:02:17.342000+02:00;receive;Patient;Receive admission info;admission;admission_405
+6060;case_366;2021-06-17 12:02:21.891000+02:00;send;Patient;Communicate disease;disease;disease_406
+6060;case_366;2021-06-17 12:02:21.891000+02:00;send;Patient;Receive disease info;disease;disease_406
+6060;case_366;2021-06-17 12:03:00.035000+02:00;receive;Patient;Receive prescription;prescription;prescription_409
+6161;case_371;2021-06-17 12:03:04.958000+02:00;send;Patient;Communicate disease;disease;disease_410
+6161;case_371;2021-06-17 12:03:04.958000+02:00;send;Patient;Receive disease info;disease;disease_410
+6161;case_371;2021-06-17 12:03:45.973000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_413
+6161;case_371;2021-06-17 12:04:15.408000+02:00;receive;Patient;Receive admission info;admission;admission_416
+6262;case_376;2021-06-17 12:04:15.694000+02:00;send;Patient;Communicate disease;disease;disease_417
+6262;case_376;2021-06-17 12:04:15.694000+02:00;send;Patient;Receive disease info;disease;disease_417
+6262;case_376;2021-06-17 12:04:52.512000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_420
+6262;case_376;2021-06-17 12:05:20.533000+02:00;receive;Patient;Receive admission info;admission;admission_423
+6363;case_381;2021-06-17 12:05:24.845000+02:00;send;Patient;Communicate disease;disease;disease_424
+6363;case_381;2021-06-17 12:05:24.845000+02:00;send;Patient;Receive disease info;disease;disease_424
+6363;case_381;2021-06-17 12:05:48.152000+02:00;receive;Patient;Receive prescription;prescription;prescription_427
+6464;case_386;2021-06-17 12:05:50.968000+02:00;send;Patient;Communicate disease;disease;disease_428
+6464;case_386;2021-06-17 12:05:50.968000+02:00;send;Patient;Receive disease info;disease;disease_428
+6464;case_386;2021-06-17 12:06:21.130000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_431
+6464;case_386;2021-06-17 12:06:44.820000+02:00;receive;Patient;Receive admission info;admission;admission_434
+6565;case_391;2021-06-17 12:06:45.312000+02:00;send;Patient;Communicate disease;disease;disease_435
+6565;case_391;2021-06-17 12:06:45.312000+02:00;send;Patient;Receive disease info;disease;disease_435
+6565;case_391;2021-06-17 12:07:08.026000+02:00;receive;Patient;Receive prescription;prescription;prescription_438
+6666;case_396;2021-06-17 12:07:12.298000+02:00;send;Patient;Communicate disease;disease;disease_439
+6666;case_396;2021-06-17 12:07:12.298000+02:00;send;Patient;Receive disease info;disease;disease_439
+6666;case_396;2021-06-17 12:07:42.814000+02:00;receive;Patient;Receive prescription;prescription;prescription_442
+6767;case_401;2021-06-17 12:07:45.766000+02:00;send;Patient;Communicate disease;disease;disease_443
+6767;case_401;2021-06-17 12:07:45.766000+02:00;send;Patient;Receive disease info;disease;disease_443
+6767;case_401;2021-06-17 12:08:10.991000+02:00;receive;Patient;Receive prescription;prescription;prescription_446
+6868;case_406;2021-06-17 12:08:13.969000+02:00;send;Patient;Communicate disease;disease;disease_447
+6868;case_406;2021-06-17 12:08:13.969000+02:00;send;Patient;Receive disease info;disease;disease_447
+6868;case_406;2021-06-17 12:09:16.309000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_450
+6868;case_406;2021-06-17 12:09:25.957000+02:00;receive;Patient;Receive admission info;admission;admission_453
+6969;case_41;2021-06-17 11:06:35.562000+02:00;send;Patient;Communicate disease;disease;disease_47
+6969;case_41;2021-06-17 11:06:35.562000+02:00;send;Patient;Receive disease info;disease;disease_47
+6969;case_41;2021-06-17 11:06:58.103000+02:00;receive;Patient;Receive prescription;prescription;prescription_50
+7070;case_411;2021-06-17 12:09:34.981000+02:00;send;Patient;Communicate disease;disease;disease_454
+7070;case_411;2021-06-17 12:09:34.981000+02:00;send;Patient;Receive disease info;disease;disease_454
+7070;case_411;2021-06-17 12:10:07.498000+02:00;receive;Patient;Receive prescription;prescription;prescription_457
+7171;case_416;2021-06-17 12:10:09.951000+02:00;send;Patient;Communicate disease;disease;disease_458
+7171;case_416;2021-06-17 12:10:09.951000+02:00;send;Patient;Receive disease info;disease;disease_458
+7171;case_416;2021-06-17 12:11:11.198000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_461
+7171;case_416;2021-06-17 12:11:30.485000+02:00;receive;Patient;Receive admission info;admission;admission_464
+7272;case_421;2021-06-17 12:11:31.065000+02:00;send;Patient;Communicate disease;disease;disease_465
+7272;case_421;2021-06-17 12:11:31.065000+02:00;send;Patient;Receive disease info;disease;disease_465
+7272;case_421;2021-06-17 12:12:08.159000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_468
+7272;case_421;2021-06-17 12:12:36.378000+02:00;receive;Patient;Receive admission info;admission;admission_471
+7373;case_426;2021-06-17 12:12:40.006000+02:00;send;Patient;Communicate disease;disease;disease_472
+7373;case_426;2021-06-17 12:12:40.006000+02:00;send;Patient;Receive disease info;disease;disease_472
+7373;case_426;2021-06-17 12:13:07.227000+02:00;receive;Patient;Receive prescription;prescription;prescription_475
+7474;case_431;2021-06-17 12:13:11.777000+02:00;send;Patient;Communicate disease;disease;disease_476
+7474;case_431;2021-06-17 12:13:11.777000+02:00;send;Patient;Receive disease info;disease;disease_476
+7474;case_431;2021-06-17 12:13:42.193000+02:00;receive;Patient;Receive prescription;prescription;prescription_479
+7575;case_436;2021-06-17 12:13:45.121000+02:00;send;Patient;Communicate disease;disease;disease_480
+7575;case_436;2021-06-17 12:13:45.121000+02:00;send;Patient;Receive disease info;disease;disease_480
+7575;case_436;2021-06-17 12:14:22.708000+02:00;receive;Patient;Receive prescription;prescription;prescription_483
+7676;case_441;2021-06-17 12:14:24.918000+02:00;send;Patient;Communicate disease;disease;disease_484
+7676;case_441;2021-06-17 12:14:24.918000+02:00;send;Patient;Receive disease info;disease;disease_484
+7676;case_441;2021-06-17 12:15:21.956000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_487
+7676;case_441;2021-06-17 12:15:45.446000+02:00;receive;Patient;Receive admission info;admission;admission_490
+7777;case_446;2021-06-17 12:15:47.081000+02:00;send;Patient;Communicate disease;disease;disease_491
+7777;case_446;2021-06-17 12:15:47.081000+02:00;send;Patient;Receive disease info;disease;disease_491
+7777;case_446;2021-06-17 12:16:29.154000+02:00;receive;Patient;Receive prescription;prescription;prescription_494
+7878;case_451;2021-06-17 12:16:30.080000+02:00;send;Patient;Communicate disease;disease;disease_495
+7878;case_451;2021-06-17 12:16:30.080000+02:00;send;Patient;Receive disease info;disease;disease_495
+7878;case_451;2021-06-17 12:17:03.752000+02:00;receive;Patient;Receive prescription;prescription;prescription_498
+7979;case_456;2021-06-17 12:17:07.628000+02:00;send;Patient;Communicate disease;disease;disease_499
+7979;case_456;2021-06-17 12:17:07.628000+02:00;send;Patient;Receive disease info;disease;disease_499
+7979;case_456;2021-06-17 12:17:38.139000+02:00;receive;Patient;Receive prescription;prescription;prescription_502
+8080;case_46;2021-06-17 11:06:58.277000+02:00;send;Patient;Communicate disease;disease;disease_51
+8080;case_46;2021-06-17 11:06:58.277000+02:00;send;Patient;Receive disease info;disease;disease_51
+8080;case_46;2021-06-17 11:07:37.337000+02:00;receive;Patient;Receive prescription;prescription;prescription_54
+8181;case_461;2021-06-17 12:17:40.562000+02:00;send;Patient;Communicate disease;disease;disease_503
+8181;case_461;2021-06-17 12:17:40.562000+02:00;send;Patient;Receive disease info;disease;disease_503
+8181;case_461;2021-06-17 12:18:19.008000+02:00;receive;Patient;Receive prescription;prescription;prescription_506
+8282;case_466;2021-06-17 12:18:21.964000+02:00;send;Patient;Communicate disease;disease;disease_507
+8282;case_466;2021-06-17 12:18:21.964000+02:00;send;Patient;Receive disease info;disease;disease_507
+8282;case_466;2021-06-17 12:19:03.386000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_510
+8282;case_466;2021-06-17 12:19:25.549000+02:00;receive;Patient;Receive admission info;admission;admission_513
+8383;case_471;2021-06-17 12:19:29.527000+02:00;send;Patient;Communicate disease;disease;disease_514
+8383;case_471;2021-06-17 12:19:29.527000+02:00;send;Patient;Receive disease info;disease;disease_514
+8383;case_471;2021-06-17 12:20:22.114000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_517
+8383;case_471;2021-06-17 12:20:36.936000+02:00;receive;Patient;Receive admission info;admission;admission_520
+8484;case_476;2021-06-17 12:20:39.970000+02:00;send;Patient;Communicate disease;disease;disease_521
+8484;case_476;2021-06-17 12:20:39.970000+02:00;send;Patient;Receive disease info;disease;disease_521
+8484;case_476;2021-06-17 12:21:21.777000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_524
+8484;case_476;2021-06-17 12:21:37.718000+02:00;receive;Patient;Receive admission info;admission;admission_527
+8585;case_481;2021-06-17 12:21:40.270000+02:00;send;Patient;Communicate disease;disease;disease_528
+8585;case_481;2021-06-17 12:21:40.270000+02:00;send;Patient;Receive disease info;disease;disease_528
+8585;case_481;2021-06-17 12:22:21.676000+02:00;receive;Patient;Receive prescription;prescription;prescription_531
+8686;case_486;2021-06-17 12:22:24.145000+02:00;send;Patient;Communicate disease;disease;disease_532
+8686;case_486;2021-06-17 12:22:24.145000+02:00;send;Patient;Receive disease info;disease;disease_532
+8686;case_486;2021-06-17 12:23:10.165000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_535
+8686;case_486;2021-06-17 12:23:22.206000+02:00;receive;Patient;Receive admission info;admission;admission_538
+8787;case_491;2021-06-17 12:23:25.134000+02:00;send;Patient;Communicate disease;disease;disease_539
+8787;case_491;2021-06-17 12:23:25.134000+02:00;send;Patient;Receive disease info;disease;disease_539
+8787;case_491;2021-06-17 12:23:51.469000+02:00;receive;Patient;Receive prescription;prescription;prescription_542
+8888;case_496;2021-06-17 12:23:52.482000+02:00;send;Patient;Communicate disease;disease;disease_543
+8888;case_496;2021-06-17 12:23:52.482000+02:00;send;Patient;Receive disease info;disease;disease_543
+8888;case_496;2021-06-17 12:24:50.066000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_546
+8888;case_496;2021-06-17 12:24:55.160000+02:00;receive;Patient;Receive admission info;admission;admission_549
+8989;case_51;2021-06-17 11:07:41.476000+02:00;send;Patient;Communicate disease;disease;disease_55
+8989;case_51;2021-06-17 11:07:41.476000+02:00;send;Patient;Receive disease info;disease;disease_55
+8989;case_51;2021-06-17 11:08:36.576000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_58
+8989;case_51;2021-06-17 11:08:45.232000+02:00;receive;Patient;Receive admission info;admission;admission_61
+9090;case_56;2021-06-17 11:08:48.659000+02:00;send;Patient;Communicate disease;disease;disease_62
+9090;case_56;2021-06-17 11:08:48.659000+02:00;send;Patient;Receive disease info;disease;disease_62
+9090;case_56;2021-06-17 11:09:18.599000+02:00;receive;Patient;Receive prescription;prescription;prescription_65
+9191;case_6;2021-06-17 10:59:26.814000+02:00;send;Patient;Communicate disease;disease;disease_4
+9191;case_6;2021-06-17 10:59:26.814000+02:00;send;Patient;Receive disease info;disease;disease_4
+9191;case_6;2021-06-17 10:59:49.197000+02:00;receive;Patient;Receive prescription;prescription;prescription_7
+9292;case_61;2021-06-17 11:09:21.706000+02:00;send;Patient;Communicate disease;disease;disease_66
+9292;case_61;2021-06-17 11:09:21.706000+02:00;send;Patient;Receive disease info;disease;disease_66
+9292;case_61;2021-06-17 11:09:48.141000+02:00;receive;Patient;Receive prescription;prescription;prescription_69
+9393;case_66;2021-06-17 11:09:48.627000+02:00;send;Patient;Communicate disease;disease;disease_70
+9393;case_66;2021-06-17 11:09:48.627000+02:00;send;Patient;Receive disease info;disease;disease_70
+9393;case_66;2021-06-17 11:10:12.035000+02:00;receive;Patient;Receive prescription;prescription;prescription_73
+9494;case_71;2021-06-17 11:10:14.067000+02:00;send;Patient;Communicate disease;disease;disease_74
+9494;case_71;2021-06-17 11:10:14.067000+02:00;send;Patient;Receive disease info;disease;disease_74
+9494;case_71;2021-06-17 11:11:03.718000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_77
+9494;case_71;2021-06-17 11:11:30.069000+02:00;receive;Patient;Receive admission info;admission;admission_80
+9595;case_76;2021-06-17 11:11:30.883000+02:00;send;Patient;Communicate disease;disease;disease_81
+9595;case_76;2021-06-17 11:11:30.883000+02:00;send;Patient;Receive disease info;disease;disease_81
+9595;case_76;2021-06-17 11:11:51.847000+02:00;receive;Patient;Receive prescription;prescription;prescription_84
+9696;case_81;2021-06-17 11:11:55.664000+02:00;send;Patient;Communicate disease;disease;disease_85
+9696;case_81;2021-06-17 11:11:55.664000+02:00;send;Patient;Receive disease info;disease;disease_85
+9696;case_81;2021-06-17 11:12:17.623000+02:00;receive;Patient;Receive prescription;prescription;prescription_88
+9797;case_86;2021-06-17 11:12:22.510000+02:00;send;Patient;Communicate disease;disease;disease_89
+9797;case_86;2021-06-17 11:12:22.510000+02:00;send;Patient;Receive disease info;disease;disease_89
+9797;case_86;2021-06-17 11:12:58.618000+02:00;receive;Patient;Receive prescription;prescription;prescription_92
+9898;case_91;2021-06-17 11:13:00.158000+02:00;send;Patient;Communicate disease;disease;disease_93
+9898;case_91;2021-06-17 11:13:00.158000+02:00;send;Patient;Receive disease info;disease;disease_93
+9898;case_91;2021-06-17 11:13:29.791000+02:00;receive;Patient;Receive prescription;prescription;prescription_96
+9999;case_96;2021-06-17 11:13:33.303000+02:00;send;Patient;Communicate disease;disease;disease_97
+9999;case_96;2021-06-17 11:13:33.303000+02:00;send;Patient;Receive disease info;disease;disease_97
+9999;case_96;2021-06-17 11:14:16.999000+02:00;receive;Patient;Hospitalisation needed;hospitalisation;hospitalisation_100
+9999;case_96;2021-06-17 11:14:18.546000+02:00;receive;Patient;Receive admission info;admission;admission_103
+00;case_0;2021-06-17 10:58:59.647000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_0
+00;case_0;2021-06-17 10:59:03.676000+02:00;;Gynecologist;Examine patient;;;
+00;case_0;2021-06-17 10:59:08.177000+02:00;;Gynecologist;Blood draw;;;
+00;case_0;2021-06-17 10:59:11.929000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_1
+00;case_0;2021-06-17 10:59:22.617000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_2
+00;case_0;2021-06-17 10:59:23.440000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_3
+00;case_0;2021-06-17 10:59:23.440000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_3
+11;case_10;2021-06-17 10:59:51.134000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_8
+11;case_10;2021-06-17 10:59:58.852000+02:00;;Gynecologist;Blood draw;;;
+11;case_10;2021-06-17 11:00:00.564000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_9
+11;case_10;2021-06-17 11:00:06.902000+02:00;;Gynecologist;Examine patient;;;
+11;case_10;2021-06-17 11:00:28.981000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_10
+11;case_10;2021-06-17 11:00:31.808000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_11
+11;case_10;2021-06-17 11:00:31.808000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_11
+11;case_10;2021-06-17 11:00:35.396000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_12
+11;case_10;2021-06-17 11:00:51.036000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_13
+22;case_100;2021-06-17 11:14:24.505000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_104
+22;case_100;2021-06-17 11:14:27.576000+02:00;;Gynecologist;Examine patient;;;
+22;case_100;2021-06-17 11:14:30.193000+02:00;;Gynecologist;Blood draw;;;
+22;case_100;2021-06-17 11:14:33.882000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_105
+22;case_100;2021-06-17 11:14:46.329000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_106
+22;case_100;2021-06-17 11:14:50.601000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_107
+22;case_100;2021-06-17 11:14:50.601000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_107
+33;case_105;2021-06-17 11:14:56.928000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_108
+33;case_105;2021-06-17 11:14:59.212000+02:00;;Gynecologist;Examine patient;;;
+33;case_105;2021-06-17 11:15:04.929000+02:00;;Gynecologist;Blood draw;;;
+33;case_105;2021-06-17 11:15:06.163000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_109
+33;case_105;2021-06-17 11:15:18.281000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_110
+33;case_105;2021-06-17 11:15:21.462000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_111
+33;case_105;2021-06-17 11:15:21.462000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_111
+44;case_110;2021-06-17 11:15:29.382000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_112
+44;case_110;2021-06-17 11:15:32.742000+02:00;;Gynecologist;Examine patient;;;
+44;case_110;2021-06-17 11:15:35.374000+02:00;;Gynecologist;Blood draw;;;
+44;case_110;2021-06-17 11:15:35.507000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_113
+44;case_110;2021-06-17 11:15:48.827000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_114
+44;case_110;2021-06-17 11:15:48.985000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_115
+44;case_110;2021-06-17 11:15:48.985000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_115
+44;case_110;2021-06-17 11:15:56.061000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_116
+44;case_110;2021-06-17 11:16:11.443000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_117
+55;case_115;2021-06-17 11:16:33.092000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_119
+55;case_115;2021-06-17 11:16:38.772000+02:00;;Gynecologist;Examine patient;;;
+55;case_115;2021-06-17 11:16:39.607000+02:00;;Gynecologist;Blood draw;;;
+55;case_115;2021-06-17 11:16:43.836000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_120
+55;case_115;2021-06-17 11:16:58.017000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_121
+55;case_115;2021-06-17 11:16:58.981000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_122
+55;case_115;2021-06-17 11:16:58.981000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_122
+66;case_120;2021-06-17 11:17:03.507000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_123
+66;case_120;2021-06-17 11:17:08.970000+02:00;;Gynecologist;Blood draw;;;
+66;case_120;2021-06-17 11:17:15.173000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_124
+66;case_120;2021-06-17 11:17:17.893000+02:00;;Gynecologist;Examine patient;;;
+66;case_120;2021-06-17 11:17:33.003000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_125
+66;case_120;2021-06-17 11:17:37.140000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_126
+66;case_120;2021-06-17 11:17:37.140000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_126
+77;case_125;2021-06-17 11:17:45.843000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_127
+77;case_125;2021-06-17 11:17:54.345000+02:00;;Gynecologist;Examine patient;;;
+77;case_125;2021-06-17 11:17:57.224000+02:00;;Gynecologist;Blood draw;;;
+77;case_125;2021-06-17 11:17:57.667000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_128
+77;case_125;2021-06-17 11:18:02.681000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_129
+77;case_125;2021-06-17 11:18:03.308000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_130
+77;case_125;2021-06-17 11:18:03.308000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_130
+77;case_125;2021-06-17 11:18:11.572000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_131
+77;case_125;2021-06-17 11:18:14.723000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_132
+88;case_130;2021-06-17 11:18:35.376000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_134
+88;case_130;2021-06-17 11:18:43.734000+02:00;;Gynecologist;Examine patient;;;
+88;case_130;2021-06-17 11:18:48.307000+02:00;;Gynecologist;Blood draw;;;
+88;case_130;2021-06-17 11:18:53.279000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_135
+88;case_130;2021-06-17 11:19:03.274000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_136
+88;case_130;2021-06-17 11:19:03.525000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_137
+88;case_130;2021-06-17 11:19:03.525000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_137
+99;case_135;2021-06-17 11:19:09.457000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_138
+99;case_135;2021-06-17 11:19:12.590000+02:00;;Gynecologist;Examine patient;;;
+99;case_135;2021-06-17 11:19:14.312000+02:00;;Gynecologist;Blood draw;;;
+99;case_135;2021-06-17 11:19:14.575000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_139
+99;case_135;2021-06-17 11:19:21.470000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_140
+99;case_135;2021-06-17 11:19:21.979000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_141
+99;case_135;2021-06-17 11:19:21.979000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_141
+99;case_135;2021-06-17 11:19:25.316000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_142
+99;case_135;2021-06-17 11:19:30.062000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_143
+1010;case_140;2021-06-17 11:20:09.944000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_145
+1010;case_140;2021-06-17 11:20:14.105000+02:00;;Gynecologist;Blood draw;;;
+1010;case_140;2021-06-17 11:20:26.844000+02:00;;Gynecologist;Examine patient;;;
+1010;case_140;2021-06-17 11:20:29.256000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_146
+1010;case_140;2021-06-17 11:20:41.321000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_147
+1010;case_140;2021-06-17 11:20:43.658000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_148
+1010;case_140;2021-06-17 11:20:43.658000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_148
+1111;case_145;2021-06-17 11:20:52.598000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_149
+1111;case_145;2021-06-17 11:20:55.451000+02:00;;Gynecologist;Blood draw;;;
+1111;case_145;2021-06-17 11:21:02.163000+02:00;;Gynecologist;Examine patient;;;
+1111;case_145;2021-06-17 11:21:07.296000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_150
+1111;case_145;2021-06-17 11:21:20.197000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_151
+1111;case_145;2021-06-17 11:21:22.574000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_152
+1111;case_145;2021-06-17 11:21:22.574000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_152
+1212;case_15;2021-06-17 11:01:15.355000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_15
+1212;case_15;2021-06-17 11:01:17.496000+02:00;;Gynecologist;Examine patient;;;
+1212;case_15;2021-06-17 11:01:20.532000+02:00;;Gynecologist;Blood draw;;;
+1212;case_15;2021-06-17 11:01:23.859000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_16
+1212;case_15;2021-06-17 11:01:31.748000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_17
+1212;case_15;2021-06-17 11:01:37.456000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_18
+1212;case_15;2021-06-17 11:01:37.456000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_18
+1212;case_15;2021-06-17 11:01:40.949000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_19
+1212;case_15;2021-06-17 11:02:07.821000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_20
+1313;case_150;2021-06-17 11:21:34.983000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_153
+1313;case_150;2021-06-17 11:21:39.910000+02:00;;Gynecologist;Examine patient;;;
+1313;case_150;2021-06-17 11:21:42.128000+02:00;;Gynecologist;Blood draw;;;
+1313;case_150;2021-06-17 11:21:46.140000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_154
+1313;case_150;2021-06-17 11:21:56.802000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_155
+1313;case_150;2021-06-17 11:22:02.152000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_156
+1313;case_150;2021-06-17 11:22:02.152000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_156
+1414;case_155;2021-06-17 11:22:11.090000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_157
+1414;case_155;2021-06-17 11:22:16.271000+02:00;;Gynecologist;Examine patient;;;
+1414;case_155;2021-06-17 11:22:19.470000+02:00;;Gynecologist;Blood draw;;;
+1414;case_155;2021-06-17 11:22:23.501000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_158
+1414;case_155;2021-06-17 11:22:32.485000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_159
+1414;case_155;2021-06-17 11:22:33.836000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_160
+1414;case_155;2021-06-17 11:22:33.836000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_160
+1414;case_155;2021-06-17 11:22:36.223000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_161
+1414;case_155;2021-06-17 11:22:41.941000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_162
+1515;case_160;2021-06-17 11:23:31.715000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_164
+1515;case_160;2021-06-17 11:23:34.414000+02:00;;Gynecologist;Blood draw;;;
+1515;case_160;2021-06-17 11:23:37.903000+02:00;;Gynecologist;Examine patient;;;
+1515;case_160;2021-06-17 11:23:39.760000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_165
+1515;case_160;2021-06-17 11:23:50.969000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_166
+1515;case_160;2021-06-17 11:23:51.590000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_167
+1515;case_160;2021-06-17 11:23:51.590000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_167
+1515;case_160;2021-06-17 11:24:08.847000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_168
+1515;case_160;2021-06-17 11:24:13.440000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_169
+1616;case_165;2021-06-17 11:24:39.746000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_171
+1616;case_165;2021-06-17 11:24:43.603000+02:00;;Gynecologist;Examine patient;;;
+1616;case_165;2021-06-17 11:24:46.298000+02:00;;Gynecologist;Blood draw;;;
+1616;case_165;2021-06-17 11:24:49.074000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_172
+1616;case_165;2021-06-17 11:24:56.356000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_173
+1616;case_165;2021-06-17 11:24:57.389000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_174
+1616;case_165;2021-06-17 11:24:57.389000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_174
+1717;case_170;2021-06-17 11:25:09.459000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_175
+1717;case_170;2021-06-17 11:25:14.146000+02:00;;Gynecologist;Blood draw;;;
+1717;case_170;2021-06-17 11:25:17.820000+02:00;;Gynecologist;Examine patient;;;
+1717;case_170;2021-06-17 11:25:18.542000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_176
+1717;case_170;2021-06-17 11:25:30.900000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_177
+1717;case_170;2021-06-17 11:25:31.558000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_178
+1717;case_170;2021-06-17 11:25:31.558000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_178
+1818;case_175;2021-06-17 11:25:38.008000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_179
+1818;case_175;2021-06-17 11:25:43.166000+02:00;;Gynecologist;Blood draw;;;
+1818;case_175;2021-06-17 11:25:46.335000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_180
+1818;case_175;2021-06-17 11:26:02.992000+02:00;;Gynecologist;Examine patient;;;
+1818;case_175;2021-06-17 11:26:09.395000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_181
+1818;case_175;2021-06-17 11:26:11.920000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_182
+1818;case_175;2021-06-17 11:26:11.920000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_182
+1919;case_180;2021-06-17 11:26:18.037000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_183
+1919;case_180;2021-06-17 11:26:18.335000+02:00;;Gynecologist;Blood draw;;;
+1919;case_180;2021-06-17 11:26:24.714000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_184
+1919;case_180;2021-06-17 11:26:27.458000+02:00;;Gynecologist;Examine patient;;;
+1919;case_180;2021-06-17 11:26:40.856000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_185
+1919;case_180;2021-06-17 11:26:49.848000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_186
+1919;case_180;2021-06-17 11:26:49.848000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_186
+1919;case_180;2021-06-17 11:27:02.991000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_187
+1919;case_180;2021-06-17 11:27:08.869000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_188
+2020;case_185;2021-06-17 11:27:29.733000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_190
+2020;case_185;2021-06-17 11:27:35.674000+02:00;;Gynecologist;Blood draw;;;
+2020;case_185;2021-06-17 11:27:37.211000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_191
+2020;case_185;2021-06-17 11:27:40.598000+02:00;;Gynecologist;Examine patient;;;
+2020;case_185;2021-06-17 11:27:57.001000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_192
+2020;case_185;2021-06-17 11:27:59.034000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_193
+2020;case_185;2021-06-17 11:27:59.034000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_193
+2020;case_185;2021-06-17 11:28:07.127000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_194
+2020;case_185;2021-06-17 11:28:13.757000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_195
+2121;case_190;2021-06-17 11:29:00.187000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_197
+2121;case_190;2021-06-17 11:29:01.806000+02:00;;Gynecologist;Blood draw;;;
+2121;case_190;2021-06-17 11:29:04.917000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_198
+2121;case_190;2021-06-17 11:29:16.528000+02:00;;Gynecologist;Examine patient;;;
+2121;case_190;2021-06-17 11:29:32.395000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_199
+2121;case_190;2021-06-17 11:29:33.229000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_200
+2121;case_190;2021-06-17 11:29:33.229000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_200
+2121;case_190;2021-06-17 11:29:34.457000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_201
+2121;case_190;2021-06-17 11:29:48.610000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_202
+2222;case_195;2021-06-17 11:30:18.718000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_204
+2222;case_195;2021-06-17 11:30:22.948000+02:00;;Gynecologist;Blood draw;;;
+2222;case_195;2021-06-17 11:30:31.448000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_205
+2222;case_195;2021-06-17 11:30:38.797000+02:00;;Gynecologist;Examine patient;;;
+2222;case_195;2021-06-17 11:30:45.222000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_206
+2222;case_195;2021-06-17 11:30:48.352000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_207
+2222;case_195;2021-06-17 11:30:48.352000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_207
+2222;case_195;2021-06-17 11:30:54.454000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_208
+2222;case_195;2021-06-17 11:31:09.857000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_209
+2323;case_20;2021-06-17 11:02:26.441000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_22
+2323;case_20;2021-06-17 11:02:31.083000+02:00;;Gynecologist;Blood draw;;;
+2323;case_20;2021-06-17 11:02:35.713000+02:00;;Gynecologist;Examine patient;;;
+2323;case_20;2021-06-17 11:02:43.180000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_23
+2323;case_20;2021-06-17 11:02:56.902000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_24
+2323;case_20;2021-06-17 11:02:58.419000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_25
+2323;case_20;2021-06-17 11:02:58.419000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_25
+2323;case_20;2021-06-17 11:02:59.867000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_26
+2323;case_20;2021-06-17 11:03:28.150000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_27
+2424;case_200;2021-06-17 11:31:27.254000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_211
+2424;case_200;2021-06-17 11:31:32.216000+02:00;;Gynecologist;Blood draw;;;
+2424;case_200;2021-06-17 11:31:37.421000+02:00;;Gynecologist;Examine patient;;;
+2424;case_200;2021-06-17 11:31:39.722000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_212
+2424;case_200;2021-06-17 11:31:51.287000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_213
+2424;case_200;2021-06-17 11:31:54.477000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_214
+2424;case_200;2021-06-17 11:31:54.477000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_214
+2525;case_205;2021-06-17 11:32:00.848000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_215
+2525;case_205;2021-06-17 11:32:06.174000+02:00;;Gynecologist;Examine patient;;;
+2525;case_205;2021-06-17 11:32:08.995000+02:00;;Gynecologist;Blood draw;;;
+2525;case_205;2021-06-17 11:32:11.173000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_216
+2525;case_205;2021-06-17 11:32:28.999000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_217
+2525;case_205;2021-06-17 11:32:31.919000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_218
+2525;case_205;2021-06-17 11:32:31.919000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_218
+2525;case_205;2021-06-17 11:32:46.545000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_219
+2525;case_205;2021-06-17 11:33:02.568000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_220
+2626;case_210;2021-06-17 11:33:13.518000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_222
+2626;case_210;2021-06-17 11:33:13.604000+02:00;;Gynecologist;Examine patient;;;
+2626;case_210;2021-06-17 11:33:18.514000+02:00;;Gynecologist;Blood draw;;;
+2626;case_210;2021-06-17 11:33:22.085000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_223
+2626;case_210;2021-06-17 11:33:32.273000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_224
+2626;case_210;2021-06-17 11:33:36.321000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_225
+2626;case_210;2021-06-17 11:33:36.321000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_225
+2727;case_215;2021-06-17 11:33:39.231000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_226
+2727;case_215;2021-06-17 11:33:39.375000+02:00;;Gynecologist;Blood draw;;;
+2727;case_215;2021-06-17 11:33:43.690000+02:00;;Gynecologist;Examine patient;;;
+2727;case_215;2021-06-17 11:33:46.325000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_227
+2727;case_215;2021-06-17 11:33:59.155000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_228
+2727;case_215;2021-06-17 11:34:00.134000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_229
+2727;case_215;2021-06-17 11:34:00.134000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_229
+2727;case_215;2021-06-17 11:34:05.339000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_230
+2727;case_215;2021-06-17 11:34:19.151000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_231
+2828;case_220;2021-06-17 11:34:30.097000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_233
+2828;case_220;2021-06-17 11:34:34.023000+02:00;;Gynecologist;Blood draw;;;
+2828;case_220;2021-06-17 11:34:38.645000+02:00;;Gynecologist;Examine patient;;;
+2828;case_220;2021-06-17 11:34:41.151000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_234
+2828;case_220;2021-06-17 11:34:48.078000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_235
+2828;case_220;2021-06-17 11:34:51.547000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_236
+2828;case_220;2021-06-17 11:34:51.547000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_236
+2828;case_220;2021-06-17 11:34:51.698000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_237
+2828;case_220;2021-06-17 11:35:08.542000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_238
+2929;case_225;2021-06-17 11:35:38.684000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_240
+2929;case_225;2021-06-17 11:35:40.436000+02:00;;Gynecologist;Blood draw;;;
+2929;case_225;2021-06-17 11:35:50.438000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_241
+2929;case_225;2021-06-17 11:36:04.808000+02:00;;Gynecologist;Examine patient;;;
+2929;case_225;2021-06-17 11:36:17.225000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_242
+2929;case_225;2021-06-17 11:36:22.065000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_243
+2929;case_225;2021-06-17 11:36:22.065000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_243
+2929;case_225;2021-06-17 11:36:25.880000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_244
+2929;case_225;2021-06-17 11:36:39.627000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_245
+3030;case_230;2021-06-17 11:37:19.334000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_247
+3030;case_230;2021-06-17 11:37:25.651000+02:00;;Gynecologist;Blood draw;;;
+3030;case_230;2021-06-17 11:37:30.364000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_248
+3030;case_230;2021-06-17 11:37:32.047000+02:00;;Gynecologist;Examine patient;;;
+3030;case_230;2021-06-17 11:37:49.648000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_249
+3030;case_230;2021-06-17 11:37:53.311000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_250
+3030;case_230;2021-06-17 11:37:53.311000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_250
+3030;case_230;2021-06-17 11:37:56.838000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_251
+3030;case_230;2021-06-17 11:38:07.218000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_252
+3131;case_235;2021-06-17 11:38:37.599000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_254
+3131;case_235;2021-06-17 11:38:41.076000+02:00;;Gynecologist;Examine patient;;;
+3131;case_235;2021-06-17 11:38:45.602000+02:00;;Gynecologist;Blood draw;;;
+3131;case_235;2021-06-17 11:38:45.717000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_255
+3131;case_235;2021-06-17 11:38:52.325000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_256
+3131;case_235;2021-06-17 11:38:54.603000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_257
+3131;case_235;2021-06-17 11:38:54.603000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_257
+3131;case_235;2021-06-17 11:39:03.073000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_258
+3131;case_235;2021-06-17 11:39:10.732000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_259
+3232;case_240;2021-06-17 11:39:26.764000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_261
+3232;case_240;2021-06-17 11:39:30.123000+02:00;;Gynecologist;Blood draw;;;
+3232;case_240;2021-06-17 11:39:39.902000+02:00;;Gynecologist;Examine patient;;;
+3232;case_240;2021-06-17 11:39:43.787000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_262
+3232;case_240;2021-06-17 11:39:51.420000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_263
+3232;case_240;2021-06-17 11:39:52.652000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_264
+3232;case_240;2021-06-17 11:39:52.652000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_264
+3333;case_245;2021-06-17 11:40:02.247000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_265
+3333;case_245;2021-06-17 11:40:04.121000+02:00;;Gynecologist;Blood draw;;;
+3333;case_245;2021-06-17 11:40:12.303000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_266
+3333;case_245;2021-06-17 11:40:16.583000+02:00;;Gynecologist;Examine patient;;;
+3333;case_245;2021-06-17 11:40:28.510000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_267
+3333;case_245;2021-06-17 11:40:29.960000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_268
+3333;case_245;2021-06-17 11:40:29.960000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_268
+3333;case_245;2021-06-17 11:40:30.297000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_269
+3333;case_245;2021-06-17 11:40:42.942000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_270
+3434;case_25;2021-06-17 11:03:44.059000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_29
+3434;case_25;2021-06-17 11:03:47.011000+02:00;;Gynecologist;Examine patient;;;
+3434;case_25;2021-06-17 11:03:51.248000+02:00;;Gynecologist;Blood draw;;;
+3434;case_25;2021-06-17 11:03:55.402000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_30
+3434;case_25;2021-06-17 11:04:10.919000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_31
+3434;case_25;2021-06-17 11:04:13.016000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_32
+3434;case_25;2021-06-17 11:04:13.016000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_32
+3434;case_25;2021-06-17 11:04:19.282000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_33
+3434;case_25;2021-06-17 11:04:45.974000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_34
+3535;case_250;2021-06-17 11:41:15.400000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_272
+3535;case_250;2021-06-17 11:41:19.115000+02:00;;Gynecologist;Examine patient;;;
+3535;case_250;2021-06-17 11:41:24.058000+02:00;;Gynecologist;Blood draw;;;
+3535;case_250;2021-06-17 11:41:25.102000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_273
+3535;case_250;2021-06-17 11:41:38.869000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_274
+3535;case_250;2021-06-17 11:41:41.611000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_275
+3535;case_250;2021-06-17 11:41:41.611000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_275
+3535;case_250;2021-06-17 11:41:46.542000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_276
+3535;case_250;2021-06-17 11:42:14.247000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_277
+3636;case_255;2021-06-17 11:42:29.314000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_279
+3636;case_255;2021-06-17 11:42:34.367000+02:00;;Gynecologist;Examine patient;;;
+3636;case_255;2021-06-17 11:42:37.432000+02:00;;Gynecologist;Blood draw;;;
+3636;case_255;2021-06-17 11:42:40.852000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_280
+3636;case_255;2021-06-17 11:42:49.266000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_281
+3636;case_255;2021-06-17 11:42:51.585000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_282
+3636;case_255;2021-06-17 11:42:51.585000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_282
+3737;case_260;2021-06-17 11:42:55.634000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_283
+3737;case_260;2021-06-17 11:42:59.269000+02:00;;Gynecologist;Blood draw;;;
+3737;case_260;2021-06-17 11:43:05.437000+02:00;;Gynecologist;Examine patient;;;
+3737;case_260;2021-06-17 11:43:10.731000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_284
+3737;case_260;2021-06-17 11:43:26.160000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_285
+3737;case_260;2021-06-17 11:43:26.406000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_286
+3737;case_260;2021-06-17 11:43:26.406000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_286
+3838;case_265;2021-06-17 11:43:37.378000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_287
+3838;case_265;2021-06-17 11:43:42.106000+02:00;;Gynecologist;Blood draw;;;
+3838;case_265;2021-06-17 11:43:45.169000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_288
+3838;case_265;2021-06-17 11:44:14.370000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_289
+3838;case_265;2021-06-17 11:44:17.858000+02:00;;Gynecologist;Examine patient;;;
+3838;case_265;2021-06-17 11:44:21.508000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_290
+3838;case_265;2021-06-17 11:44:21.508000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_290
+3939;case_270;2021-06-17 11:44:30.598000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_291
+3939;case_270;2021-06-17 11:44:36.690000+02:00;;Gynecologist;Blood draw;;;
+3939;case_270;2021-06-17 11:44:40.040000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_292
+3939;case_270;2021-06-17 11:44:43.890000+02:00;;Gynecologist;Examine patient;;;
+3939;case_270;2021-06-17 11:44:55.028000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_293
+3939;case_270;2021-06-17 11:44:55.154000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_294
+3939;case_270;2021-06-17 11:44:55.154000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_294
+4040;case_275;2021-06-17 11:44:57.779000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_295
+4040;case_275;2021-06-17 11:45:02.613000+02:00;;Gynecologist;Blood draw;;;
+4040;case_275;2021-06-17 11:45:04.424000+02:00;;Gynecologist;Examine patient;;;
+4040;case_275;2021-06-17 11:45:12.277000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_296
+4040;case_275;2021-06-17 11:45:15.208000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_297
+4040;case_275;2021-06-17 11:45:19.802000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_298
+4040;case_275;2021-06-17 11:45:19.802000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_298
+4040;case_275;2021-06-17 11:45:21.789000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_299
+4040;case_275;2021-06-17 11:45:26.421000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_300
+4141;case_280;2021-06-17 11:46:00.456000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_302
+4141;case_280;2021-06-17 11:46:00.748000+02:00;;Gynecologist;Blood draw;;;
+4141;case_280;2021-06-17 11:46:01.682000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_303
+4141;case_280;2021-06-17 11:46:20.894000+02:00;;Gynecologist;Examine patient;;;
+4141;case_280;2021-06-17 11:46:27.839000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_304
+4141;case_280;2021-06-17 11:46:29.096000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_305
+4141;case_280;2021-06-17 11:46:29.096000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_305
+4141;case_280;2021-06-17 11:46:33.390000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_306
+4141;case_280;2021-06-17 11:46:50.573000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_307
+4242;case_285;2021-06-17 11:47:20.158000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_309
+4242;case_285;2021-06-17 11:47:23.937000+02:00;;Gynecologist;Examine patient;;;
+4242;case_285;2021-06-17 11:47:26.733000+02:00;;Gynecologist;Blood draw;;;
+4242;case_285;2021-06-17 11:47:27.659000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_310
+4242;case_285;2021-06-17 11:47:39.597000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_311
+4242;case_285;2021-06-17 11:47:45.982000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_312
+4242;case_285;2021-06-17 11:47:45.982000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_312
+4343;case_290;2021-06-17 11:47:51.092000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_313
+4343;case_290;2021-06-17 11:47:56.954000+02:00;;Gynecologist;Examine patient;;;
+4343;case_290;2021-06-17 11:47:58.864000+02:00;;Gynecologist;Blood draw;;;
+4343;case_290;2021-06-17 11:48:01.699000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_314
+4343;case_290;2021-06-17 11:48:15.550000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_315
+4343;case_290;2021-06-17 11:48:15.902000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_316
+4343;case_290;2021-06-17 11:48:15.902000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_316
+4444;case_295;2021-06-17 11:48:23.328000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_317
+4444;case_295;2021-06-17 11:48:30.862000+02:00;;Gynecologist;Examine patient;;;
+4444;case_295;2021-06-17 11:48:31.969000+02:00;;Gynecologist;Blood draw;;;
+4444;case_295;2021-06-17 11:48:34.981000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_318
+4444;case_295;2021-06-17 11:48:50.494000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_319
+4444;case_295;2021-06-17 11:48:51.386000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_320
+4444;case_295;2021-06-17 11:48:51.386000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_320
+4444;case_295;2021-06-17 11:48:58.929000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_321
+4444;case_295;2021-06-17 11:49:09.465000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_322
+4545;case_30;2021-06-17 11:05:04.846000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_36
+4545;case_30;2021-06-17 11:05:08.129000+02:00;;Gynecologist;Blood draw;;;
+4545;case_30;2021-06-17 11:05:13.124000+02:00;;Gynecologist;Examine patient;;;
+4545;case_30;2021-06-17 11:05:17.412000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_37
+4545;case_30;2021-06-17 11:05:22.136000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_38
+4545;case_30;2021-06-17 11:05:25.674000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_39
+4545;case_30;2021-06-17 11:05:25.674000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_39
+4646;case_300;2021-06-17 11:49:23.777000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_324
+4646;case_300;2021-06-17 11:49:28.256000+02:00;;Gynecologist;Blood draw;;;
+4646;case_300;2021-06-17 11:49:33.175000+02:00;;Gynecologist;Examine patient;;;
+4646;case_300;2021-06-17 11:49:33.922000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_325
+4646;case_300;2021-06-17 11:49:43.871000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_326
+4646;case_300;2021-06-17 11:49:52.296000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_327
+4646;case_300;2021-06-17 11:49:52.296000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_327
+4646;case_300;2021-06-17 11:50:04.511000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_328
+4646;case_300;2021-06-17 11:50:06.538000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_329
+4747;case_305;2021-06-17 11:50:27.802000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_331
+4747;case_305;2021-06-17 11:50:28.928000+02:00;;Gynecologist;Blood draw;;;
+4747;case_305;2021-06-17 11:50:39.353000+02:00;;Gynecologist;Examine patient;;;
+4747;case_305;2021-06-17 11:50:43.684000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_332
+4747;case_305;2021-06-17 11:50:47.781000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_333
+4747;case_305;2021-06-17 11:50:50.593000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_334
+4747;case_305;2021-06-17 11:50:50.593000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_334
+4848;case_310;2021-06-17 11:51:02.772000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_335
+4848;case_310;2021-06-17 11:51:03.248000+02:00;;Gynecologist;Blood draw;;;
+4848;case_310;2021-06-17 11:51:08.232000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_336
+4848;case_310;2021-06-17 11:51:10.519000+02:00;;Gynecologist;Examine patient;;;
+4848;case_310;2021-06-17 11:51:23.592000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_337
+4848;case_310;2021-06-17 11:51:24.727000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_338
+4848;case_310;2021-06-17 11:51:24.727000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_338
+4848;case_310;2021-06-17 11:51:38.556000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_339
+4848;case_310;2021-06-17 11:51:46.818000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_340
+4949;case_315;2021-06-17 11:52:13.088000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_342
+4949;case_315;2021-06-17 11:52:14.486000+02:00;;Gynecologist;Examine patient;;;
+4949;case_315;2021-06-17 11:52:16.386000+02:00;;Gynecologist;Blood draw;;;
+4949;case_315;2021-06-17 11:52:20.658000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_343
+4949;case_315;2021-06-17 11:52:35.530000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_344
+4949;case_315;2021-06-17 11:52:36.275000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_345
+4949;case_315;2021-06-17 11:52:36.275000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_345
+4949;case_315;2021-06-17 11:52:40.136000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_346
+4949;case_315;2021-06-17 11:52:47.378000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_347
+5050;case_320;2021-06-17 11:53:07.658000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_349
+5050;case_320;2021-06-17 11:53:14.136000+02:00;;Gynecologist;Blood draw;;;
+5050;case_320;2021-06-17 11:53:20.441000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_350
+5050;case_320;2021-06-17 11:53:30.414000+02:00;;Gynecologist;Examine patient;;;
+5050;case_320;2021-06-17 11:53:42.651000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_351
+5050;case_320;2021-06-17 11:53:47.397000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_352
+5050;case_320;2021-06-17 11:53:47.397000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_352
+5050;case_320;2021-06-17 11:53:55.332000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_353
+5050;case_320;2021-06-17 11:54:06.601000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_354
+5151;case_325;2021-06-17 11:54:21.936000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_356
+5151;case_325;2021-06-17 11:54:29.684000+02:00;;Gynecologist;Examine patient;;;
+5151;case_325;2021-06-17 11:54:30.694000+02:00;;Gynecologist;Blood draw;;;
+5151;case_325;2021-06-17 11:54:31.782000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_357
+5151;case_325;2021-06-17 11:54:35.037000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_358
+5151;case_325;2021-06-17 11:54:35.706000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_359
+5151;case_325;2021-06-17 11:54:35.706000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_359
+5151;case_325;2021-06-17 11:54:40.507000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_360
+5151;case_325;2021-06-17 11:54:53.426000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_361
+5252;case_330;2021-06-17 11:55:23.653000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_363
+5252;case_330;2021-06-17 11:55:25.874000+02:00;;Gynecologist;Blood draw;;;
+5252;case_330;2021-06-17 11:55:33.255000+02:00;;Gynecologist;Examine patient;;;
+5252;case_330;2021-06-17 11:55:34.494000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_364
+5252;case_330;2021-06-17 11:55:45.112000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_365
+5252;case_330;2021-06-17 11:55:48.301000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_366
+5252;case_330;2021-06-17 11:55:48.301000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_366
+5252;case_330;2021-06-17 11:55:52.178000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_367
+5252;case_330;2021-06-17 11:55:55.497000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_368
+5353;case_335;2021-06-17 11:56:34.091000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_370
+5353;case_335;2021-06-17 11:56:39.169000+02:00;;Gynecologist;Examine patient;;;
+5353;case_335;2021-06-17 11:56:39.925000+02:00;;Gynecologist;Blood draw;;;
+5353;case_335;2021-06-17 11:56:43.910000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_371
+5353;case_335;2021-06-17 11:56:51.645000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_372
+5353;case_335;2021-06-17 11:56:54.210000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_373
+5353;case_335;2021-06-17 11:56:54.210000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_373
+5353;case_335;2021-06-17 11:57:04.476000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_374
+5353;case_335;2021-06-17 11:57:06.690000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_375
+5454;case_340;2021-06-17 11:57:37.804000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_377
+5454;case_340;2021-06-17 11:57:43.070000+02:00;;Gynecologist;Blood draw;;;
+5454;case_340;2021-06-17 11:57:49.055000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_378
+5454;case_340;2021-06-17 11:58:01.704000+02:00;;Gynecologist;Examine patient;;;
+5454;case_340;2021-06-17 11:58:14.483000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_379
+5454;case_340;2021-06-17 11:58:14.806000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_380
+5454;case_340;2021-06-17 11:58:14.806000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_380
+5555;case_345;2021-06-17 11:58:19.332000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_381
+5555;case_345;2021-06-17 11:58:19.685000+02:00;;Gynecologist;Examine patient;;;
+5555;case_345;2021-06-17 11:58:23.956000+02:00;;Gynecologist;Blood draw;;;
+5555;case_345;2021-06-17 11:58:26.510000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_382
+5555;case_345;2021-06-17 11:58:41.029000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_383
+5555;case_345;2021-06-17 11:58:43.796000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_384
+5555;case_345;2021-06-17 11:58:43.796000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_384
+5656;case_35;2021-06-17 11:05:31.760000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_40
+5656;case_35;2021-06-17 11:05:40.152000+02:00;;Gynecologist;Examine patient;;;
+5656;case_35;2021-06-17 11:05:40.202000+02:00;;Gynecologist;Blood draw;;;
+5656;case_35;2021-06-17 11:05:43.511000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_41
+5656;case_35;2021-06-17 11:05:54.870000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_42
+5656;case_35;2021-06-17 11:05:57.619000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_43
+5656;case_35;2021-06-17 11:05:57.619000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_43
+5656;case_35;2021-06-17 11:06:01.031000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_44
+5656;case_35;2021-06-17 11:06:18.329000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_45
+5757;case_350;2021-06-17 11:58:48.700000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_385
+5757;case_350;2021-06-17 11:58:48.976000+02:00;;Gynecologist;Blood draw;;;
+5757;case_350;2021-06-17 11:58:49.832000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_386
+5757;case_350;2021-06-17 11:59:01.628000+02:00;;Gynecologist;Examine patient;;;
+5757;case_350;2021-06-17 11:59:06.426000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_387
+5757;case_350;2021-06-17 11:59:07.964000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_388
+5757;case_350;2021-06-17 11:59:07.964000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_388
+5757;case_350;2021-06-17 11:59:15.967000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_389
+5757;case_350;2021-06-17 11:59:26.535000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_390
+5858;case_355;2021-06-17 11:59:48.731000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_392
+5858;case_355;2021-06-17 11:59:53.268000+02:00;;Gynecologist;Examine patient;;;
+5858;case_355;2021-06-17 12:00:02.117000+02:00;;Gynecologist;Blood draw;;;
+5858;case_355;2021-06-17 12:00:02.772000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_393
+5858;case_355;2021-06-17 12:00:17.039000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_394
+5858;case_355;2021-06-17 12:00:20.492000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_395
+5858;case_355;2021-06-17 12:00:20.492000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_395
+5858;case_355;2021-06-17 12:00:29.249000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_396
+5858;case_355;2021-06-17 12:00:46.356000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_397
+5959;case_360;2021-06-17 12:01:11.087000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_399
+5959;case_360;2021-06-17 12:01:14.851000+02:00;;Gynecologist;Blood draw;;;
+5959;case_360;2021-06-17 12:01:19.105000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_400
+5959;case_360;2021-06-17 12:01:32.883000+02:00;;Gynecologist;Examine patient;;;
+5959;case_360;2021-06-17 12:01:37.718000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_401
+5959;case_360;2021-06-17 12:01:38.968000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_402
+5959;case_360;2021-06-17 12:01:38.968000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_402
+5959;case_360;2021-06-17 12:01:52.125000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_403
+5959;case_360;2021-06-17 12:02:07.556000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_404
+6060;case_365;2021-06-17 12:02:24.907000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_406
+6060;case_365;2021-06-17 12:02:29.212000+02:00;;Gynecologist;Examine patient;;;
+6060;case_365;2021-06-17 12:02:33.988000+02:00;;Gynecologist;Blood draw;;;
+6060;case_365;2021-06-17 12:02:38.865000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_407
+6060;case_365;2021-06-17 12:02:56.448000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_408
+6060;case_365;2021-06-17 12:02:57.286000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_409
+6060;case_365;2021-06-17 12:02:57.286000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_409
+6161;case_370;2021-06-17 12:03:07.506000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_410
+6161;case_370;2021-06-17 12:03:11.876000+02:00;;Gynecologist;Examine patient;;;
+6161;case_370;2021-06-17 12:03:18.419000+02:00;;Gynecologist;Blood draw;;;
+6161;case_370;2021-06-17 12:03:23.148000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_411
+6161;case_370;2021-06-17 12:03:33.052000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_412
+6161;case_370;2021-06-17 12:03:36.968000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_413
+6161;case_370;2021-06-17 12:03:36.968000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_413
+6161;case_370;2021-06-17 12:03:41.233000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_414
+6161;case_370;2021-06-17 12:04:00.823000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_415
+6262;case_375;2021-06-17 12:04:19.612000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_417
+6262;case_375;2021-06-17 12:04:25.696000+02:00;;Gynecologist;Examine patient;;;
+6262;case_375;2021-06-17 12:04:28.915000+02:00;;Gynecologist;Blood draw;;;
+6262;case_375;2021-06-17 12:04:29.340000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_418
+6262;case_375;2021-06-17 12:04:41.188000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_419
+6262;case_375;2021-06-17 12:04:43.716000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_420
+6262;case_375;2021-06-17 12:04:43.716000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_420
+6262;case_375;2021-06-17 12:04:46.644000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_421
+6262;case_375;2021-06-17 12:04:50.125000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_422
+6363;case_380;2021-06-17 12:05:27.753000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_424
+6363;case_380;2021-06-17 12:05:30.532000+02:00;;Gynecologist;Examine patient;;;
+6363;case_380;2021-06-17 12:05:34.762000+02:00;;Gynecologist;Blood draw;;;
+6363;case_380;2021-06-17 12:05:37.415000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_425
+6363;case_380;2021-06-17 12:05:42.788000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_426
+6363;case_380;2021-06-17 12:05:47.610000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_427
+6363;case_380;2021-06-17 12:05:47.610000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_427
+6464;case_385;2021-06-17 12:05:55.648000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_428
+6464;case_385;2021-06-17 12:05:59.180000+02:00;;Gynecologist;Examine patient;;;
+6464;case_385;2021-06-17 12:06:02.121000+02:00;;Gynecologist;Blood draw;;;
+6464;case_385;2021-06-17 12:06:03.317000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_429
+6464;case_385;2021-06-17 12:06:14.202000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_430
+6464;case_385;2021-06-17 12:06:14.860000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_431
+6464;case_385;2021-06-17 12:06:14.860000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_431
+6464;case_385;2021-06-17 12:06:27.955000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_432
+6464;case_385;2021-06-17 12:06:39.270000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_433
+6565;case_390;2021-06-17 12:06:47.240000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_435
+6565;case_390;2021-06-17 12:06:49.831000+02:00;;Gynecologist;Examine patient;;;
+6565;case_390;2021-06-17 12:06:51.223000+02:00;;Gynecologist;Blood draw;;;
+6565;case_390;2021-06-17 12:06:52.777000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_436
+6565;case_390;2021-06-17 12:07:04.721000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_437
+6565;case_390;2021-06-17 12:07:07.762000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_438
+6565;case_390;2021-06-17 12:07:07.762000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_438
+6666;case_395;2021-06-17 12:07:17.202000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_439
+6666;case_395;2021-06-17 12:07:17.992000+02:00;;Gynecologist;Blood draw;;;
+6666;case_395;2021-06-17 12:07:19.005000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_440
+6666;case_395;2021-06-17 12:07:28.782000+02:00;;Gynecologist;Examine patient;;;
+6666;case_395;2021-06-17 12:07:36.372000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_441
+6666;case_395;2021-06-17 12:07:41.472000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_442
+6666;case_395;2021-06-17 12:07:41.472000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_442
+6767;case_40;2021-06-17 11:06:38.889000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_47
+6767;case_40;2021-06-17 11:06:42.556000+02:00;;Gynecologist;Examine patient;;;
+6767;case_40;2021-06-17 11:06:43.712000+02:00;;Gynecologist;Blood draw;;;
+6767;case_40;2021-06-17 11:06:44.910000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_48
+6767;case_40;2021-06-17 11:06:52.716000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_49
+6767;case_40;2021-06-17 11:06:55.866000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_50
+6767;case_40;2021-06-17 11:06:55.866000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_50
+6868;case_400;2021-06-17 12:07:50.308000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_443
+6868;case_400;2021-06-17 12:07:52.322000+02:00;;Gynecologist;Blood draw;;;
+6868;case_400;2021-06-17 12:07:57.394000+02:00;;Gynecologist;Examine patient;;;
+6868;case_400;2021-06-17 12:08:01.770000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_444
+6868;case_400;2021-06-17 12:08:08.096000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_445
+6868;case_400;2021-06-17 12:08:08.115000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_446
+6868;case_400;2021-06-17 12:08:08.115000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_446
+6969;case_405;2021-06-17 12:08:14.336000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_447
+6969;case_405;2021-06-17 12:08:19.174000+02:00;;Gynecologist;Blood draw;;;
+6969;case_405;2021-06-17 12:08:25.645000+02:00;;Gynecologist;Examine patient;;;
+6969;case_405;2021-06-17 12:08:29.836000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_448
+6969;case_405;2021-06-17 12:08:39.058000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_449
+6969;case_405;2021-06-17 12:08:40.307000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_450
+6969;case_405;2021-06-17 12:08:40.307000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_450
+6969;case_405;2021-06-17 12:08:43.856000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_451
+6969;case_405;2021-06-17 12:09:31.921000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_452
+7070;case_410;2021-06-17 12:09:38.765000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_454
+7070;case_410;2021-06-17 12:09:44.351000+02:00;;Gynecologist;Examine patient;;;
+7070;case_410;2021-06-17 12:09:48.541000+02:00;;Gynecologist;Blood draw;;;
+7070;case_410;2021-06-17 12:09:53.094000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_455
+7070;case_410;2021-06-17 12:09:58.450000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_456
+7070;case_410;2021-06-17 12:10:02.752000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_457
+7070;case_410;2021-06-17 12:10:02.752000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_457
+7171;case_415;2021-06-17 12:10:10.855000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_458
+7171;case_415;2021-06-17 12:10:14.752000+02:00;;Gynecologist;Examine patient;;;
+7171;case_415;2021-06-17 12:10:21.682000+02:00;;Gynecologist;Blood draw;;;
+7171;case_415;2021-06-17 12:10:25.811000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_459
+7171;case_415;2021-06-17 12:10:39.436000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_460
+7171;case_415;2021-06-17 12:10:41.847000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_461
+7171;case_415;2021-06-17 12:10:41.847000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_461
+7171;case_415;2021-06-17 12:10:43.159000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_462
+7171;case_415;2021-06-17 12:10:58.766000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_463
+7272;case_420;2021-06-17 12:11:35.332000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_465
+7272;case_420;2021-06-17 12:11:36.401000+02:00;;Gynecologist;Blood draw;;;
+7272;case_420;2021-06-17 12:11:41.199000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_466
+7272;case_420;2021-06-17 12:11:51.640000+02:00;;Gynecologist;Examine patient;;;
+7272;case_420;2021-06-17 12:12:01.843000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_467
+7272;case_420;2021-06-17 12:12:02.471000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_468
+7272;case_420;2021-06-17 12:12:02.471000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_468
+7272;case_420;2021-06-17 12:12:05.741000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_469
+7272;case_420;2021-06-17 12:12:18.819000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_470
+7373;case_425;2021-06-17 12:12:43.176000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_472
+7373;case_425;2021-06-17 12:12:44.560000+02:00;;Gynecologist;Examine patient;;;
+7373;case_425;2021-06-17 12:12:51.535000+02:00;;Gynecologist;Blood draw;;;
+7373;case_425;2021-06-17 12:12:53.191000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_473
+7373;case_425;2021-06-17 12:13:03.576000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_474
+7373;case_425;2021-06-17 12:13:03.772000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_475
+7373;case_425;2021-06-17 12:13:03.772000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_475
+7474;case_430;2021-06-17 12:13:14.924000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_476
+7474;case_430;2021-06-17 12:13:18.016000+02:00;;Gynecologist;Examine patient;;;
+7474;case_430;2021-06-17 12:13:21.355000+02:00;;Gynecologist;Blood draw;;;
+7474;case_430;2021-06-17 12:13:23.977000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_477
+7474;case_430;2021-06-17 12:13:34.575000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_478
+7474;case_430;2021-06-17 12:13:37.956000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_479
+7474;case_430;2021-06-17 12:13:37.956000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_479
+7575;case_435;2021-06-17 12:13:47.035000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_480
+7575;case_435;2021-06-17 12:13:51.951000+02:00;;Gynecologist;Blood draw;;;
+7575;case_435;2021-06-17 12:13:54.114000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_481
+7575;case_435;2021-06-17 12:13:57.543000+02:00;;Gynecologist;Examine patient;;;
+7575;case_435;2021-06-17 12:14:16.570000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_482
+7575;case_435;2021-06-17 12:14:18.148000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_483
+7575;case_435;2021-06-17 12:14:18.148000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_483
+7676;case_440;2021-06-17 12:14:29.872000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_484
+7676;case_440;2021-06-17 12:14:31.645000+02:00;;Gynecologist;Blood draw;;;
+7676;case_440;2021-06-17 12:14:34.986000+02:00;;Gynecologist;Examine patient;;;
+7676;case_440;2021-06-17 12:14:37.887000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_485
+7676;case_440;2021-06-17 12:14:50.154000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_486
+7676;case_440;2021-06-17 12:14:54.415000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_487
+7676;case_440;2021-06-17 12:14:54.415000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_487
+7676;case_440;2021-06-17 12:15:02.192000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_488
+7676;case_440;2021-06-17 12:15:19.608000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_489
+7777;case_445;2021-06-17 12:15:48.499000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_491
+7777;case_445;2021-06-17 12:15:49.805000+02:00;;Gynecologist;Blood draw;;;
+7777;case_445;2021-06-17 12:15:53.053000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_492
+7777;case_445;2021-06-17 12:16:07.360000+02:00;;Gynecologist;Examine patient;;;
+7777;case_445;2021-06-17 12:16:21.421000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_493
+7777;case_445;2021-06-17 12:16:22.852000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_494
+7777;case_445;2021-06-17 12:16:22.852000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_494
+7878;case_45;2021-06-17 11:07:01.517000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_51
+7878;case_45;2021-06-17 11:07:06.411000+02:00;;Gynecologist;Examine patient;;;
+7878;case_45;2021-06-17 11:07:13.899000+02:00;;Gynecologist;Blood draw;;;
+7878;case_45;2021-06-17 11:07:18.465000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_52
+7878;case_45;2021-06-17 11:07:33.286000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_53
+7878;case_45;2021-06-17 11:07:36.631000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_54
+7878;case_45;2021-06-17 11:07:36.631000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_54
+7979;case_450;2021-06-17 12:16:31.659000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_495
+7979;case_450;2021-06-17 12:16:34.626000+02:00;;Gynecologist;Blood draw;;;
+7979;case_450;2021-06-17 12:16:41.389000+02:00;;Gynecologist;Examine patient;;;
+7979;case_450;2021-06-17 12:16:45.427000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_496
+7979;case_450;2021-06-17 12:16:58.858000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_497
+7979;case_450;2021-06-17 12:17:00.569000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_498
+7979;case_450;2021-06-17 12:17:00.569000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_498
+8080;case_455;2021-06-17 12:17:10.146000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_499
+8080;case_455;2021-06-17 12:17:13.647000+02:00;;Gynecologist;Examine patient;;;
+8080;case_455;2021-06-17 12:17:18.129000+02:00;;Gynecologist;Blood draw;;;
+8080;case_455;2021-06-17 12:17:21.296000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_500
+8080;case_455;2021-06-17 12:17:30.895000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_501
+8080;case_455;2021-06-17 12:17:33.489000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_502
+8080;case_455;2021-06-17 12:17:33.489000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_502
+8181;case_460;2021-06-17 12:17:41.621000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_503
+8181;case_460;2021-06-17 12:17:49.110000+02:00;;Gynecologist;Blood draw;;;
+8181;case_460;2021-06-17 12:17:52.435000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_504
+8181;case_460;2021-06-17 12:17:56.697000+02:00;;Gynecologist;Examine patient;;;
+8181;case_460;2021-06-17 12:18:08.101000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_505
+8181;case_460;2021-06-17 12:18:10.216000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_506
+8181;case_460;2021-06-17 12:18:10.216000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_506
+8282;case_465;2021-06-17 12:18:25.921000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_507
+8282;case_465;2021-06-17 12:18:30.659000+02:00;;Gynecologist;Blood draw;;;
+8282;case_465;2021-06-17 12:18:34.589000+02:00;;Gynecologist;Examine patient;;;
+8282;case_465;2021-06-17 12:18:38.289000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_508
+8282;case_465;2021-06-17 12:18:53.168000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_509
+8282;case_465;2021-06-17 12:18:57.005000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_510
+8282;case_465;2021-06-17 12:18:57.005000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_510
+8282;case_465;2021-06-17 12:19:04.555000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_511
+8282;case_465;2021-06-17 12:19:11.494000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_512
+8383;case_470;2021-06-17 12:19:34.516000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_514
+8383;case_470;2021-06-17 12:19:41.396000+02:00;;Gynecologist;Examine patient;;;
+8383;case_470;2021-06-17 12:19:43.599000+02:00;;Gynecologist;Blood draw;;;
+8383;case_470;2021-06-17 12:19:48.197000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_515
+8383;case_470;2021-06-17 12:19:54.056000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_516
+8383;case_470;2021-06-17 12:19:57.235000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_517
+8383;case_470;2021-06-17 12:19:57.235000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_517
+8383;case_470;2021-06-17 12:19:57.448000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_518
+8383;case_470;2021-06-17 12:20:01.141000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_519
+8484;case_475;2021-06-17 12:20:40.042000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_521
+8484;case_475;2021-06-17 12:20:44.435000+02:00;;Gynecologist;Examine patient;;;
+8484;case_475;2021-06-17 12:20:49.172000+02:00;;Gynecologist;Blood draw;;;
+8484;case_475;2021-06-17 12:20:52.486000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_522
+8484;case_475;2021-06-17 12:21:09.139000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_523
+8484;case_475;2021-06-17 12:21:10.451000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_524
+8484;case_475;2021-06-17 12:21:10.451000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_524
+8484;case_475;2021-06-17 12:21:11.181000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_525
+8484;case_475;2021-06-17 12:21:26.008000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_526
+8585;case_480;2021-06-17 12:21:44.399000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_528
+8585;case_480;2021-06-17 12:21:47.065000+02:00;;Gynecologist;Examine patient;;;
+8585;case_480;2021-06-17 12:21:52.960000+02:00;;Gynecologist;Blood draw;;;
+8585;case_480;2021-06-17 12:21:56.307000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_529
+8585;case_480;2021-06-17 12:22:13.396000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_530
+8585;case_480;2021-06-17 12:22:16.396000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_531
+8585;case_480;2021-06-17 12:22:16.396000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_531
+8686;case_485;2021-06-17 12:22:27.886000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_532
+8686;case_485;2021-06-17 12:22:33.544000+02:00;;Gynecologist;Examine patient;;;
+8686;case_485;2021-06-17 12:22:36.500000+02:00;;Gynecologist;Blood draw;;;
+8686;case_485;2021-06-17 12:22:41.083000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_533
+8686;case_485;2021-06-17 12:22:53.048000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_534
+8686;case_485;2021-06-17 12:22:54.388000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_535
+8686;case_485;2021-06-17 12:22:54.388000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_535
+8686;case_485;2021-06-17 12:22:57.887000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_536
+8686;case_485;2021-06-17 12:23:04.346000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_537
+8787;case_490;2021-06-17 12:23:27.424000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_539
+8787;case_490;2021-06-17 12:23:28.045000+02:00;;Gynecologist;Blood draw;;;
+8787;case_490;2021-06-17 12:23:34.505000+02:00;;Gynecologist;Examine patient;;;
+8787;case_490;2021-06-17 12:23:34.974000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_540
+8787;case_490;2021-06-17 12:23:45.807000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_541
+8787;case_490;2021-06-17 12:23:49.954000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_542
+8787;case_490;2021-06-17 12:23:49.954000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_542
+8888;case_495;2021-06-17 12:23:56.321000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_543
+8888;case_495;2021-06-17 12:24:02.253000+02:00;;Gynecologist;Examine patient;;;
+8888;case_495;2021-06-17 12:24:03.021000+02:00;;Gynecologist;Blood draw;;;
+8888;case_495;2021-06-17 12:24:08+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_544
+8888;case_495;2021-06-17 12:24:22.181000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_545
+8888;case_495;2021-06-17 12:24:27.603000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_546
+8888;case_495;2021-06-17 12:24:27.603000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_546
+8888;case_495;2021-06-17 12:24:29.970000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_547
+8888;case_495;2021-06-17 12:24:32.106000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_548
+8989;case_5;2021-06-17 10:59:27.090000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_4
+8989;case_5;2021-06-17 10:59:32.126000+02:00;;Gynecologist;Examine patient;;;
+8989;case_5;2021-06-17 10:59:33.695000+02:00;;Gynecologist;Blood draw;;;
+8989;case_5;2021-06-17 10:59:36.540000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_5
+8989;case_5;2021-06-17 10:59:44.850000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_6
+8989;case_5;2021-06-17 10:59:44.871000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_7
+8989;case_5;2021-06-17 10:59:44.871000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_7
+9090;case_50;2021-06-17 11:07:42.772000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_55
+9090;case_50;2021-06-17 11:07:51.295000+02:00;;Gynecologist;Examine patient;;;
+9090;case_50;2021-06-17 11:07:52.432000+02:00;;Gynecologist;Blood draw;;;
+9090;case_50;2021-06-17 11:07:52.873000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_56
+9090;case_50;2021-06-17 11:08:04.961000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_57
+9090;case_50;2021-06-17 11:08:08.641000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_58
+9090;case_50;2021-06-17 11:08:08.641000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_58
+9090;case_50;2021-06-17 11:08:13.255000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_59
+9090;case_50;2021-06-17 11:08:16.800000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_60
+9191;case_55;2021-06-17 11:08:53.538000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_62
+9191;case_55;2021-06-17 11:08:59.772000+02:00;;Gynecologist;Examine patient;;;
+9191;case_55;2021-06-17 11:09:01.921000+02:00;;Gynecologist;Blood draw;;;
+9191;case_55;2021-06-17 11:09:06.267000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_63
+9191;case_55;2021-06-17 11:09:16.812000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_64
+9191;case_55;2021-06-17 11:09:17.334000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_65
+9191;case_55;2021-06-17 11:09:17.334000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_65
+9292;case_60;2021-06-17 11:09:23.400000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_66
+9292;case_60;2021-06-17 11:09:27.721000+02:00;;Gynecologist;Examine patient;;;
+9292;case_60;2021-06-17 11:09:29.929000+02:00;;Gynecologist;Blood draw;;;
+9292;case_60;2021-06-17 11:09:33.898000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_67
+9292;case_60;2021-06-17 11:09:43.617000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_68
+9292;case_60;2021-06-17 11:09:45.283000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_69
+9292;case_60;2021-06-17 11:09:45.283000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_69
+9393;case_65;2021-06-17 11:09:51.611000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_70
+9393;case_65;2021-06-17 11:09:56.377000+02:00;;Gynecologist;Examine patient;;;
+9393;case_65;2021-06-17 11:09:56.676000+02:00;;Gynecologist;Blood draw;;;
+9393;case_65;2021-06-17 11:09:57.086000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_71
+9393;case_65;2021-06-17 11:10:04.614000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_72
+9393;case_65;2021-06-17 11:10:07.997000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_73
+9393;case_65;2021-06-17 11:10:07.997000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_73
+9494;case_70;2021-06-17 11:10:18.797000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_74
+9494;case_70;2021-06-17 11:10:23.858000+02:00;;Gynecologist;Blood draw;;;
+9494;case_70;2021-06-17 11:10:25.560000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_75
+9494;case_70;2021-06-17 11:10:28.265000+02:00;;Gynecologist;Examine patient;;;
+9494;case_70;2021-06-17 11:10:44.351000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_76
+9494;case_70;2021-06-17 11:10:44.642000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_77
+9494;case_70;2021-06-17 11:10:44.642000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_77
+9494;case_70;2021-06-17 11:10:47.947000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_78
+9494;case_70;2021-06-17 11:10:56.759000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_79
+9595;case_75;2021-06-17 11:11:32.223000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_81
+9595;case_75;2021-06-17 11:11:36.866000+02:00;;Gynecologist;Examine patient;;;
+9595;case_75;2021-06-17 11:11:39.446000+02:00;;Gynecologist;Blood draw;;;
+9595;case_75;2021-06-17 11:11:40.442000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_82
+9595;case_75;2021-06-17 11:11:48.196000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_83
+9595;case_75;2021-06-17 11:11:50.625000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_84
+9595;case_75;2021-06-17 11:11:50.625000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_84
+9696;case_80;2021-06-17 11:11:55.713000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_85
+9696;case_80;2021-06-17 11:11:58.317000+02:00;;Gynecologist;Examine patient;;;
+9696;case_80;2021-06-17 11:12:03.447000+02:00;;Gynecologist;Blood draw;;;
+9696;case_80;2021-06-17 11:12:06.311000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_86
+9696;case_80;2021-06-17 11:12:11.979000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_87
+9696;case_80;2021-06-17 11:12:16.063000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_88
+9696;case_80;2021-06-17 11:12:16.063000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_88
+9797;case_85;2021-06-17 11:12:26.308000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_89
+9797;case_85;2021-06-17 11:12:30.578000+02:00;;Gynecologist;Examine patient;;;
+9797;case_85;2021-06-17 11:12:35.335000+02:00;;Gynecologist;Blood draw;;;
+9797;case_85;2021-06-17 11:12:39.138000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_90
+9797;case_85;2021-06-17 11:12:50.449000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_91
+9797;case_85;2021-06-17 11:12:54.446000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_92
+9797;case_85;2021-06-17 11:12:54.446000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_92
+9898;case_90;2021-06-17 11:13:05.095000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_93
+9898;case_90;2021-06-17 11:13:08.737000+02:00;;Gynecologist;Blood draw;;;
+9898;case_90;2021-06-17 11:13:12.527000+02:00;;Gynecologist;Examine patient;;;
+9898;case_90;2021-06-17 11:13:16.278000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_94
+9898;case_90;2021-06-17 11:13:22.442000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_95
+9898;case_90;2021-06-17 11:13:26.766000+02:00;send;Gynecologist;Send prescription;prescription;;prescription_96
+9898;case_90;2021-06-17 11:13:26.766000+02:00;send;Gynecologist;Receive prescription;prescription;;prescription_96
+9999;case_95;2021-06-17 11:13:34.942000+02:00;receive;Gynecologist;Receive disease info;disease;start;disease_97
+9999;case_95;2021-06-17 11:13:41.913000+02:00;;Gynecologist;Blood draw;;;
+9999;case_95;2021-06-17 11:13:44.896000+02:00;;Gynecologist;Examine patient;;;
+9999;case_95;2021-06-17 11:13:45.463000+02:00;send;Gynecologist;Send blood sample;blood sample;;blood sample_98
+9999;case_95;2021-06-17 11:13:54.504000+02:00;receive;Gynecologist;Receive blood analysis results;results;;results_99
+9999;case_95;2021-06-17 11:13:55.558000+02:00;send;Gynecologist;Communicate the need to hospitalise;hospitalisation;;hospitalisation_100
+9999;case_95;2021-06-17 11:13:55.558000+02:00;send;Gynecologist;Hospitalisation needed;hospitalisation;;hospitalisation_100
+9999;case_95;2021-06-17 11:14:00.202000+02:00;send;Gynecologist;Require patient admission;admission request;;admission request_101
+9999;case_95;2021-06-17 11:14:01.547000+02:00;send;Gynecologist;Forward patient analysis results;patient analysis;;patient analysis_102

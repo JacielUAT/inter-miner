@@ -1,0 +1,1401 @@
+id_new;IdCase;eventType;concept:name;msgType;time:timestamp;msgInstanceId;msgFlow;org:group
+00;case_0;start;Receive payment request;receive;2021-06-16 15:45:27.172000+02:00;request_0;request;Bank
+00;case_0;;Process payment information;;2021-06-16 15:45:30.659000+02:00;;;Bank
+00;case_0;;Change account;send;2021-06-16 15:45:32.022000+02:00;account_1;account;Bank
+00;case_0;;Payment confirmed;send;2021-06-16 15:45:32.022000+02:00;account_1;account;Bank
+11;case_100;start;Receive payment request;receive;2021-06-16 16:15:53.875000+02:00;request_100;request;Bank
+11;case_100;;Process payment information;;2021-06-16 16:15:57.680000+02:00;;;Bank
+11;case_100;;Change account;send;2021-06-16 16:16:07.196000+02:00;account_101;account;Bank
+11;case_100;;Payment confirmed;send;2021-06-16 16:16:07.196000+02:00;account_101;account;Bank
+22;case_104;start;Receive payment request;receive;2021-06-16 16:17:18.001000+02:00;request_104;request;Bank
+22;case_104;;Process payment information;;2021-06-16 16:17:22.620000+02:00;;;Bank
+22;case_104;;Change account;send;2021-06-16 16:17:24.967000+02:00;account_105;account;Bank
+22;case_104;;Payment confirmed;send;2021-06-16 16:17:24.967000+02:00;account_105;account;Bank
+33;case_108;start;Receive payment request;receive;2021-06-16 16:18:20.877000+02:00;request_108;request;Bank
+33;case_108;;Process payment information;;2021-06-16 16:18:27.756000+02:00;;;Bank
+33;case_108;;Change account;send;2021-06-16 16:18:28.701000+02:00;account_109;account;Bank
+33;case_108;;Payment confirmed;send;2021-06-16 16:18:28.701000+02:00;account_109;account;Bank
+44;case_112;start;Receive payment request;receive;2021-06-16 16:19:16.717000+02:00;request_112;request;Bank
+44;case_112;;Process payment information;;2021-06-16 16:19:19.677000+02:00;;;Bank
+44;case_112;;Change account;send;2021-06-16 16:19:20.064000+02:00;account_113;account;Bank
+44;case_112;;Payment confirmed;send;2021-06-16 16:19:20.064000+02:00;account_113;account;Bank
+55;case_116;start;Receive payment request;receive;2021-06-16 16:20:21.102000+02:00;request_116;request;Bank
+55;case_116;;Process payment information;;2021-06-16 16:20:23.030000+02:00;;;Bank
+55;case_116;;Change account;send;2021-06-16 16:20:24.982000+02:00;account_117;account;Bank
+55;case_116;;Payment confirmed;send;2021-06-16 16:20:24.982000+02:00;account_117;account;Bank
+66;case_12;start;Receive payment request;receive;2021-06-16 15:48:57.338000+02:00;request_12;request;Bank
+66;case_12;;Process payment information;;2021-06-16 15:49:00.464000+02:00;;;Bank
+66;case_12;;Change account;send;2021-06-16 15:49:05.128000+02:00;account_13;account;Bank
+66;case_12;;Payment confirmed;send;2021-06-16 15:49:05.128000+02:00;account_13;account;Bank
+77;case_120;start;Receive payment request;receive;2021-06-16 16:21:20.129000+02:00;request_120;request;Bank
+77;case_120;;Process payment information;;2021-06-16 16:21:22.352000+02:00;;;Bank
+77;case_120;;Change account;send;2021-06-16 16:21:28.655000+02:00;account_121;account;Bank
+77;case_120;;Payment confirmed;send;2021-06-16 16:21:28.655000+02:00;account_121;account;Bank
+88;case_124;start;Receive payment request;receive;2021-06-16 16:22:45.671000+02:00;request_124;request;Bank
+88;case_124;;Process payment information;;2021-06-16 16:22:50.622000+02:00;;;Bank
+88;case_124;;Change account;send;2021-06-16 16:22:51.192000+02:00;account_125;account;Bank
+88;case_124;;Payment confirmed;send;2021-06-16 16:22:51.192000+02:00;account_125;account;Bank
+99;case_128;start;Receive payment request;receive;2021-06-16 16:24:18.057000+02:00;request_128;request;Bank
+99;case_128;;Process payment information;;2021-06-16 16:24:21.422000+02:00;;;Bank
+99;case_128;;Change account;send;2021-06-16 16:24:24.175000+02:00;account_129;account;Bank
+99;case_128;;Payment confirmed;send;2021-06-16 16:24:24.175000+02:00;account_129;account;Bank
+1010;case_132;start;Receive payment request;receive;2021-06-16 16:25:36.539000+02:00;request_132;request;Bank
+1010;case_132;;Process payment information;;2021-06-16 16:25:42.926000+02:00;;;Bank
+1010;case_132;;Change account;send;2021-06-16 16:25:52.876000+02:00;account_133;account;Bank
+1010;case_132;;Payment confirmed;send;2021-06-16 16:25:52.876000+02:00;account_133;account;Bank
+1111;case_136;start;Receive payment request;receive;2021-06-16 16:26:58.471000+02:00;request_136;request;Bank
+1111;case_136;;Process payment information;;2021-06-16 16:26:59.381000+02:00;;;Bank
+1111;case_136;;Change account;send;2021-06-16 16:27:04.206000+02:00;account_137;account;Bank
+1111;case_136;;Payment confirmed;send;2021-06-16 16:27:04.206000+02:00;account_137;account;Bank
+1212;case_140;start;Receive payment request;receive;2021-06-16 16:28:16.233000+02:00;request_140;request;Bank
+1212;case_140;;Process payment information;;2021-06-16 16:28:23.732000+02:00;;;Bank
+1212;case_140;;Change account;send;2021-06-16 16:28:25.270000+02:00;account_141;account;Bank
+1212;case_140;;Payment confirmed;send;2021-06-16 16:28:25.270000+02:00;account_141;account;Bank
+1313;case_144;start;Receive payment request;receive;2021-06-16 16:29:24.176000+02:00;request_144;request;Bank
+1313;case_144;;Process payment information;;2021-06-16 16:29:34.513000+02:00;;;Bank
+1313;case_144;;Change account;send;2021-06-16 16:29:35.438000+02:00;account_145;account;Bank
+1313;case_144;;Payment confirmed;send;2021-06-16 16:29:35.438000+02:00;account_145;account;Bank
+1414;case_148;start;Receive payment request;receive;2021-06-16 16:30:38.912000+02:00;request_148;request;Bank
+1414;case_148;;Process payment information;;2021-06-16 16:31:02.681000+02:00;;;Bank
+1414;case_148;;Change account;send;2021-06-16 16:31:03.700000+02:00;account_149;account;Bank
+1414;case_148;;Payment confirmed;send;2021-06-16 16:31:03.700000+02:00;account_149;account;Bank
+1515;case_152;start;Receive payment request;receive;2021-06-16 16:31:55.869000+02:00;request_152;request;Bank
+1515;case_152;;Process payment information;;2021-06-16 16:32:00.440000+02:00;;;Bank
+1515;case_152;;Change account;send;2021-06-16 16:32:02.755000+02:00;account_153;account;Bank
+1515;case_152;;Payment confirmed;send;2021-06-16 16:32:02.755000+02:00;account_153;account;Bank
+1616;case_156;start;Receive payment request;receive;2021-06-16 16:32:59.030000+02:00;request_156;request;Bank
+1616;case_156;;Process payment information;;2021-06-16 16:33:02.873000+02:00;;;Bank
+1616;case_156;;Change account;send;2021-06-16 16:33:02.898000+02:00;account_157;account;Bank
+1616;case_156;;Payment confirmed;send;2021-06-16 16:33:02.898000+02:00;account_157;account;Bank
+1717;case_16;start;Receive payment request;receive;2021-06-16 15:50:23.934000+02:00;request_16;request;Bank
+1717;case_16;;Process payment information;;2021-06-16 15:50:28.391000+02:00;;;Bank
+1717;case_16;;Change account;send;2021-06-16 15:50:30.877000+02:00;account_17;account;Bank
+1717;case_16;;Payment confirmed;send;2021-06-16 15:50:30.877000+02:00;account_17;account;Bank
+1818;case_160;start;Receive payment request;receive;2021-06-16 16:34:04.015000+02:00;request_160;request;Bank
+1818;case_160;;Process payment information;;2021-06-16 16:34:09.804000+02:00;;;Bank
+1818;case_160;;Change account;send;2021-06-16 16:34:14.951000+02:00;account_161;account;Bank
+1818;case_160;;Payment confirmed;send;2021-06-16 16:34:14.951000+02:00;account_161;account;Bank
+1919;case_164;start;Receive payment request;receive;2021-06-16 16:35:12.620000+02:00;request_164;request;Bank
+1919;case_164;;Process payment information;;2021-06-16 16:35:16.721000+02:00;;;Bank
+1919;case_164;;Change account;send;2021-06-16 16:35:21.334000+02:00;account_165;account;Bank
+1919;case_164;;Payment confirmed;send;2021-06-16 16:35:21.334000+02:00;account_165;account;Bank
+2020;case_168;start;Receive payment request;receive;2021-06-16 16:36:27.731000+02:00;request_168;request;Bank
+2020;case_168;;Process payment information;;2021-06-16 16:36:31.131000+02:00;;;Bank
+2020;case_168;;Change account;send;2021-06-16 16:36:34.479000+02:00;account_169;account;Bank
+2020;case_168;;Payment confirmed;send;2021-06-16 16:36:34.479000+02:00;account_169;account;Bank
+2121;case_172;start;Receive payment request;receive;2021-06-16 16:37:40.202000+02:00;request_172;request;Bank
+2121;case_172;;Process payment information;;2021-06-16 16:37:46.336000+02:00;;;Bank
+2121;case_172;;Change account;send;2021-06-16 16:37:51.495000+02:00;account_173;account;Bank
+2121;case_172;;Payment confirmed;send;2021-06-16 16:37:51.495000+02:00;account_173;account;Bank
+2222;case_176;start;Receive payment request;receive;2021-06-16 16:38:45.292000+02:00;request_176;request;Bank
+2222;case_176;;Process payment information;;2021-06-16 16:38:47.334000+02:00;;;Bank
+2222;case_176;;Change account;send;2021-06-16 16:38:51.875000+02:00;account_177;account;Bank
+2222;case_176;;Payment confirmed;send;2021-06-16 16:38:51.875000+02:00;account_177;account;Bank
+2323;case_180;start;Receive payment request;receive;2021-06-16 16:40:05.356000+02:00;request_180;request;Bank
+2323;case_180;;Process payment information;;2021-06-16 16:40:07.281000+02:00;;;Bank
+2323;case_180;;Change account;send;2021-06-16 16:40:11.762000+02:00;account_181;account;Bank
+2323;case_180;;Payment confirmed;send;2021-06-16 16:40:11.762000+02:00;account_181;account;Bank
+2424;case_184;start;Receive payment request;receive;2021-06-16 16:41:11.661000+02:00;request_184;request;Bank
+2424;case_184;;Process payment information;;2021-06-16 16:41:16.107000+02:00;;;Bank
+2424;case_184;;Change account;send;2021-06-16 16:41:20.454000+02:00;account_185;account;Bank
+2424;case_184;;Payment confirmed;send;2021-06-16 16:41:20.454000+02:00;account_185;account;Bank
+2525;case_188;start;Receive payment request;receive;2021-06-16 16:42:24.739000+02:00;request_188;request;Bank
+2525;case_188;;Process payment information;;2021-06-16 16:42:29.822000+02:00;;;Bank
+2525;case_188;;Change account;send;2021-06-16 16:42:31.190000+02:00;account_189;account;Bank
+2525;case_188;;Payment confirmed;send;2021-06-16 16:42:31.190000+02:00;account_189;account;Bank
+2626;case_192;start;Receive payment request;receive;2021-06-16 16:43:24.970000+02:00;request_192;request;Bank
+2626;case_192;;Process payment information;;2021-06-16 16:43:33.668000+02:00;;;Bank
+2626;case_192;;Change account;send;2021-06-16 16:43:38.443000+02:00;account_193;account;Bank
+2626;case_192;;Payment confirmed;send;2021-06-16 16:43:38.443000+02:00;account_193;account;Bank
+2727;case_196;start;Receive payment request;receive;2021-06-16 16:44:16.620000+02:00;request_196;request;Bank
+2727;case_196;;Process payment information;;2021-06-16 16:44:17.141000+02:00;;;Bank
+2727;case_196;;Change account;send;2021-06-16 16:44:27.568000+02:00;account_197;account;Bank
+2727;case_196;;Payment confirmed;send;2021-06-16 16:44:27.568000+02:00;account_197;account;Bank
+2828;case_20;start;Receive payment request;receive;2021-06-16 15:51:29.239000+02:00;request_20;request;Bank
+2828;case_20;;Process payment information;;2021-06-16 15:51:34.152000+02:00;;;Bank
+2828;case_20;;Change account;send;2021-06-16 15:51:34.263000+02:00;account_21;account;Bank
+2828;case_20;;Payment confirmed;send;2021-06-16 15:51:34.263000+02:00;account_21;account;Bank
+2929;case_200;start;Receive payment request;receive;2021-06-16 16:45:26.912000+02:00;request_200;request;Bank
+2929;case_200;;Process payment information;;2021-06-16 16:45:31.202000+02:00;;;Bank
+2929;case_200;;Change account;send;2021-06-16 16:45:33.527000+02:00;account_201;account;Bank
+2929;case_200;;Payment confirmed;send;2021-06-16 16:45:33.527000+02:00;account_201;account;Bank
+3030;case_204;start;Receive payment request;receive;2021-06-16 16:46:23.702000+02:00;request_204;request;Bank
+3030;case_204;;Process payment information;;2021-06-16 16:46:26.040000+02:00;;;Bank
+3030;case_204;;Change account;send;2021-06-16 16:46:30.908000+02:00;account_205;account;Bank
+3030;case_204;;Payment confirmed;send;2021-06-16 16:46:30.908000+02:00;account_205;account;Bank
+3131;case_208;start;Receive payment request;receive;2021-06-16 16:47:39.537000+02:00;request_208;request;Bank
+3131;case_208;;Process payment information;;2021-06-16 16:47:47.131000+02:00;;;Bank
+3131;case_208;;Change account;send;2021-06-16 16:47:51.184000+02:00;account_209;account;Bank
+3131;case_208;;Payment confirmed;send;2021-06-16 16:47:51.184000+02:00;account_209;account;Bank
+3232;case_212;start;Receive payment request;receive;2021-06-16 16:48:50.272000+02:00;request_212;request;Bank
+3232;case_212;;Process payment information;;2021-06-16 16:48:55.263000+02:00;;;Bank
+3232;case_212;;Change account;send;2021-06-16 16:48:59.551000+02:00;account_213;account;Bank
+3232;case_212;;Payment confirmed;send;2021-06-16 16:48:59.551000+02:00;account_213;account;Bank
+3333;case_216;start;Receive payment request;receive;2021-06-16 16:50:24.533000+02:00;request_216;request;Bank
+3333;case_216;;Process payment information;;2021-06-16 16:50:25.022000+02:00;;;Bank
+3333;case_216;;Change account;send;2021-06-16 16:50:25.133000+02:00;account_217;account;Bank
+3333;case_216;;Payment confirmed;send;2021-06-16 16:50:25.133000+02:00;account_217;account;Bank
+3434;case_220;start;Receive payment request;receive;2021-06-16 16:51:26.535000+02:00;request_220;request;Bank
+3434;case_220;;Process payment information;;2021-06-16 16:51:29.103000+02:00;;;Bank
+3434;case_220;;Change account;send;2021-06-16 16:51:33.036000+02:00;account_221;account;Bank
+3434;case_220;;Payment confirmed;send;2021-06-16 16:51:33.036000+02:00;account_221;account;Bank
+3535;case_224;start;Receive payment request;receive;2021-06-16 16:52:27.752000+02:00;request_224;request;Bank
+3535;case_224;;Process payment information;;2021-06-16 16:52:30.767000+02:00;;;Bank
+3535;case_224;;Change account;send;2021-06-16 16:52:37.912000+02:00;account_225;account;Bank
+3535;case_224;;Payment confirmed;send;2021-06-16 16:52:37.912000+02:00;account_225;account;Bank
+3636;case_228;start;Receive payment request;receive;2021-06-16 16:53:40.759000+02:00;request_228;request;Bank
+3636;case_228;;Process payment information;;2021-06-16 16:53:45.165000+02:00;;;Bank
+3636;case_228;;Change account;send;2021-06-16 16:53:47.405000+02:00;account_229;account;Bank
+3636;case_228;;Payment confirmed;send;2021-06-16 16:53:47.405000+02:00;account_229;account;Bank
+3737;case_232;start;Receive payment request;receive;2021-06-16 16:54:36.802000+02:00;request_232;request;Bank
+3737;case_232;;Process payment information;;2021-06-16 16:54:37.034000+02:00;;;Bank
+3737;case_232;;Change account;send;2021-06-16 16:54:37.157000+02:00;account_233;account;Bank
+3737;case_232;;Payment confirmed;send;2021-06-16 16:54:37.157000+02:00;account_233;account;Bank
+3838;case_236;start;Receive payment request;receive;2021-06-16 16:56:06.981000+02:00;request_236;request;Bank
+3838;case_236;;Process payment information;;2021-06-16 16:56:14.863000+02:00;;;Bank
+3838;case_236;;Change account;send;2021-06-16 16:56:15.442000+02:00;account_237;account;Bank
+3838;case_236;;Payment confirmed;send;2021-06-16 16:56:15.442000+02:00;account_237;account;Bank
+3939;case_24;start;Receive payment request;receive;2021-06-16 15:52:47.127000+02:00;request_24;request;Bank
+3939;case_24;;Process payment information;;2021-06-16 15:52:50.882000+02:00;;;Bank
+3939;case_24;;Change account;send;2021-06-16 15:52:54.521000+02:00;account_25;account;Bank
+3939;case_24;;Payment confirmed;send;2021-06-16 15:52:54.521000+02:00;account_25;account;Bank
+4040;case_240;start;Receive payment request;receive;2021-06-16 16:57:12.033000+02:00;request_240;request;Bank
+4040;case_240;;Process payment information;;2021-06-16 16:57:12.906000+02:00;;;Bank
+4040;case_240;;Change account;send;2021-06-16 16:57:17.058000+02:00;account_241;account;Bank
+4040;case_240;;Payment confirmed;send;2021-06-16 16:57:17.058000+02:00;account_241;account;Bank
+4141;case_244;start;Receive payment request;receive;2021-06-16 16:58:07.589000+02:00;request_244;request;Bank
+4141;case_244;;Process payment information;;2021-06-16 16:58:14.374000+02:00;;;Bank
+4141;case_244;;Change account;send;2021-06-16 16:58:15.045000+02:00;account_245;account;Bank
+4141;case_244;;Payment confirmed;send;2021-06-16 16:58:15.045000+02:00;account_245;account;Bank
+4242;case_248;start;Receive payment request;receive;2021-06-16 16:59:26.855000+02:00;request_248;request;Bank
+4242;case_248;;Process payment information;;2021-06-16 16:59:29.607000+02:00;;;Bank
+4242;case_248;;Change account;send;2021-06-16 16:59:30.897000+02:00;account_249;account;Bank
+4242;case_248;;Payment confirmed;send;2021-06-16 16:59:30.897000+02:00;account_249;account;Bank
+4343;case_252;start;Receive payment request;receive;2021-06-16 17:00:37.034000+02:00;request_252;request;Bank
+4343;case_252;;Process payment information;;2021-06-16 17:00:39.069000+02:00;;;Bank
+4343;case_252;;Change account;send;2021-06-16 17:00:39.253000+02:00;account_253;account;Bank
+4343;case_252;;Payment confirmed;send;2021-06-16 17:00:39.253000+02:00;account_253;account;Bank
+4444;case_256;start;Receive payment request;receive;2021-06-16 17:02:03.278000+02:00;request_256;request;Bank
+4444;case_256;;Process payment information;;2021-06-16 17:02:07.159000+02:00;;;Bank
+4444;case_256;;Change account;send;2021-06-16 17:02:11.891000+02:00;account_257;account;Bank
+4444;case_256;;Payment confirmed;send;2021-06-16 17:02:11.891000+02:00;account_257;account;Bank
+4545;case_260;start;Receive payment request;receive;2021-06-16 17:03:13.817000+02:00;request_260;request;Bank
+4545;case_260;;Process payment information;;2021-06-16 17:03:14.757000+02:00;;;Bank
+4545;case_260;;Change account;send;2021-06-16 17:03:23.511000+02:00;account_261;account;Bank
+4545;case_260;;Payment confirmed;send;2021-06-16 17:03:23.511000+02:00;account_261;account;Bank
+4646;case_264;start;Receive payment request;receive;2021-06-16 17:04:22.206000+02:00;request_264;request;Bank
+4646;case_264;;Process payment information;;2021-06-16 17:04:23.459000+02:00;;;Bank
+4646;case_264;;Change account;send;2021-06-16 17:04:31.303000+02:00;account_265;account;Bank
+4646;case_264;;Payment confirmed;send;2021-06-16 17:04:31.303000+02:00;account_265;account;Bank
+4747;case_268;start;Receive payment request;receive;2021-06-16 17:05:57.340000+02:00;request_268;request;Bank
+4747;case_268;;Process payment information;;2021-06-16 17:06:00.069000+02:00;;;Bank
+4747;case_268;;Change account;send;2021-06-16 17:06:04.086000+02:00;account_269;account;Bank
+4747;case_268;;Payment confirmed;send;2021-06-16 17:06:04.086000+02:00;account_269;account;Bank
+4848;case_272;start;Receive payment request;receive;2021-06-16 17:07:06.309000+02:00;request_272;request;Bank
+4848;case_272;;Process payment information;;2021-06-16 17:07:09.571000+02:00;;;Bank
+4848;case_272;;Change account;send;2021-06-16 17:07:10.389000+02:00;account_273;account;Bank
+4848;case_272;;Payment confirmed;send;2021-06-16 17:07:10.389000+02:00;account_273;account;Bank
+4949;case_276;start;Receive payment request;receive;2021-06-16 17:08:10.323000+02:00;request_276;request;Bank
+4949;case_276;;Process payment information;;2021-06-16 17:08:12.403000+02:00;;;Bank
+4949;case_276;;Change account;send;2021-06-16 17:08:14.082000+02:00;account_277;account;Bank
+4949;case_276;;Payment confirmed;send;2021-06-16 17:08:14.082000+02:00;account_277;account;Bank
+5050;case_28;start;Receive payment request;receive;2021-06-16 15:53:59.207000+02:00;request_28;request;Bank
+5050;case_28;;Process payment information;;2021-06-16 15:54:03.272000+02:00;;;Bank
+5050;case_28;;Change account;send;2021-06-16 15:54:07.620000+02:00;account_29;account;Bank
+5050;case_28;;Payment confirmed;send;2021-06-16 15:54:07.620000+02:00;account_29;account;Bank
+5151;case_280;start;Receive payment request;receive;2021-06-16 17:09:15.764000+02:00;request_280;request;Bank
+5151;case_280;;Process payment information;;2021-06-16 17:09:23.733000+02:00;;;Bank
+5151;case_280;;Change account;send;2021-06-16 17:09:35.326000+02:00;account_281;account;Bank
+5151;case_280;;Payment confirmed;send;2021-06-16 17:09:35.326000+02:00;account_281;account;Bank
+5252;case_284;start;Receive payment request;receive;2021-06-16 17:10:36.035000+02:00;request_284;request;Bank
+5252;case_284;;Process payment information;;2021-06-16 17:10:39.533000+02:00;;;Bank
+5252;case_284;;Change account;send;2021-06-16 17:10:42.157000+02:00;account_285;account;Bank
+5252;case_284;;Payment confirmed;send;2021-06-16 17:10:42.157000+02:00;account_285;account;Bank
+5353;case_288;start;Receive payment request;receive;2021-06-16 17:11:32.446000+02:00;request_288;request;Bank
+5353;case_288;;Process payment information;;2021-06-16 17:11:39.957000+02:00;;;Bank
+5353;case_288;;Change account;send;2021-06-16 17:11:42.649000+02:00;account_289;account;Bank
+5353;case_288;;Payment confirmed;send;2021-06-16 17:11:42.649000+02:00;account_289;account;Bank
+5454;case_292;start;Receive payment request;receive;2021-06-16 17:12:37.460000+02:00;request_292;request;Bank
+5454;case_292;;Process payment information;;2021-06-16 17:12:37.565000+02:00;;;Bank
+5454;case_292;;Change account;send;2021-06-16 17:12:39.887000+02:00;account_293;account;Bank
+5454;case_292;;Payment confirmed;send;2021-06-16 17:12:39.887000+02:00;account_293;account;Bank
+5555;case_296;start;Receive payment request;receive;2021-06-16 17:13:57.574000+02:00;request_296;request;Bank
+5555;case_296;;Process payment information;;2021-06-16 17:14:01.099000+02:00;;;Bank
+5555;case_296;;Change account;send;2021-06-16 17:14:05.931000+02:00;account_297;account;Bank
+5555;case_296;;Payment confirmed;send;2021-06-16 17:14:05.931000+02:00;account_297;account;Bank
+5656;case_300;start;Receive payment request;receive;2021-06-16 17:15:09.977000+02:00;request_300;request;Bank
+5656;case_300;;Process payment information;;2021-06-16 17:15:11.628000+02:00;;;Bank
+5656;case_300;;Change account;send;2021-06-16 17:15:14.607000+02:00;account_301;account;Bank
+5656;case_300;;Payment confirmed;send;2021-06-16 17:15:14.607000+02:00;account_301;account;Bank
+5757;case_304;start;Receive payment request;receive;2021-06-16 17:16:15.521000+02:00;request_304;request;Bank
+5757;case_304;;Process payment information;;2021-06-16 17:16:18.646000+02:00;;;Bank
+5757;case_304;;Change account;send;2021-06-16 17:16:19.797000+02:00;account_305;account;Bank
+5757;case_304;;Payment confirmed;send;2021-06-16 17:16:19.797000+02:00;account_305;account;Bank
+5858;case_308;start;Receive payment request;receive;2021-06-16 17:17:13.700000+02:00;request_308;request;Bank
+5858;case_308;;Process payment information;;2021-06-16 17:17:15.984000+02:00;;;Bank
+5858;case_308;;Change account;send;2021-06-16 17:17:18.760000+02:00;account_309;account;Bank
+5858;case_308;;Payment confirmed;send;2021-06-16 17:17:18.760000+02:00;account_309;account;Bank
+5959;case_312;start;Receive payment request;receive;2021-06-16 17:18:12.594000+02:00;request_312;request;Bank
+5959;case_312;;Process payment information;;2021-06-16 17:18:16.510000+02:00;;;Bank
+5959;case_312;;Change account;send;2021-06-16 17:18:27.269000+02:00;account_313;account;Bank
+5959;case_312;;Payment confirmed;send;2021-06-16 17:18:27.269000+02:00;account_313;account;Bank
+6060;case_316;start;Receive payment request;receive;2021-06-16 17:19:38.622000+02:00;request_316;request;Bank
+6060;case_316;;Process payment information;;2021-06-16 17:19:40.899000+02:00;;;Bank
+6060;case_316;;Change account;send;2021-06-16 17:19:45.806000+02:00;account_317;account;Bank
+6060;case_316;;Payment confirmed;send;2021-06-16 17:19:45.806000+02:00;account_317;account;Bank
+6161;case_32;start;Receive payment request;receive;2021-06-16 15:55:21.254000+02:00;request_32;request;Bank
+6161;case_32;;Process payment information;;2021-06-16 15:55:23.530000+02:00;;;Bank
+6161;case_32;;Change account;send;2021-06-16 15:55:23.847000+02:00;account_33;account;Bank
+6161;case_32;;Payment confirmed;send;2021-06-16 15:55:23.847000+02:00;account_33;account;Bank
+6262;case_320;start;Receive payment request;receive;2021-06-16 17:21:01.332000+02:00;request_320;request;Bank
+6262;case_320;;Process payment information;;2021-06-16 17:21:07.231000+02:00;;;Bank
+6262;case_320;;Change account;send;2021-06-16 17:21:12.320000+02:00;account_321;account;Bank
+6262;case_320;;Payment confirmed;send;2021-06-16 17:21:12.320000+02:00;account_321;account;Bank
+6363;case_324;start;Receive payment request;receive;2021-06-16 17:22:14.231000+02:00;request_324;request;Bank
+6363;case_324;;Process payment information;;2021-06-16 17:22:14.470000+02:00;;;Bank
+6363;case_324;;Change account;send;2021-06-16 17:22:16.766000+02:00;account_325;account;Bank
+6363;case_324;;Payment confirmed;send;2021-06-16 17:22:16.766000+02:00;account_325;account;Bank
+6464;case_328;start;Receive payment request;receive;2021-06-16 17:23:08.523000+02:00;request_328;request;Bank
+6464;case_328;;Process payment information;;2021-06-16 17:23:13.126000+02:00;;;Bank
+6464;case_328;;Change account;send;2021-06-16 17:23:16.735000+02:00;account_329;account;Bank
+6464;case_328;;Payment confirmed;send;2021-06-16 17:23:16.735000+02:00;account_329;account;Bank
+6565;case_332;start;Receive payment request;receive;2021-06-16 17:24:15.079000+02:00;request_332;request;Bank
+6565;case_332;;Process payment information;;2021-06-16 17:24:16.182000+02:00;;;Bank
+6565;case_332;;Change account;send;2021-06-16 17:24:22.596000+02:00;account_333;account;Bank
+6565;case_332;;Payment confirmed;send;2021-06-16 17:24:22.596000+02:00;account_333;account;Bank
+6666;case_336;start;Receive payment request;receive;2021-06-16 17:25:14.594000+02:00;request_336;request;Bank
+6666;case_336;;Process payment information;;2021-06-16 17:25:16.723000+02:00;;;Bank
+6666;case_336;;Change account;send;2021-06-16 17:25:20.054000+02:00;account_337;account;Bank
+6666;case_336;;Payment confirmed;send;2021-06-16 17:25:20.054000+02:00;account_337;account;Bank
+6767;case_340;start;Receive payment request;receive;2021-06-16 17:26:40.623000+02:00;request_340;request;Bank
+6767;case_340;;Process payment information;;2021-06-16 17:26:41.307000+02:00;;;Bank
+6767;case_340;;Change account;send;2021-06-16 17:26:42.853000+02:00;account_341;account;Bank
+6767;case_340;;Payment confirmed;send;2021-06-16 17:26:42.853000+02:00;account_341;account;Bank
+6868;case_344;start;Receive payment request;receive;2021-06-16 17:27:32.138000+02:00;request_344;request;Bank
+6868;case_344;;Process payment information;;2021-06-16 17:27:43.473000+02:00;;;Bank
+6868;case_344;;Change account;send;2021-06-16 17:27:51.314000+02:00;account_345;account;Bank
+6868;case_344;;Payment confirmed;send;2021-06-16 17:27:51.314000+02:00;account_345;account;Bank
+6969;case_348;start;Receive payment request;receive;2021-06-16 17:28:56.948000+02:00;request_348;request;Bank
+6969;case_348;;Process payment information;;2021-06-16 17:29:01.629000+02:00;;;Bank
+6969;case_348;;Change account;send;2021-06-16 17:29:05.821000+02:00;account_349;account;Bank
+6969;case_348;;Payment confirmed;send;2021-06-16 17:29:05.821000+02:00;account_349;account;Bank
+7070;case_352;start;Receive payment request;receive;2021-06-16 17:30:02.253000+02:00;request_352;request;Bank
+7070;case_352;;Process payment information;;2021-06-16 17:30:09.831000+02:00;;;Bank
+7070;case_352;;Change account;send;2021-06-16 17:30:14.773000+02:00;account_353;account;Bank
+7070;case_352;;Payment confirmed;send;2021-06-16 17:30:14.773000+02:00;account_353;account;Bank
+7171;case_356;start;Receive payment request;receive;2021-06-16 17:31:27.534000+02:00;request_356;request;Bank
+7171;case_356;;Process payment information;;2021-06-16 17:31:34.271000+02:00;;;Bank
+7171;case_356;;Change account;send;2021-06-16 17:31:39.873000+02:00;account_357;account;Bank
+7171;case_356;;Payment confirmed;send;2021-06-16 17:31:39.873000+02:00;account_357;account;Bank
+7272;case_36;start;Receive payment request;receive;2021-06-16 15:56:32.424000+02:00;request_36;request;Bank
+7272;case_36;;Process payment information;;2021-06-16 15:56:33.721000+02:00;;;Bank
+7272;case_36;;Change account;send;2021-06-16 15:56:36.365000+02:00;account_37;account;Bank
+7272;case_36;;Payment confirmed;send;2021-06-16 15:56:36.365000+02:00;account_37;account;Bank
+7373;case_360;start;Receive payment request;receive;2021-06-16 17:32:39.268000+02:00;request_360;request;Bank
+7373;case_360;;Process payment information;;2021-06-16 17:32:40.203000+02:00;;;Bank
+7373;case_360;;Change account;send;2021-06-16 17:32:43.600000+02:00;account_361;account;Bank
+7373;case_360;;Payment confirmed;send;2021-06-16 17:32:43.600000+02:00;account_361;account;Bank
+7474;case_364;start;Receive payment request;receive;2021-06-16 17:33:34.453000+02:00;request_364;request;Bank
+7474;case_364;;Process payment information;;2021-06-16 17:33:37.611000+02:00;;;Bank
+7474;case_364;;Change account;send;2021-06-16 17:33:39.633000+02:00;account_365;account;Bank
+7474;case_364;;Payment confirmed;send;2021-06-16 17:33:39.633000+02:00;account_365;account;Bank
+7575;case_368;start;Receive payment request;receive;2021-06-16 17:34:46.459000+02:00;request_368;request;Bank
+7575;case_368;;Process payment information;;2021-06-16 17:34:52.199000+02:00;;;Bank
+7575;case_368;;Change account;send;2021-06-16 17:34:53.595000+02:00;account_369;account;Bank
+7575;case_368;;Payment confirmed;send;2021-06-16 17:34:53.595000+02:00;account_369;account;Bank
+7676;case_372;start;Receive payment request;receive;2021-06-16 17:36:00.249000+02:00;request_372;request;Bank
+7676;case_372;;Process payment information;;2021-06-16 17:36:03.489000+02:00;;;Bank
+7676;case_372;;Change account;send;2021-06-16 17:36:07.938000+02:00;account_373;account;Bank
+7676;case_372;;Payment confirmed;send;2021-06-16 17:36:07.938000+02:00;account_373;account;Bank
+7777;case_376;start;Receive payment request;receive;2021-06-16 17:37:00.271000+02:00;request_376;request;Bank
+7777;case_376;;Process payment information;;2021-06-16 17:37:03.133000+02:00;;;Bank
+7777;case_376;;Change account;send;2021-06-16 17:37:03.429000+02:00;account_377;account;Bank
+7777;case_376;;Payment confirmed;send;2021-06-16 17:37:03.429000+02:00;account_377;account;Bank
+7878;case_380;start;Receive payment request;receive;2021-06-16 17:38:07.569000+02:00;request_380;request;Bank
+7878;case_380;;Process payment information;;2021-06-16 17:38:07.613000+02:00;;;Bank
+7878;case_380;;Change account;send;2021-06-16 17:38:11.648000+02:00;account_381;account;Bank
+7878;case_380;;Payment confirmed;send;2021-06-16 17:38:11.648000+02:00;account_381;account;Bank
+7979;case_384;start;Receive payment request;receive;2021-06-16 17:39:18.132000+02:00;request_384;request;Bank
+7979;case_384;;Process payment information;;2021-06-16 17:39:24.006000+02:00;;;Bank
+7979;case_384;;Change account;send;2021-06-16 17:39:29.701000+02:00;account_385;account;Bank
+7979;case_384;;Payment confirmed;send;2021-06-16 17:39:29.701000+02:00;account_385;account;Bank
+8080;case_388;start;Receive payment request;receive;2021-06-16 17:40:42.014000+02:00;request_388;request;Bank
+8080;case_388;;Process payment information;;2021-06-16 17:40:49.828000+02:00;;;Bank
+8080;case_388;;Change account;send;2021-06-16 17:41:01.154000+02:00;account_389;account;Bank
+8080;case_388;;Payment confirmed;send;2021-06-16 17:41:01.154000+02:00;account_389;account;Bank
+8181;case_392;start;Receive payment request;receive;2021-06-16 17:41:52.669000+02:00;request_392;request;Bank
+8181;case_392;;Process payment information;;2021-06-16 17:41:55.578000+02:00;;;Bank
+8181;case_392;;Change account;send;2021-06-16 17:41:55.977000+02:00;account_393;account;Bank
+8181;case_392;;Payment confirmed;send;2021-06-16 17:41:55.977000+02:00;account_393;account;Bank
+8282;case_396;start;Receive payment request;receive;2021-06-16 17:43:12.906000+02:00;request_396;request;Bank
+8282;case_396;;Process payment information;;2021-06-16 17:43:16.668000+02:00;;;Bank
+8282;case_396;;Change account;send;2021-06-16 17:43:18.130000+02:00;account_397;account;Bank
+8282;case_396;;Payment confirmed;send;2021-06-16 17:43:18.130000+02:00;account_397;account;Bank
+8383;case_4;start;Receive payment request;receive;2021-06-16 15:46:32.693000+02:00;request_4;request;Bank
+8383;case_4;;Process payment information;;2021-06-16 15:46:40.797000+02:00;;;Bank
+8383;case_4;;Change account;send;2021-06-16 15:46:47.942000+02:00;account_5;account;Bank
+8383;case_4;;Payment confirmed;send;2021-06-16 15:46:47.942000+02:00;account_5;account;Bank
+8484;case_40;start;Receive payment request;receive;2021-06-16 15:58:01.905000+02:00;request_40;request;Bank
+8484;case_40;;Process payment information;;2021-06-16 15:58:06.488000+02:00;;;Bank
+8484;case_40;;Change account;send;2021-06-16 15:58:14.920000+02:00;account_41;account;Bank
+8484;case_40;;Payment confirmed;send;2021-06-16 15:58:14.920000+02:00;account_41;account;Bank
+8585;case_44;start;Receive payment request;receive;2021-06-16 15:59:16.531000+02:00;request_44;request;Bank
+8585;case_44;;Process payment information;;2021-06-16 15:59:32.426000+02:00;;;Bank
+8585;case_44;;Change account;send;2021-06-16 15:59:32.829000+02:00;account_45;account;Bank
+8585;case_44;;Payment confirmed;send;2021-06-16 15:59:32.829000+02:00;account_45;account;Bank
+8686;case_48;start;Receive payment request;receive;2021-06-16 16:00:39.877000+02:00;request_48;request;Bank
+8686;case_48;;Process payment information;;2021-06-16 16:00:40.908000+02:00;;;Bank
+8686;case_48;;Change account;send;2021-06-16 16:00:43.756000+02:00;account_49;account;Bank
+8686;case_48;;Payment confirmed;send;2021-06-16 16:00:43.756000+02:00;account_49;account;Bank
+8787;case_52;start;Receive payment request;receive;2021-06-16 16:01:48.058000+02:00;request_52;request;Bank
+8787;case_52;;Process payment information;;2021-06-16 16:01:57.531000+02:00;;;Bank
+8787;case_52;;Change account;send;2021-06-16 16:02:00.677000+02:00;account_53;account;Bank
+8787;case_52;;Payment confirmed;send;2021-06-16 16:02:00.677000+02:00;account_53;account;Bank
+8888;case_56;start;Receive payment request;receive;2021-06-16 16:03:01.298000+02:00;request_56;request;Bank
+8888;case_56;;Process payment information;;2021-06-16 16:03:09.072000+02:00;;;Bank
+8888;case_56;;Change account;send;2021-06-16 16:03:12.970000+02:00;account_57;account;Bank
+8888;case_56;;Payment confirmed;send;2021-06-16 16:03:12.970000+02:00;account_57;account;Bank
+8989;case_60;start;Receive payment request;receive;2021-06-16 16:04:28.721000+02:00;request_60;request;Bank
+8989;case_60;;Process payment information;;2021-06-16 16:04:34.844000+02:00;;;Bank
+8989;case_60;;Change account;send;2021-06-16 16:04:35.153000+02:00;account_61;account;Bank
+8989;case_60;;Payment confirmed;send;2021-06-16 16:04:35.153000+02:00;account_61;account;Bank
+9090;case_64;start;Receive payment request;receive;2021-06-16 16:05:40.090000+02:00;request_64;request;Bank
+9090;case_64;;Process payment information;;2021-06-16 16:05:45.110000+02:00;;;Bank
+9090;case_64;;Change account;send;2021-06-16 16:05:46.781000+02:00;account_65;account;Bank
+9090;case_64;;Payment confirmed;send;2021-06-16 16:05:46.781000+02:00;account_65;account;Bank
+9191;case_68;start;Receive payment request;receive;2021-06-16 16:06:51.204000+02:00;request_68;request;Bank
+9191;case_68;;Process payment information;;2021-06-16 16:06:53.339000+02:00;;;Bank
+9191;case_68;;Change account;send;2021-06-16 16:06:59.308000+02:00;account_69;account;Bank
+9191;case_68;;Payment confirmed;send;2021-06-16 16:06:59.308000+02:00;account_69;account;Bank
+9292;case_72;start;Receive payment request;receive;2021-06-16 16:07:50.673000+02:00;request_72;request;Bank
+9292;case_72;;Process payment information;;2021-06-16 16:07:54.401000+02:00;;;Bank
+9292;case_72;;Change account;send;2021-06-16 16:07:55.170000+02:00;account_73;account;Bank
+9292;case_72;;Payment confirmed;send;2021-06-16 16:07:55.170000+02:00;account_73;account;Bank
+9393;case_76;start;Receive payment request;receive;2021-06-16 16:08:33.609000+02:00;request_76;request;Bank
+9393;case_76;;Process payment information;;2021-06-16 16:08:38.667000+02:00;;;Bank
+9393;case_76;;Change account;send;2021-06-16 16:08:53.214000+02:00;account_77;account;Bank
+9393;case_76;;Payment confirmed;send;2021-06-16 16:08:53.214000+02:00;account_77;account;Bank
+9494;case_8;start;Receive payment request;receive;2021-06-16 15:47:50.211000+02:00;request_8;request;Bank
+9494;case_8;;Process payment information;;2021-06-16 15:47:53.276000+02:00;;;Bank
+9494;case_8;;Change account;send;2021-06-16 15:47:53.735000+02:00;account_9;account;Bank
+9494;case_8;;Payment confirmed;send;2021-06-16 15:47:53.735000+02:00;account_9;account;Bank
+9595;case_80;start;Receive payment request;receive;2021-06-16 16:10:05.528000+02:00;request_80;request;Bank
+9595;case_80;;Process payment information;;2021-06-16 16:10:07.833000+02:00;;;Bank
+9595;case_80;;Change account;send;2021-06-16 16:10:11.791000+02:00;account_81;account;Bank
+9595;case_80;;Payment confirmed;send;2021-06-16 16:10:11.791000+02:00;account_81;account;Bank
+9696;case_84;start;Receive payment request;receive;2021-06-16 16:11:14.237000+02:00;request_84;request;Bank
+9696;case_84;;Process payment information;;2021-06-16 16:11:16.184000+02:00;;;Bank
+9696;case_84;;Change account;send;2021-06-16 16:11:18.788000+02:00;account_85;account;Bank
+9696;case_84;;Payment confirmed;send;2021-06-16 16:11:18.788000+02:00;account_85;account;Bank
+9797;case_88;start;Receive payment request;receive;2021-06-16 16:12:09.327000+02:00;request_88;request;Bank
+9797;case_88;;Process payment information;;2021-06-16 16:12:12.758000+02:00;;;Bank
+9797;case_88;;Change account;send;2021-06-16 16:12:15.191000+02:00;account_89;account;Bank
+9797;case_88;;Payment confirmed;send;2021-06-16 16:12:15.191000+02:00;account_89;account;Bank
+9898;case_92;start;Receive payment request;receive;2021-06-16 16:13:35.401000+02:00;request_92;request;Bank
+9898;case_92;;Process payment information;;2021-06-16 16:13:39.970000+02:00;;;Bank
+9898;case_92;;Change account;send;2021-06-16 16:13:42.368000+02:00;account_93;account;Bank
+9898;case_92;;Payment confirmed;send;2021-06-16 16:13:42.368000+02:00;account_93;account;Bank
+9999;case_96;start;Receive payment request;receive;2021-06-16 16:14:40.064000+02:00;request_96;request;Bank
+9999;case_96;;Process payment information;;2021-06-16 16:14:48.908000+02:00;;;Bank
+9999;case_96;;Change account;send;2021-06-16 16:14:52.554000+02:00;account_97;account;Bank
+9999;case_96;;Payment confirmed;send;2021-06-16 16:14:52.554000+02:00;account_97;account;Bank
+00;case_10;start;Receive visitor information;receive;2021-06-16 15:47:19.613000+02:00;info_10;info;Zoo
+00;case_10;;Enter customer data into the system;;2021-06-16 15:47:22.963000+02:00;;;Zoo
+00;case_10;;Forward information to making department;;2021-06-16 15:47:27.644000+02:00;;;Zoo
+00;case_10;;Send request to billing department;;2021-06-16 15:47:31.552000+02:00;;;Zoo
+00;case_10;;Mail ZooClub magazine;;2021-06-16 15:47:35.777000+02:00;;;Zoo
+00;case_10;;Wait for payment;;2021-06-16 15:47:43.876000+02:00;;;Zoo
+00;case_10;;Send payment request;send;2021-06-16 15:47:47.310000+02:00;request_8;request;Zoo
+00;case_10;;Receive payment request;send;2021-06-16 15:47:47.310000+02:00;request_8;request;Zoo
+00;case_10;notification;Payment confirmed;receive;2021-06-16 15:48:00.663000+02:00;account_9;account;Zoo
+00;case_10;;Deliver Zooclub card;send;2021-06-16 15:48:03.265000+02:00;card_11;card;Zoo
+11;case_102;start;Receive visitor information;receive;2021-06-16 16:15:17.144000+02:00;info_102;info;Zoo
+11;case_102;;Enter customer data into the system;;2021-06-16 16:15:27.802000+02:00;;;Zoo
+11;case_102;;Forward information to making department;;2021-06-16 16:15:28.690000+02:00;;;Zoo
+11;case_102;;Mail ZooClub magazine;;2021-06-16 16:15:34.949000+02:00;;;Zoo
+11;case_102;;Send request to billing department;;2021-06-16 16:15:40.351000+02:00;;;Zoo
+11;case_102;;Send payment request;send;2021-06-16 16:15:44.873000+02:00;request_100;request;Zoo
+11;case_102;;Receive payment request;send;2021-06-16 16:15:44.873000+02:00;request_100;request;Zoo
+11;case_102;;Wait for payment;;2021-06-16 16:15:59.050000+02:00;;;Zoo
+11;case_102;notification;Payment confirmed;receive;2021-06-16 16:16:09.989000+02:00;account_101;account;Zoo
+11;case_102;;Deliver Zooclub card;send;2021-06-16 16:16:11.841000+02:00;card_103;card;Zoo
+22;case_106;start;Receive visitor information;receive;2021-06-16 16:16:42.968000+02:00;info_106;info;Zoo
+22;case_106;;Enter customer data into the system;;2021-06-16 16:16:52.487000+02:00;;;Zoo
+22;case_106;;Forward information to making department;;2021-06-16 16:16:59.820000+02:00;;;Zoo
+22;case_106;;Mail ZooClub magazine;;2021-06-16 16:17:04.254000+02:00;;;Zoo
+22;case_106;;Send request to billing department;;2021-06-16 16:17:10.015000+02:00;;;Zoo
+22;case_106;;Wait for payment;;2021-06-16 16:17:12.285000+02:00;;;Zoo
+22;case_106;;Send payment request;send;2021-06-16 16:17:15.786000+02:00;request_104;request;Zoo
+22;case_106;;Receive payment request;send;2021-06-16 16:17:15.786000+02:00;request_104;request;Zoo
+22;case_106;notification;Payment confirmed;receive;2021-06-16 16:17:25.958000+02:00;account_105;account;Zoo
+22;case_106;;Deliver Zooclub card;send;2021-06-16 16:17:28.076000+02:00;card_107;card;Zoo
+33;case_110;start;Receive visitor information;receive;2021-06-16 16:17:55.142000+02:00;info_110;info;Zoo
+33;case_110;;Enter customer data into the system;;2021-06-16 16:17:55.279000+02:00;;;Zoo
+33;case_110;;Forward information to making department;;2021-06-16 16:17:59.383000+02:00;;;Zoo
+33;case_110;;Send request to billing department;;2021-06-16 16:18:01.172000+02:00;;;Zoo
+33;case_110;;Mail ZooClub magazine;;2021-06-16 16:18:09.624000+02:00;;;Zoo
+33;case_110;;Send payment request;send;2021-06-16 16:18:12.822000+02:00;request_108;request;Zoo
+33;case_110;;Receive payment request;send;2021-06-16 16:18:12.822000+02:00;request_108;request;Zoo
+33;case_110;;Wait for payment;;2021-06-16 16:18:21.883000+02:00;;;Zoo
+33;case_110;notification;Payment confirmed;receive;2021-06-16 16:18:32.921000+02:00;account_109;account;Zoo
+33;case_110;;Deliver Zooclub card;send;2021-06-16 16:18:33.056000+02:00;card_111;card;Zoo
+44;case_114;start;Receive visitor information;receive;2021-06-16 16:18:54.359000+02:00;info_114;info;Zoo
+44;case_114;;Enter customer data into the system;;2021-06-16 16:18:55.154000+02:00;;;Zoo
+44;case_114;;Forward information to making department;;2021-06-16 16:18:58.873000+02:00;;;Zoo
+44;case_114;;Send request to billing department;;2021-06-16 16:19:02.178000+02:00;;;Zoo
+44;case_114;;Wait for payment;;2021-06-16 16:19:05.734000+02:00;;;Zoo
+44;case_114;;Mail ZooClub magazine;;2021-06-16 16:19:07.611000+02:00;;;Zoo
+44;case_114;;Send payment request;send;2021-06-16 16:19:11.158000+02:00;request_112;request;Zoo
+44;case_114;;Receive payment request;send;2021-06-16 16:19:11.158000+02:00;request_112;request;Zoo
+44;case_114;notification;Payment confirmed;receive;2021-06-16 16:19:20.256000+02:00;account_113;account;Zoo
+44;case_114;;Deliver Zooclub card;send;2021-06-16 16:19:21.135000+02:00;card_115;card;Zoo
+55;case_118;start;Receive visitor information;receive;2021-06-16 16:19:41.180000+02:00;info_118;info;Zoo
+55;case_118;;Enter customer data into the system;;2021-06-16 16:19:47.135000+02:00;;;Zoo
+55;case_118;;Forward information to making department;;2021-06-16 16:20:04.980000+02:00;;;Zoo
+55;case_118;;Send request to billing department;;2021-06-16 16:20:10.788000+02:00;;;Zoo
+55;case_118;;Mail ZooClub magazine;;2021-06-16 16:20:12.684000+02:00;;;Zoo
+55;case_118;;Wait for payment;;2021-06-16 16:20:18.300000+02:00;;;Zoo
+55;case_118;;Send payment request;send;2021-06-16 16:20:19.363000+02:00;request_116;request;Zoo
+55;case_118;;Receive payment request;send;2021-06-16 16:20:19.363000+02:00;request_116;request;Zoo
+55;case_118;notification;Payment confirmed;receive;2021-06-16 16:20:28.478000+02:00;account_117;account;Zoo
+55;case_118;;Deliver Zooclub card;send;2021-06-16 16:20:30.793000+02:00;card_119;card;Zoo
+66;case_122;start;Receive visitor information;receive;2021-06-16 16:20:45.169000+02:00;info_122;info;Zoo
+66;case_122;;Enter customer data into the system;;2021-06-16 16:20:58.348000+02:00;;;Zoo
+66;case_122;;Send request to billing department;;2021-06-16 16:21:01.928000+02:00;;;Zoo
+66;case_122;;Forward information to making department;;2021-06-16 16:21:11.355000+02:00;;;Zoo
+66;case_122;;Mail ZooClub magazine;;2021-06-16 16:21:14.240000+02:00;;;Zoo
+66;case_122;;Send payment request;send;2021-06-16 16:21:17.658000+02:00;request_120;request;Zoo
+66;case_122;;Receive payment request;send;2021-06-16 16:21:17.658000+02:00;request_120;request;Zoo
+66;case_122;;Wait for payment;;2021-06-16 16:21:35.365000+02:00;;;Zoo
+66;case_122;notification;Payment confirmed;receive;2021-06-16 16:21:39.634000+02:00;account_121;account;Zoo
+66;case_122;;Deliver Zooclub card;send;2021-06-16 16:21:41.809000+02:00;card_123;card;Zoo
+77;case_126;start;Receive visitor information;receive;2021-06-16 16:21:51.789000+02:00;info_126;info;Zoo
+77;case_126;;Enter customer data into the system;;2021-06-16 16:21:56.592000+02:00;;;Zoo
+77;case_126;;Send request to billing department;;2021-06-16 16:22:06.030000+02:00;;;Zoo
+77;case_126;;Forward information to making department;;2021-06-16 16:22:14.438000+02:00;;;Zoo
+77;case_126;;Send payment request;send;2021-06-16 16:22:27.659000+02:00;request_124;request;Zoo
+77;case_126;;Receive payment request;send;2021-06-16 16:22:27.659000+02:00;request_124;request;Zoo
+77;case_126;;Mail ZooClub magazine;;2021-06-16 16:22:32.044000+02:00;;;Zoo
+77;case_126;;Wait for payment;;2021-06-16 16:22:35.966000+02:00;;;Zoo
+77;case_126;notification;Payment confirmed;receive;2021-06-16 16:22:59.680000+02:00;account_125;account;Zoo
+77;case_126;;Deliver Zooclub card;send;2021-06-16 16:23:04.369000+02:00;card_127;card;Zoo
+88;case_130;start;Receive visitor information;receive;2021-06-16 16:23:16.196000+02:00;info_130;info;Zoo
+88;case_130;;Enter customer data into the system;;2021-06-16 16:23:22.947000+02:00;;;Zoo
+88;case_130;;Send request to billing department;;2021-06-16 16:23:29.545000+02:00;;;Zoo
+88;case_130;;Forward information to making department;;2021-06-16 16:23:37.685000+02:00;;;Zoo
+88;case_130;;Mail ZooClub magazine;;2021-06-16 16:23:43.843000+02:00;;;Zoo
+88;case_130;;Send payment request;send;2021-06-16 16:24:09.198000+02:00;request_128;request;Zoo
+88;case_130;;Receive payment request;send;2021-06-16 16:24:09.198000+02:00;request_128;request;Zoo
+88;case_130;;Wait for payment;;2021-06-16 16:24:12.600000+02:00;;;Zoo
+88;case_130;notification;Payment confirmed;receive;2021-06-16 16:24:26.019000+02:00;account_129;account;Zoo
+88;case_130;;Deliver Zooclub card;send;2021-06-16 16:24:26.754000+02:00;card_131;card;Zoo
+99;case_134;start;Receive visitor information;receive;2021-06-16 16:24:51.788000+02:00;info_134;info;Zoo
+99;case_134;;Enter customer data into the system;;2021-06-16 16:24:55.648000+02:00;;;Zoo
+99;case_134;;Send request to billing department;;2021-06-16 16:25:02.215000+02:00;;;Zoo
+99;case_134;;Forward information to making department;;2021-06-16 16:25:06.410000+02:00;;;Zoo
+99;case_134;;Mail ZooClub magazine;;2021-06-16 16:25:24.788000+02:00;;;Zoo
+99;case_134;;Send payment request;send;2021-06-16 16:25:28.045000+02:00;request_132;request;Zoo
+99;case_134;;Receive payment request;send;2021-06-16 16:25:28.045000+02:00;request_132;request;Zoo
+99;case_134;;Wait for payment;;2021-06-16 16:25:37.983000+02:00;;;Zoo
+99;case_134;notification;Payment confirmed;receive;2021-06-16 16:25:57.589000+02:00;account_133;account;Zoo
+99;case_134;;Deliver Zooclub card;send;2021-06-16 16:26:02.293000+02:00;card_135;card;Zoo
+1010;case_138;start;Receive visitor information;receive;2021-06-16 16:26:25.264000+02:00;info_138;info;Zoo
+1010;case_138;;Enter customer data into the system;;2021-06-16 16:26:29.610000+02:00;;;Zoo
+1010;case_138;;Send request to billing department;;2021-06-16 16:26:34.214000+02:00;;;Zoo
+1010;case_138;;Wait for payment;;2021-06-16 16:26:43.418000+02:00;;;Zoo
+1010;case_138;;Send payment request;send;2021-06-16 16:26:51.293000+02:00;request_136;request;Zoo
+1010;case_138;;Receive payment request;send;2021-06-16 16:26:51.293000+02:00;request_136;request;Zoo
+1010;case_138;;Forward information to making department;;2021-06-16 16:27:07.427000+02:00;;;Zoo
+1010;case_138;;Mail ZooClub magazine;;2021-06-16 16:27:09.366000+02:00;;;Zoo
+1010;case_138;notification;Payment confirmed;receive;2021-06-16 16:27:11.774000+02:00;account_137;account;Zoo
+1010;case_138;;Deliver Zooclub card;send;2021-06-16 16:27:16.713000+02:00;card_139;card;Zoo
+1111;case_14;start;Receive visitor information;receive;2021-06-16 15:48:18.922000+02:00;info_14;info;Zoo
+1111;case_14;;Enter customer data into the system;;2021-06-16 15:48:27.609000+02:00;;;Zoo
+1111;case_14;;Forward information to making department;;2021-06-16 15:48:38.652000+02:00;;;Zoo
+1111;case_14;;Send request to billing department;;2021-06-16 15:48:40.475000+02:00;;;Zoo
+1111;case_14;;Mail ZooClub magazine;;2021-06-16 15:48:44.280000+02:00;;;Zoo
+1111;case_14;;Send payment request;send;2021-06-16 15:48:48.760000+02:00;request_12;request;Zoo
+1111;case_14;;Receive payment request;send;2021-06-16 15:48:48.760000+02:00;request_12;request;Zoo
+1111;case_14;;Wait for payment;;2021-06-16 15:49:08.001000+02:00;;;Zoo
+1111;case_14;notification;Payment confirmed;receive;2021-06-16 15:49:12.732000+02:00;account_13;account;Zoo
+1111;case_14;;Deliver Zooclub card;send;2021-06-16 15:49:17.300000+02:00;card_15;card;Zoo
+1212;case_142;start;Receive visitor information;receive;2021-06-16 16:27:32.875000+02:00;info_142;info;Zoo
+1212;case_142;;Enter customer data into the system;;2021-06-16 16:27:44.446000+02:00;;;Zoo
+1212;case_142;;Forward information to making department;;2021-06-16 16:27:52.387000+02:00;;;Zoo
+1212;case_142;;Send request to billing department;;2021-06-16 16:27:55.701000+02:00;;;Zoo
+1212;case_142;;Mail ZooClub magazine;;2021-06-16 16:28:08.293000+02:00;;;Zoo
+1212;case_142;;Wait for payment;;2021-06-16 16:28:12.700000+02:00;;;Zoo
+1212;case_142;;Send payment request;send;2021-06-16 16:28:16.211000+02:00;request_140;request;Zoo
+1212;case_142;;Receive payment request;send;2021-06-16 16:28:16.211000+02:00;request_140;request;Zoo
+1212;case_142;notification;Payment confirmed;receive;2021-06-16 16:28:26.850000+02:00;account_141;account;Zoo
+1212;case_142;;Deliver Zooclub card;send;2021-06-16 16:28:33.323000+02:00;card_143;card;Zoo
+1313;case_146;start;Receive visitor information;receive;2021-06-16 16:28:49.856000+02:00;info_146;info;Zoo
+1313;case_146;;Enter customer data into the system;;2021-06-16 16:28:57.284000+02:00;;;Zoo
+1313;case_146;;Send request to billing department;;2021-06-16 16:28:59.720000+02:00;;;Zoo
+1313;case_146;;Forward information to making department;;2021-06-16 16:29:04.791000+02:00;;;Zoo
+1313;case_146;;Wait for payment;;2021-06-16 16:29:10.364000+02:00;;;Zoo
+1313;case_146;;Send payment request;send;2021-06-16 16:29:16.695000+02:00;request_144;request;Zoo
+1313;case_146;;Receive payment request;send;2021-06-16 16:29:16.695000+02:00;request_144;request;Zoo
+1313;case_146;;Mail ZooClub magazine;;2021-06-16 16:29:28.036000+02:00;;;Zoo
+1313;case_146;notification;Payment confirmed;receive;2021-06-16 16:29:44.298000+02:00;account_145;account;Zoo
+1313;case_146;;Deliver Zooclub card;send;2021-06-16 16:29:49.286000+02:00;card_147;card;Zoo
+1414;case_150;start;Receive visitor information;receive;2021-06-16 16:30:14.922000+02:00;info_150;info;Zoo
+1414;case_150;;Enter customer data into the system;;2021-06-16 16:30:15.277000+02:00;;;Zoo
+1414;case_150;;Forward information to making department;;2021-06-16 16:30:16.496000+02:00;;;Zoo
+1414;case_150;;Send request to billing department;;2021-06-16 16:30:21.647000+02:00;;;Zoo
+1414;case_150;;Send payment request;send;2021-06-16 16:30:25.472000+02:00;request_148;request;Zoo
+1414;case_150;;Receive payment request;send;2021-06-16 16:30:25.472000+02:00;request_148;request;Zoo
+1414;case_150;;Wait for payment;;2021-06-16 16:30:41.191000+02:00;;;Zoo
+1414;case_150;;Mail ZooClub magazine;;2021-06-16 16:30:56.827000+02:00;;;Zoo
+1414;case_150;notification;Payment confirmed;receive;2021-06-16 16:31:07.255000+02:00;account_149;account;Zoo
+1414;case_150;;Deliver Zooclub card;send;2021-06-16 16:31:11.960000+02:00;card_151;card;Zoo
+1515;case_154;start;Receive visitor information;receive;2021-06-16 16:31:28.857000+02:00;info_154;info;Zoo
+1515;case_154;;Enter customer data into the system;;2021-06-16 16:31:32.924000+02:00;;;Zoo
+1515;case_154;;Send request to billing department;;2021-06-16 16:31:37.023000+02:00;;;Zoo
+1515;case_154;;Forward information to making department;;2021-06-16 16:31:38.663000+02:00;;;Zoo
+1515;case_154;;Mail ZooClub magazine;;2021-06-16 16:31:39.095000+02:00;;;Zoo
+1515;case_154;;Send payment request;send;2021-06-16 16:31:42.626000+02:00;request_152;request;Zoo
+1515;case_154;;Receive payment request;send;2021-06-16 16:31:42.626000+02:00;request_152;request;Zoo
+1515;case_154;;Wait for payment;;2021-06-16 16:31:45.521000+02:00;;;Zoo
+1515;case_154;notification;Payment confirmed;receive;2021-06-16 16:32:06.939000+02:00;account_153;account;Zoo
+1515;case_154;;Deliver Zooclub card;send;2021-06-16 16:32:07.178000+02:00;card_155;card;Zoo
+1616;case_158;start;Receive visitor information;receive;2021-06-16 16:32:36.797000+02:00;info_158;info;Zoo
+1616;case_158;;Enter customer data into the system;;2021-06-16 16:32:37.080000+02:00;;;Zoo
+1616;case_158;;Send request to billing department;;2021-06-16 16:32:38.529000+02:00;;;Zoo
+1616;case_158;;Forward information to making department;;2021-06-16 16:32:40.635000+02:00;;;Zoo
+1616;case_158;;Mail ZooClub magazine;;2021-06-16 16:32:47.276000+02:00;;;Zoo
+1616;case_158;;Send payment request;send;2021-06-16 16:32:50.979000+02:00;request_156;request;Zoo
+1616;case_158;;Receive payment request;send;2021-06-16 16:32:50.979000+02:00;request_156;request;Zoo
+1616;case_158;;Wait for payment;;2021-06-16 16:33:00.982000+02:00;;;Zoo
+1616;case_158;notification;Payment confirmed;receive;2021-06-16 16:33:11.529000+02:00;account_157;account;Zoo
+1616;case_158;;Deliver Zooclub card;send;2021-06-16 16:33:15.762000+02:00;card_159;card;Zoo
+1717;case_162;start;Receive visitor information;receive;2021-06-16 16:33:26.029000+02:00;info_162;info;Zoo
+1717;case_162;;Enter customer data into the system;;2021-06-16 16:33:36.123000+02:00;;;Zoo
+1717;case_162;;Forward information to making department;;2021-06-16 16:33:40.580000+02:00;;;Zoo
+1717;case_162;;Mail ZooClub magazine;;2021-06-16 16:33:44.821000+02:00;;;Zoo
+1717;case_162;;Send request to billing department;;2021-06-16 16:33:52.607000+02:00;;;Zoo
+1717;case_162;;Send payment request;send;2021-06-16 16:34:00.576000+02:00;request_160;request;Zoo
+1717;case_162;;Receive payment request;send;2021-06-16 16:34:00.576000+02:00;request_160;request;Zoo
+1717;case_162;;Wait for payment;;2021-06-16 16:34:10.216000+02:00;;;Zoo
+1717;case_162;notification;Payment confirmed;receive;2021-06-16 16:34:15.625000+02:00;account_161;account;Zoo
+1717;case_162;;Deliver Zooclub card;send;2021-06-16 16:34:19.317000+02:00;card_163;card;Zoo
+1818;case_166;start;Receive visitor information;receive;2021-06-16 16:34:35.912000+02:00;info_166;info;Zoo
+1818;case_166;;Enter customer data into the system;;2021-06-16 16:34:40.327000+02:00;;;Zoo
+1818;case_166;;Forward information to making department;;2021-06-16 16:34:48.246000+02:00;;;Zoo
+1818;case_166;;Send request to billing department;;2021-06-16 16:34:51.356000+02:00;;;Zoo
+1818;case_166;;Mail ZooClub magazine;;2021-06-16 16:35:01.088000+02:00;;;Zoo
+1818;case_166;;Wait for payment;;2021-06-16 16:35:10.400000+02:00;;;Zoo
+1818;case_166;;Send payment request;send;2021-06-16 16:35:11.292000+02:00;request_164;request;Zoo
+1818;case_166;;Receive payment request;send;2021-06-16 16:35:11.292000+02:00;request_164;request;Zoo
+1818;case_166;notification;Payment confirmed;receive;2021-06-16 16:35:25.174000+02:00;account_165;account;Zoo
+1818;case_166;;Deliver Zooclub card;send;2021-06-16 16:35:30.841000+02:00;card_167;card;Zoo
+1919;case_170;start;Receive visitor information;receive;2021-06-16 16:35:49.873000+02:00;info_170;info;Zoo
+1919;case_170;;Enter customer data into the system;;2021-06-16 16:36:02.450000+02:00;;;Zoo
+1919;case_170;;Forward information to making department;;2021-06-16 16:36:02.967000+02:00;;;Zoo
+1919;case_170;;Mail ZooClub magazine;;2021-06-16 16:36:08.823000+02:00;;;Zoo
+1919;case_170;;Send request to billing department;;2021-06-16 16:36:16.165000+02:00;;;Zoo
+1919;case_170;;Send payment request;send;2021-06-16 16:36:19.011000+02:00;request_168;request;Zoo
+1919;case_170;;Receive payment request;send;2021-06-16 16:36:19.011000+02:00;request_168;request;Zoo
+1919;case_170;;Wait for payment;;2021-06-16 16:36:21.111000+02:00;;;Zoo
+1919;case_170;notification;Payment confirmed;receive;2021-06-16 16:36:38.444000+02:00;account_169;account;Zoo
+1919;case_170;;Deliver Zooclub card;send;2021-06-16 16:36:38.703000+02:00;card_171;card;Zoo
+2020;case_174;start;Receive visitor information;receive;2021-06-16 16:36:53.320000+02:00;info_174;info;Zoo
+2020;case_174;;Enter customer data into the system;;2021-06-16 16:37:00.478000+02:00;;;Zoo
+2020;case_174;;Send request to billing department;;2021-06-16 16:37:06.286000+02:00;;;Zoo
+2020;case_174;;Forward information to making department;;2021-06-16 16:37:11.592000+02:00;;;Zoo
+2020;case_174;;Send payment request;send;2021-06-16 16:37:21.704000+02:00;request_172;request;Zoo
+2020;case_174;;Receive payment request;send;2021-06-16 16:37:21.704000+02:00;request_172;request;Zoo
+2020;case_174;;Mail ZooClub magazine;;2021-06-16 16:37:31.961000+02:00;;;Zoo
+2020;case_174;;Wait for payment;;2021-06-16 16:37:56.178000+02:00;;;Zoo
+2020;case_174;notification;Payment confirmed;receive;2021-06-16 16:37:59.196000+02:00;account_173;account;Zoo
+2020;case_174;;Deliver Zooclub card;send;2021-06-16 16:38:01.810000+02:00;card_175;card;Zoo
+2121;case_178;start;Receive visitor information;receive;2021-06-16 16:38:15.576000+02:00;info_178;info;Zoo
+2121;case_178;;Enter customer data into the system;;2021-06-16 16:38:24.168000+02:00;;;Zoo
+2121;case_178;;Send request to billing department;;2021-06-16 16:38:26.335000+02:00;;;Zoo
+2121;case_178;;Forward information to making department;;2021-06-16 16:38:27.864000+02:00;;;Zoo
+2121;case_178;;Mail ZooClub magazine;;2021-06-16 16:38:31.089000+02:00;;;Zoo
+2121;case_178;;Wait for payment;;2021-06-16 16:38:31.470000+02:00;;;Zoo
+2121;case_178;;Send payment request;send;2021-06-16 16:38:38.065000+02:00;request_176;request;Zoo
+2121;case_178;;Receive payment request;send;2021-06-16 16:38:38.065000+02:00;request_176;request;Zoo
+2121;case_178;notification;Payment confirmed;receive;2021-06-16 16:38:56.530000+02:00;account_177;account;Zoo
+2121;case_178;;Deliver Zooclub card;send;2021-06-16 16:38:57.610000+02:00;card_179;card;Zoo
+2222;case_18;start;Receive visitor information;receive;2021-06-16 15:49:42.665000+02:00;info_18;info;Zoo
+2222;case_18;;Enter customer data into the system;;2021-06-16 15:49:46.051000+02:00;;;Zoo
+2222;case_18;;Forward information to making department;;2021-06-16 15:49:50.421000+02:00;;;Zoo
+2222;case_18;;Send request to billing department;;2021-06-16 15:49:58.724000+02:00;;;Zoo
+2222;case_18;;Wait for payment;;2021-06-16 15:50:07.073000+02:00;;;Zoo
+2222;case_18;;Send payment request;send;2021-06-16 15:50:09.342000+02:00;request_16;request;Zoo
+2222;case_18;;Receive payment request;send;2021-06-16 15:50:09.342000+02:00;request_16;request;Zoo
+2222;case_18;;Mail ZooClub magazine;;2021-06-16 15:50:15.476000+02:00;;;Zoo
+2222;case_18;notification;Payment confirmed;receive;2021-06-16 15:50:36.995000+02:00;account_17;account;Zoo
+2222;case_18;;Deliver Zooclub card;send;2021-06-16 15:50:37.062000+02:00;card_19;card;Zoo
+2323;case_182;start;Receive visitor information;receive;2021-06-16 16:39:12.340000+02:00;info_182;info;Zoo
+2323;case_182;;Enter customer data into the system;;2021-06-16 16:39:15.188000+02:00;;;Zoo
+2323;case_182;;Forward information to making department;;2021-06-16 16:39:21.820000+02:00;;;Zoo
+2323;case_182;;Mail ZooClub magazine;;2021-06-16 16:39:39.579000+02:00;;;Zoo
+2323;case_182;;Send request to billing department;;2021-06-16 16:39:43.724000+02:00;;;Zoo
+2323;case_182;;Send payment request;send;2021-06-16 16:39:48.062000+02:00;request_180;request;Zoo
+2323;case_182;;Receive payment request;send;2021-06-16 16:39:48.062000+02:00;request_180;request;Zoo
+2323;case_182;;Wait for payment;;2021-06-16 16:39:57.200000+02:00;;;Zoo
+2323;case_182;notification;Payment confirmed;receive;2021-06-16 16:40:16.749000+02:00;account_181;account;Zoo
+2323;case_182;;Deliver Zooclub card;send;2021-06-16 16:40:22.729000+02:00;card_183;card;Zoo
+2424;case_186;start;Receive visitor information;receive;2021-06-16 16:40:46.646000+02:00;info_186;info;Zoo
+2424;case_186;;Enter customer data into the system;;2021-06-16 16:40:50.709000+02:00;;;Zoo
+2424;case_186;;Send request to billing department;;2021-06-16 16:40:52.375000+02:00;;;Zoo
+2424;case_186;;Forward information to making department;;2021-06-16 16:41:00.847000+02:00;;;Zoo
+2424;case_186;;Mail ZooClub magazine;;2021-06-16 16:41:01.221000+02:00;;;Zoo
+2424;case_186;;Wait for payment;;2021-06-16 16:41:08.900000+02:00;;;Zoo
+2424;case_186;;Send payment request;send;2021-06-16 16:41:09.351000+02:00;request_184;request;Zoo
+2424;case_186;;Receive payment request;send;2021-06-16 16:41:09.351000+02:00;request_184;request;Zoo
+2424;case_186;notification;Payment confirmed;receive;2021-06-16 16:41:24.501000+02:00;account_185;account;Zoo
+2424;case_186;;Deliver Zooclub card;send;2021-06-16 16:41:25.712000+02:00;card_187;card;Zoo
+2525;case_190;start;Receive visitor information;receive;2021-06-16 16:41:51.835000+02:00;info_190;info;Zoo
+2525;case_190;;Enter customer data into the system;;2021-06-16 16:41:58.214000+02:00;;;Zoo
+2525;case_190;;Send request to billing department;;2021-06-16 16:42:05.108000+02:00;;;Zoo
+2525;case_190;;Forward information to making department;;2021-06-16 16:42:07.740000+02:00;;;Zoo
+2525;case_190;;Mail ZooClub magazine;;2021-06-16 16:42:12.544000+02:00;;;Zoo
+2525;case_190;;Wait for payment;;2021-06-16 16:42:14.714000+02:00;;;Zoo
+2525;case_190;;Send payment request;send;2021-06-16 16:42:20.054000+02:00;request_188;request;Zoo
+2525;case_190;;Receive payment request;send;2021-06-16 16:42:20.054000+02:00;request_188;request;Zoo
+2525;case_190;notification;Payment confirmed;receive;2021-06-16 16:42:35.917000+02:00;account_189;account;Zoo
+2525;case_190;;Deliver Zooclub card;send;2021-06-16 16:42:38.207000+02:00;card_191;card;Zoo
+2626;case_194;start;Receive visitor information;receive;2021-06-16 16:43:06.825000+02:00;info_194;info;Zoo
+2626;case_194;;Enter customer data into the system;;2021-06-16 16:43:09.987000+02:00;;;Zoo
+2626;case_194;;Forward information to making department;;2021-06-16 16:43:11.294000+02:00;;;Zoo
+2626;case_194;;Send request to billing department;;2021-06-16 16:43:16.013000+02:00;;;Zoo
+2626;case_194;;Mail ZooClub magazine;;2021-06-16 16:43:17.911000+02:00;;;Zoo
+2626;case_194;;Send payment request;send;2021-06-16 16:43:20.292000+02:00;request_192;request;Zoo
+2626;case_194;;Receive payment request;send;2021-06-16 16:43:20.292000+02:00;request_192;request;Zoo
+2626;case_194;;Wait for payment;;2021-06-16 16:43:26.754000+02:00;;;Zoo
+2626;case_194;notification;Payment confirmed;receive;2021-06-16 16:43:40.058000+02:00;account_193;account;Zoo
+2626;case_194;;Deliver Zooclub card;send;2021-06-16 16:43:40.672000+02:00;card_195;card;Zoo
+2727;case_198;start;Receive visitor information;receive;2021-06-16 16:44:03.329000+02:00;info_198;info;Zoo
+2727;case_198;;Enter customer data into the system;;2021-06-16 16:44:05.042000+02:00;;;Zoo
+2727;case_198;;Send request to billing department;;2021-06-16 16:44:05.258000+02:00;;;Zoo
+2727;case_198;;Forward information to making department;;2021-06-16 16:44:05.919000+02:00;;;Zoo
+2727;case_198;;Mail ZooClub magazine;;2021-06-16 16:44:06.257000+02:00;;;Zoo
+2727;case_198;;Send payment request;send;2021-06-16 16:44:06.314000+02:00;request_196;request;Zoo
+2727;case_198;;Receive payment request;send;2021-06-16 16:44:06.314000+02:00;request_196;request;Zoo
+2727;case_198;;Wait for payment;;2021-06-16 16:44:18.443000+02:00;;;Zoo
+2727;case_198;notification;Payment confirmed;receive;2021-06-16 16:44:30.753000+02:00;account_197;account;Zoo
+2727;case_198;;Deliver Zooclub card;send;2021-06-16 16:44:31.672000+02:00;card_199;card;Zoo
+2828;case_2;start;Receive visitor information;receive;2021-06-16 15:44:37.418000+02:00;info_2;info;Zoo
+2828;case_2;;Enter customer data into the system;;2021-06-16 15:44:44.542000+02:00;;;Zoo
+2828;case_2;;Send request to billing department;;2021-06-16 15:44:49.165000+02:00;;;Zoo
+2828;case_2;;Forward information to making department;;2021-06-16 15:45:03.168000+02:00;;;Zoo
+2828;case_2;;Mail ZooClub magazine;;2021-06-16 15:45:12.215000+02:00;;;Zoo
+2828;case_2;;Send payment request;send;2021-06-16 15:45:19.753000+02:00;request_0;request;Zoo
+2828;case_2;;Receive payment request;send;2021-06-16 15:45:19.753000+02:00;request_0;request;Zoo
+2828;case_2;;Wait for payment;;2021-06-16 15:45:24.069000+02:00;;;Zoo
+2828;case_2;notification;Payment confirmed;receive;2021-06-16 15:45:38.977000+02:00;account_1;account;Zoo
+2828;case_2;;Deliver Zooclub card;send;2021-06-16 15:45:40.301000+02:00;card_3;card;Zoo
+2929;case_202;start;Receive visitor information;receive;2021-06-16 16:44:55.289000+02:00;info_202;info;Zoo
+2929;case_202;;Enter customer data into the system;;2021-06-16 16:44:59.316000+02:00;;;Zoo
+2929;case_202;;Forward information to making department;;2021-06-16 16:45:02.555000+02:00;;;Zoo
+2929;case_202;;Send request to billing department;;2021-06-16 16:45:08.503000+02:00;;;Zoo
+2929;case_202;;Mail ZooClub magazine;;2021-06-16 16:45:12.195000+02:00;;;Zoo
+2929;case_202;;Wait for payment;;2021-06-16 16:45:16.281000+02:00;;;Zoo
+2929;case_202;;Send payment request;send;2021-06-16 16:45:23.750000+02:00;request_200;request;Zoo
+2929;case_202;;Receive payment request;send;2021-06-16 16:45:23.750000+02:00;request_200;request;Zoo
+2929;case_202;notification;Payment confirmed;receive;2021-06-16 16:45:36.660000+02:00;account_201;account;Zoo
+2929;case_202;;Deliver Zooclub card;send;2021-06-16 16:45:39.703000+02:00;card_203;card;Zoo
+3030;case_206;start;Receive visitor information;receive;2021-06-16 16:46:05.445000+02:00;info_206;info;Zoo
+3030;case_206;;Enter customer data into the system;;2021-06-16 16:46:07.137000+02:00;;;Zoo
+3030;case_206;;Forward information to making department;;2021-06-16 16:46:10.495000+02:00;;;Zoo
+3030;case_206;;Mail ZooClub magazine;;2021-06-16 16:46:14.526000+02:00;;;Zoo
+3030;case_206;;Send request to billing department;;2021-06-16 16:46:19.570000+02:00;;;Zoo
+3030;case_206;;Wait for payment;;2021-06-16 16:46:22.107000+02:00;;;Zoo
+3030;case_206;;Send payment request;send;2021-06-16 16:46:22.114000+02:00;request_204;request;Zoo
+3030;case_206;;Receive payment request;send;2021-06-16 16:46:22.114000+02:00;request_204;request;Zoo
+3030;case_206;notification;Payment confirmed;receive;2021-06-16 16:46:31.815000+02:00;account_205;account;Zoo
+3030;case_206;;Deliver Zooclub card;send;2021-06-16 16:46:40.347000+02:00;card_207;card;Zoo
+3131;case_210;start;Receive visitor information;receive;2021-06-16 16:46:56.850000+02:00;info_210;info;Zoo
+3131;case_210;;Enter customer data into the system;;2021-06-16 16:47:08.260000+02:00;;;Zoo
+3131;case_210;;Send request to billing department;;2021-06-16 16:47:08.637000+02:00;;;Zoo
+3131;case_210;;Forward information to making department;;2021-06-16 16:47:16.286000+02:00;;;Zoo
+3131;case_210;;Send payment request;send;2021-06-16 16:47:25.848000+02:00;request_208;request;Zoo
+3131;case_210;;Receive payment request;send;2021-06-16 16:47:25.848000+02:00;request_208;request;Zoo
+3131;case_210;;Mail ZooClub magazine;;2021-06-16 16:47:28.831000+02:00;;;Zoo
+3131;case_210;;Wait for payment;;2021-06-16 16:47:44.521000+02:00;;;Zoo
+3131;case_210;notification;Payment confirmed;receive;2021-06-16 16:47:54.850000+02:00;account_209;account;Zoo
+3131;case_210;;Deliver Zooclub card;send;2021-06-16 16:47:56.850000+02:00;card_211;card;Zoo
+3232;case_214;start;Receive visitor information;receive;2021-06-16 16:48:17.274000+02:00;info_214;info;Zoo
+3232;case_214;;Enter customer data into the system;;2021-06-16 16:48:18.130000+02:00;;;Zoo
+3232;case_214;;Forward information to making department;;2021-06-16 16:48:23.136000+02:00;;;Zoo
+3232;case_214;;Mail ZooClub magazine;;2021-06-16 16:48:34.033000+02:00;;;Zoo
+3232;case_214;;Send request to billing department;;2021-06-16 16:48:34.085000+02:00;;;Zoo
+3232;case_214;;Send payment request;send;2021-06-16 16:48:36.895000+02:00;request_212;request;Zoo
+3232;case_214;;Receive payment request;send;2021-06-16 16:48:36.895000+02:00;request_212;request;Zoo
+3232;case_214;;Wait for payment;;2021-06-16 16:48:42.220000+02:00;;;Zoo
+3232;case_214;notification;Payment confirmed;receive;2021-06-16 16:49:01.772000+02:00;account_213;account;Zoo
+3232;case_214;;Deliver Zooclub card;send;2021-06-16 16:49:03.873000+02:00;card_215;card;Zoo
+3333;case_218;start;Receive visitor information;receive;2021-06-16 16:49:36.946000+02:00;info_218;info;Zoo
+3333;case_218;;Enter customer data into the system;;2021-06-16 16:49:37.412000+02:00;;;Zoo
+3333;case_218;;Send request to billing department;;2021-06-16 16:49:38.107000+02:00;;;Zoo
+3333;case_218;;Forward information to making department;;2021-06-16 16:49:49.244000+02:00;;;Zoo
+3333;case_218;;Wait for payment;;2021-06-16 16:50:01.613000+02:00;;;Zoo
+3333;case_218;;Send payment request;send;2021-06-16 16:50:06.982000+02:00;request_216;request;Zoo
+3333;case_218;;Receive payment request;send;2021-06-16 16:50:06.982000+02:00;request_216;request;Zoo
+3333;case_218;;Mail ZooClub magazine;;2021-06-16 16:50:20.536000+02:00;;;Zoo
+3333;case_218;notification;Payment confirmed;receive;2021-06-16 16:50:28.937000+02:00;account_217;account;Zoo
+3333;case_218;;Deliver Zooclub card;send;2021-06-16 16:50:31.811000+02:00;card_219;card;Zoo
+3434;case_22;start;Receive visitor information;receive;2021-06-16 15:50:54.062000+02:00;info_22;info;Zoo
+3434;case_22;;Enter customer data into the system;;2021-06-16 15:50:57.080000+02:00;;;Zoo
+3434;case_22;;Send request to billing department;;2021-06-16 15:51:04.741000+02:00;;;Zoo
+3434;case_22;;Forward information to making department;;2021-06-16 15:51:17.624000+02:00;;;Zoo
+3434;case_22;;Mail ZooClub magazine;;2021-06-16 15:51:19.536000+02:00;;;Zoo
+3434;case_22;;Send payment request;send;2021-06-16 15:51:21.836000+02:00;request_20;request;Zoo
+3434;case_22;;Receive payment request;send;2021-06-16 15:51:21.836000+02:00;request_20;request;Zoo
+3434;case_22;;Wait for payment;;2021-06-16 15:51:24.552000+02:00;;;Zoo
+3434;case_22;notification;Payment confirmed;receive;2021-06-16 15:51:41.982000+02:00;account_21;account;Zoo
+3434;case_22;;Deliver Zooclub card;send;2021-06-16 15:51:44.552000+02:00;card_23;card;Zoo
+3535;case_222;start;Receive visitor information;receive;2021-06-16 16:50:53.072000+02:00;info_222;info;Zoo
+3535;case_222;;Enter customer data into the system;;2021-06-16 16:51:03.913000+02:00;;;Zoo
+3535;case_222;;Forward information to making department;;2021-06-16 16:51:05.399000+02:00;;;Zoo
+3535;case_222;;Send request to billing department;;2021-06-16 16:51:07.779000+02:00;;;Zoo
+3535;case_222;;Mail ZooClub magazine;;2021-06-16 16:51:13.274000+02:00;;;Zoo
+3535;case_222;;Send payment request;send;2021-06-16 16:51:16.646000+02:00;request_220;request;Zoo
+3535;case_222;;Receive payment request;send;2021-06-16 16:51:16.646000+02:00;request_220;request;Zoo
+3535;case_222;;Wait for payment;;2021-06-16 16:51:21.686000+02:00;;;Zoo
+3535;case_222;notification;Payment confirmed;receive;2021-06-16 16:51:34.001000+02:00;account_221;account;Zoo
+3535;case_222;;Deliver Zooclub card;send;2021-06-16 16:51:35.734000+02:00;card_223;card;Zoo
+3636;case_226;start;Receive visitor information;receive;2021-06-16 16:51:55.088000+02:00;info_226;info;Zoo
+3636;case_226;;Enter customer data into the system;;2021-06-16 16:51:58.071000+02:00;;;Zoo
+3636;case_226;;Forward information to making department;;2021-06-16 16:52:04.246000+02:00;;;Zoo
+3636;case_226;;Mail ZooClub magazine;;2021-06-16 16:52:16.472000+02:00;;;Zoo
+3636;case_226;;Send request to billing department;;2021-06-16 16:52:16.908000+02:00;;;Zoo
+3636;case_226;;Send payment request;send;2021-06-16 16:52:23.279000+02:00;request_224;request;Zoo
+3636;case_226;;Receive payment request;send;2021-06-16 16:52:23.279000+02:00;request_224;request;Zoo
+3636;case_226;;Wait for payment;;2021-06-16 16:52:24.052000+02:00;;;Zoo
+3636;case_226;notification;Payment confirmed;receive;2021-06-16 16:52:42.426000+02:00;account_225;account;Zoo
+3636;case_226;;Deliver Zooclub card;send;2021-06-16 16:52:44.809000+02:00;card_227;card;Zoo
+3737;case_230;start;Receive visitor information;receive;2021-06-16 16:53:08.453000+02:00;info_230;info;Zoo
+3737;case_230;;Enter customer data into the system;;2021-06-16 16:53:16.933000+02:00;;;Zoo
+3737;case_230;;Forward information to making department;;2021-06-16 16:53:20.228000+02:00;;;Zoo
+3737;case_230;;Send request to billing department;;2021-06-16 16:53:24.695000+02:00;;;Zoo
+3737;case_230;;Mail ZooClub magazine;;2021-06-16 16:53:28.800000+02:00;;;Zoo
+3737;case_230;;Wait for payment;;2021-06-16 16:53:35.800000+02:00;;;Zoo
+3737;case_230;;Send payment request;send;2021-06-16 16:53:36.671000+02:00;request_228;request;Zoo
+3737;case_230;;Receive payment request;send;2021-06-16 16:53:36.671000+02:00;request_228;request;Zoo
+3737;case_230;notification;Payment confirmed;receive;2021-06-16 16:53:50.318000+02:00;account_229;account;Zoo
+3737;case_230;;Deliver Zooclub card;send;2021-06-16 16:53:51.247000+02:00;card_231;card;Zoo
+3838;case_234;start;Receive visitor information;receive;2021-06-16 16:54:14.537000+02:00;info_234;info;Zoo
+3838;case_234;;Enter customer data into the system;;2021-06-16 16:54:17.013000+02:00;;;Zoo
+3838;case_234;;Forward information to making department;;2021-06-16 16:54:19.022000+02:00;;;Zoo
+3838;case_234;;Send request to billing department;;2021-06-16 16:54:21.935000+02:00;;;Zoo
+3838;case_234;;Mail ZooClub magazine;;2021-06-16 16:54:25.667000+02:00;;;Zoo
+3838;case_234;;Wait for payment;;2021-06-16 16:54:28.561000+02:00;;;Zoo
+3838;case_234;;Send payment request;send;2021-06-16 16:54:35.141000+02:00;request_232;request;Zoo
+3838;case_234;;Receive payment request;send;2021-06-16 16:54:35.141000+02:00;request_232;request;Zoo
+3838;case_234;notification;Payment confirmed;receive;2021-06-16 16:54:43.143000+02:00;account_233;account;Zoo
+3838;case_234;;Deliver Zooclub card;send;2021-06-16 16:54:44.437000+02:00;card_235;card;Zoo
+3939;case_238;start;Receive visitor information;receive;2021-06-16 16:55:07.298000+02:00;info_238;info;Zoo
+3939;case_238;;Enter customer data into the system;;2021-06-16 16:55:20.971000+02:00;;;Zoo
+3939;case_238;;Send request to billing department;;2021-06-16 16:55:22.566000+02:00;;;Zoo
+3939;case_238;;Wait for payment;;2021-06-16 16:55:36.899000+02:00;;;Zoo
+3939;case_238;;Forward information to making department;;2021-06-16 16:55:41.064000+02:00;;;Zoo
+3939;case_238;;Send payment request;send;2021-06-16 16:55:49.213000+02:00;request_236;request;Zoo
+3939;case_238;;Receive payment request;send;2021-06-16 16:55:49.213000+02:00;request_236;request;Zoo
+3939;case_238;;Mail ZooClub magazine;;2021-06-16 16:56:08.771000+02:00;;;Zoo
+3939;case_238;notification;Payment confirmed;receive;2021-06-16 16:56:17.310000+02:00;account_237;account;Zoo
+3939;case_238;;Deliver Zooclub card;send;2021-06-16 16:56:22.156000+02:00;card_239;card;Zoo
+4040;case_242;start;Receive visitor information;receive;2021-06-16 16:56:51.113000+02:00;info_242;info;Zoo
+4040;case_242;;Enter customer data into the system;;2021-06-16 16:56:55.034000+02:00;;;Zoo
+4040;case_242;;Send request to billing department;;2021-06-16 16:57:00.626000+02:00;;;Zoo
+4040;case_242;;Forward information to making department;;2021-06-16 16:57:03.517000+02:00;;;Zoo
+4040;case_242;;Mail ZooClub magazine;;2021-06-16 16:57:04.736000+02:00;;;Zoo
+4040;case_242;;Wait for payment;;2021-06-16 16:57:05.894000+02:00;;;Zoo
+4040;case_242;;Send payment request;send;2021-06-16 16:57:05.904000+02:00;request_240;request;Zoo
+4040;case_242;;Receive payment request;send;2021-06-16 16:57:05.904000+02:00;request_240;request;Zoo
+4040;case_242;notification;Payment confirmed;receive;2021-06-16 16:57:17.287000+02:00;account_241;account;Zoo
+4040;case_242;;Deliver Zooclub card;send;2021-06-16 16:57:17.826000+02:00;card_243;card;Zoo
+4141;case_246;start;Receive visitor information;receive;2021-06-16 16:57:46.719000+02:00;info_246;info;Zoo
+4141;case_246;;Enter customer data into the system;;2021-06-16 16:57:46.818000+02:00;;;Zoo
+4141;case_246;;Send request to billing department;;2021-06-16 16:57:51.288000+02:00;;;Zoo
+4141;case_246;;Wait for payment;;2021-06-16 16:57:59.967000+02:00;;;Zoo
+4141;case_246;;Send payment request;send;2021-06-16 16:58:06.207000+02:00;request_244;request;Zoo
+4141;case_246;;Receive payment request;send;2021-06-16 16:58:06.207000+02:00;request_244;request;Zoo
+4141;case_246;;Forward information to making department;;2021-06-16 16:58:15.088000+02:00;;;Zoo
+4141;case_246;;Mail ZooClub magazine;;2021-06-16 16:58:16.174000+02:00;;;Zoo
+4141;case_246;notification;Payment confirmed;receive;2021-06-16 16:58:18.023000+02:00;account_245;account;Zoo
+4141;case_246;;Deliver Zooclub card;send;2021-06-16 16:58:22.162000+02:00;card_247;card;Zoo
+4242;case_250;start;Receive visitor information;receive;2021-06-16 16:58:46.152000+02:00;info_250;info;Zoo
+4242;case_250;;Enter customer data into the system;;2021-06-16 16:58:51.808000+02:00;;;Zoo
+4242;case_250;;Forward information to making department;;2021-06-16 16:59:04.173000+02:00;;;Zoo
+4242;case_250;;Send request to billing department;;2021-06-16 16:59:05.608000+02:00;;;Zoo
+4242;case_250;;Mail ZooClub magazine;;2021-06-16 16:59:13.140000+02:00;;;Zoo
+4242;case_250;;Send payment request;send;2021-06-16 16:59:18.317000+02:00;request_248;request;Zoo
+4242;case_250;;Receive payment request;send;2021-06-16 16:59:18.317000+02:00;request_248;request;Zoo
+4242;case_250;;Wait for payment;;2021-06-16 16:59:18.351000+02:00;;;Zoo
+4242;case_250;notification;Payment confirmed;receive;2021-06-16 16:59:36.557000+02:00;account_249;account;Zoo
+4242;case_250;;Deliver Zooclub card;send;2021-06-16 16:59:36.953000+02:00;card_251;card;Zoo
+4343;case_254;start;Receive visitor information;receive;2021-06-16 17:00:02.958000+02:00;info_254;info;Zoo
+4343;case_254;;Enter customer data into the system;;2021-06-16 17:00:07.464000+02:00;;;Zoo
+4343;case_254;;Forward information to making department;;2021-06-16 17:00:13.726000+02:00;;;Zoo
+4343;case_254;;Send request to billing department;;2021-06-16 17:00:17.720000+02:00;;;Zoo
+4343;case_254;;Mail ZooClub magazine;;2021-06-16 17:00:24.066000+02:00;;;Zoo
+4343;case_254;;Send payment request;send;2021-06-16 17:00:25.752000+02:00;request_252;request;Zoo
+4343;case_254;;Receive payment request;send;2021-06-16 17:00:25.752000+02:00;request_252;request;Zoo
+4343;case_254;;Wait for payment;;2021-06-16 17:00:31.713000+02:00;;;Zoo
+4343;case_254;notification;Payment confirmed;receive;2021-06-16 17:00:40.960000+02:00;account_253;account;Zoo
+4343;case_254;;Deliver Zooclub card;send;2021-06-16 17:00:42.481000+02:00;card_255;card;Zoo
+4444;case_258;start;Receive visitor information;receive;2021-06-16 17:01:06.922000+02:00;info_258;info;Zoo
+4444;case_258;;Enter customer data into the system;;2021-06-16 17:01:10.968000+02:00;;;Zoo
+4444;case_258;;Send request to billing department;;2021-06-16 17:01:26.380000+02:00;;;Zoo
+4444;case_258;;Wait for payment;;2021-06-16 17:01:41.994000+02:00;;;Zoo
+4444;case_258;;Send payment request;send;2021-06-16 17:01:46.387000+02:00;request_256;request;Zoo
+4444;case_258;;Receive payment request;send;2021-06-16 17:01:46.387000+02:00;request_256;request;Zoo
+4444;case_258;;Forward information to making department;;2021-06-16 17:01:54.606000+02:00;;;Zoo
+4444;case_258;;Mail ZooClub magazine;;2021-06-16 17:01:57.201000+02:00;;;Zoo
+4444;case_258;notification;Payment confirmed;receive;2021-06-16 17:02:16.822000+02:00;account_257;account;Zoo
+4444;case_258;;Deliver Zooclub card;send;2021-06-16 17:02:19.513000+02:00;card_259;card;Zoo
+4545;case_26;start;Receive visitor information;receive;2021-06-16 15:52:09.334000+02:00;info_26;info;Zoo
+4545;case_26;;Enter customer data into the system;;2021-06-16 15:52:18.417000+02:00;;;Zoo
+4545;case_26;;Send request to billing department;;2021-06-16 15:52:21.857000+02:00;;;Zoo
+4545;case_26;;Forward information to making department;;2021-06-16 15:52:25.105000+02:00;;;Zoo
+4545;case_26;;Send payment request;send;2021-06-16 15:52:29.908000+02:00;request_24;request;Zoo
+4545;case_26;;Receive payment request;send;2021-06-16 15:52:29.908000+02:00;request_24;request;Zoo
+4545;case_26;;Wait for payment;;2021-06-16 15:52:34.838000+02:00;;;Zoo
+4545;case_26;;Mail ZooClub magazine;;2021-06-16 15:52:42.635000+02:00;;;Zoo
+4545;case_26;notification;Payment confirmed;receive;2021-06-16 15:53:00.071000+02:00;account_25;account;Zoo
+4545;case_26;;Deliver Zooclub card;send;2021-06-16 15:53:04.582000+02:00;card_27;card;Zoo
+4646;case_262;start;Receive visitor information;receive;2021-06-16 17:02:44.976000+02:00;info_262;info;Zoo
+4646;case_262;;Enter customer data into the system;;2021-06-16 17:02:45.602000+02:00;;;Zoo
+4646;case_262;;Forward information to making department;;2021-06-16 17:02:49.763000+02:00;;;Zoo
+4646;case_262;;Mail ZooClub magazine;;2021-06-16 17:02:54.323000+02:00;;;Zoo
+4646;case_262;;Send request to billing department;;2021-06-16 17:02:58.748000+02:00;;;Zoo
+4646;case_262;;Wait for payment;;2021-06-16 17:03:06.081000+02:00;;;Zoo
+4646;case_262;;Send payment request;send;2021-06-16 17:03:10.375000+02:00;request_260;request;Zoo
+4646;case_262;;Receive payment request;send;2021-06-16 17:03:10.375000+02:00;request_260;request;Zoo
+4646;case_262;notification;Payment confirmed;receive;2021-06-16 17:03:27.950000+02:00;account_261;account;Zoo
+4646;case_262;;Deliver Zooclub card;send;2021-06-16 17:03:35.731000+02:00;card_263;card;Zoo
+4747;case_266;start;Receive visitor information;receive;2021-06-16 17:03:52.988000+02:00;info_266;info;Zoo
+4747;case_266;;Enter customer data into the system;;2021-06-16 17:04:00.005000+02:00;;;Zoo
+4747;case_266;;Forward information to making department;;2021-06-16 17:04:06.621000+02:00;;;Zoo
+4747;case_266;;Mail ZooClub magazine;;2021-06-16 17:04:13.355000+02:00;;;Zoo
+4747;case_266;;Send request to billing department;;2021-06-16 17:04:13.534000+02:00;;;Zoo
+4747;case_266;;Wait for payment;;2021-06-16 17:04:17.910000+02:00;;;Zoo
+4747;case_266;;Send payment request;send;2021-06-16 17:04:18.020000+02:00;request_264;request;Zoo
+4747;case_266;;Receive payment request;send;2021-06-16 17:04:18.020000+02:00;request_264;request;Zoo
+4747;case_266;notification;Payment confirmed;receive;2021-06-16 17:04:36.649000+02:00;account_265;account;Zoo
+4747;case_266;;Deliver Zooclub card;send;2021-06-16 17:04:38.764000+02:00;card_267;card;Zoo
+4848;case_270;start;Receive visitor information;receive;2021-06-16 17:05:04.054000+02:00;info_270;info;Zoo
+4848;case_270;;Enter customer data into the system;;2021-06-16 17:05:10.445000+02:00;;;Zoo
+4848;case_270;;Send request to billing department;;2021-06-16 17:05:15.213000+02:00;;;Zoo
+4848;case_270;;Forward information to making department;;2021-06-16 17:05:27.345000+02:00;;;Zoo
+4848;case_270;;Mail ZooClub magazine;;2021-06-16 17:05:37.399000+02:00;;;Zoo
+4848;case_270;;Send payment request;send;2021-06-16 17:05:49.031000+02:00;request_268;request;Zoo
+4848;case_270;;Receive payment request;send;2021-06-16 17:05:49.031000+02:00;request_268;request;Zoo
+4848;case_270;;Wait for payment;;2021-06-16 17:05:53.105000+02:00;;;Zoo
+4848;case_270;notification;Payment confirmed;receive;2021-06-16 17:06:11.444000+02:00;account_269;account;Zoo
+4848;case_270;;Deliver Zooclub card;send;2021-06-16 17:06:14.646000+02:00;card_271;card;Zoo
+4949;case_274;start;Receive visitor information;receive;2021-06-16 17:06:36.466000+02:00;info_274;info;Zoo
+4949;case_274;;Enter customer data into the system;;2021-06-16 17:06:38.913000+02:00;;;Zoo
+4949;case_274;;Send request to billing department;;2021-06-16 17:06:43.452000+02:00;;;Zoo
+4949;case_274;;Forward information to making department;;2021-06-16 17:06:47.598000+02:00;;;Zoo
+4949;case_274;;Mail ZooClub magazine;;2021-06-16 17:06:47.963000+02:00;;;Zoo
+4949;case_274;;Wait for payment;;2021-06-16 17:06:52.434000+02:00;;;Zoo
+4949;case_274;;Send payment request;send;2021-06-16 17:07:01.982000+02:00;request_272;request;Zoo
+4949;case_274;;Receive payment request;send;2021-06-16 17:07:01.982000+02:00;request_272;request;Zoo
+4949;case_274;notification;Payment confirmed;receive;2021-06-16 17:07:11.759000+02:00;account_273;account;Zoo
+4949;case_274;;Deliver Zooclub card;send;2021-06-16 17:07:13.069000+02:00;card_275;card;Zoo
+5050;case_278;start;Receive visitor information;receive;2021-06-16 17:07:34.146000+02:00;info_278;info;Zoo
+5050;case_278;;Enter customer data into the system;;2021-06-16 17:07:38.172000+02:00;;;Zoo
+5050;case_278;;Forward information to making department;;2021-06-16 17:07:42.946000+02:00;;;Zoo
+5050;case_278;;Send request to billing department;;2021-06-16 17:07:54.216000+02:00;;;Zoo
+5050;case_278;;Mail ZooClub magazine;;2021-06-16 17:07:58.620000+02:00;;;Zoo
+5050;case_278;;Wait for payment;;2021-06-16 17:07:58.684000+02:00;;;Zoo
+5050;case_278;;Send payment request;send;2021-06-16 17:08:02.946000+02:00;request_276;request;Zoo
+5050;case_278;;Receive payment request;send;2021-06-16 17:08:02.946000+02:00;request_276;request;Zoo
+5050;case_278;notification;Payment confirmed;receive;2021-06-16 17:08:16.720000+02:00;account_277;account;Zoo
+5050;case_278;;Deliver Zooclub card;send;2021-06-16 17:08:22.679000+02:00;card_279;card;Zoo
+5151;case_282;start;Receive visitor information;receive;2021-06-16 17:08:42.831000+02:00;info_282;info;Zoo
+5151;case_282;;Enter customer data into the system;;2021-06-16 17:08:49.329000+02:00;;;Zoo
+5151;case_282;;Forward information to making department;;2021-06-16 17:08:54.133000+02:00;;;Zoo
+5151;case_282;;Send request to billing department;;2021-06-16 17:08:58.018000+02:00;;;Zoo
+5151;case_282;;Mail ZooClub magazine;;2021-06-16 17:09:03.068000+02:00;;;Zoo
+5151;case_282;;Send payment request;send;2021-06-16 17:09:07.393000+02:00;request_280;request;Zoo
+5151;case_282;;Receive payment request;send;2021-06-16 17:09:07.393000+02:00;request_280;request;Zoo
+5151;case_282;;Wait for payment;;2021-06-16 17:09:28.576000+02:00;;;Zoo
+5151;case_282;notification;Payment confirmed;receive;2021-06-16 17:09:38.916000+02:00;account_281;account;Zoo
+5151;case_282;;Deliver Zooclub card;send;2021-06-16 17:09:41.868000+02:00;card_283;card;Zoo
+5252;case_286;start;Receive visitor information;receive;2021-06-16 17:10:00.712000+02:00;info_286;info;Zoo
+5252;case_286;;Enter customer data into the system;;2021-06-16 17:10:02.536000+02:00;;;Zoo
+5252;case_286;;Forward information to making department;;2021-06-16 17:10:13.224000+02:00;;;Zoo
+5252;case_286;;Send request to billing department;;2021-06-16 17:10:13.935000+02:00;;;Zoo
+5252;case_286;;Mail ZooClub magazine;;2021-06-16 17:10:27.970000+02:00;;;Zoo
+5252;case_286;;Wait for payment;;2021-06-16 17:10:28.002000+02:00;;;Zoo
+5252;case_286;;Send payment request;send;2021-06-16 17:10:30.840000+02:00;request_284;request;Zoo
+5252;case_286;;Receive payment request;send;2021-06-16 17:10:30.840000+02:00;request_284;request;Zoo
+5252;case_286;notification;Payment confirmed;receive;2021-06-16 17:10:45.546000+02:00;account_285;account;Zoo
+5252;case_286;;Deliver Zooclub card;send;2021-06-16 17:10:49.165000+02:00;card_287;card;Zoo
+5353;case_290;start;Receive visitor information;receive;2021-06-16 17:11:06.637000+02:00;info_290;info;Zoo
+5353;case_290;;Enter customer data into the system;;2021-06-16 17:11:09.315000+02:00;;;Zoo
+5353;case_290;;Send request to billing department;;2021-06-16 17:11:14.791000+02:00;;;Zoo
+5353;case_290;;Forward information to making department;;2021-06-16 17:11:18.166000+02:00;;;Zoo
+5353;case_290;;Send payment request;send;2021-06-16 17:11:25.957000+02:00;request_288;request;Zoo
+5353;case_290;;Receive payment request;send;2021-06-16 17:11:25.957000+02:00;request_288;request;Zoo
+5353;case_290;;Mail ZooClub magazine;;2021-06-16 17:11:28.568000+02:00;;;Zoo
+5353;case_290;;Wait for payment;;2021-06-16 17:11:41.317000+02:00;;;Zoo
+5353;case_290;notification;Payment confirmed;receive;2021-06-16 17:11:44.125000+02:00;account_289;account;Zoo
+5353;case_290;;Deliver Zooclub card;send;2021-06-16 17:11:46.438000+02:00;card_291;card;Zoo
+5454;case_294;start;Receive visitor information;receive;2021-06-16 17:12:07.453000+02:00;info_294;info;Zoo
+5454;case_294;;Enter customer data into the system;;2021-06-16 17:12:12.965000+02:00;;;Zoo
+5454;case_294;;Forward information to making department;;2021-06-16 17:12:19.290000+02:00;;;Zoo
+5454;case_294;;Send request to billing department;;2021-06-16 17:12:22.718000+02:00;;;Zoo
+5454;case_294;;Mail ZooClub magazine;;2021-06-16 17:12:23.584000+02:00;;;Zoo
+5454;case_294;;Wait for payment;;2021-06-16 17:12:28.757000+02:00;;;Zoo
+5454;case_294;;Send payment request;send;2021-06-16 17:12:33.517000+02:00;request_292;request;Zoo
+5454;case_294;;Receive payment request;send;2021-06-16 17:12:33.517000+02:00;request_292;request;Zoo
+5454;case_294;notification;Payment confirmed;receive;2021-06-16 17:12:44.701000+02:00;account_293;account;Zoo
+5454;case_294;;Deliver Zooclub card;send;2021-06-16 17:12:49.649000+02:00;card_295;card;Zoo
+5555;case_298;start;Receive visitor information;receive;2021-06-16 17:13:12.035000+02:00;info_298;info;Zoo
+5555;case_298;;Enter customer data into the system;;2021-06-16 17:13:16.001000+02:00;;;Zoo
+5555;case_298;;Send request to billing department;;2021-06-16 17:13:20.439000+02:00;;;Zoo
+5555;case_298;;Send payment request;send;2021-06-16 17:13:32.251000+02:00;request_296;request;Zoo
+5555;case_298;;Receive payment request;send;2021-06-16 17:13:32.251000+02:00;request_296;request;Zoo
+5555;case_298;;Wait for payment;;2021-06-16 17:13:39.137000+02:00;;;Zoo
+5555;case_298;;Forward information to making department;;2021-06-16 17:13:44.400000+02:00;;;Zoo
+5555;case_298;;Mail ZooClub magazine;;2021-06-16 17:13:50.801000+02:00;;;Zoo
+5555;case_298;notification;Payment confirmed;receive;2021-06-16 17:14:11.670000+02:00;account_297;account;Zoo
+5555;case_298;;Deliver Zooclub card;send;2021-06-16 17:14:13.438000+02:00;card_299;card;Zoo
+5656;case_30;start;Receive visitor information;receive;2021-06-16 15:53:23.692000+02:00;info_30;info;Zoo
+5656;case_30;;Enter customer data into the system;;2021-06-16 15:53:28.167000+02:00;;;Zoo
+5656;case_30;;Forward information to making department;;2021-06-16 15:53:35.518000+02:00;;;Zoo
+5656;case_30;;Send request to billing department;;2021-06-16 15:53:43.599000+02:00;;;Zoo
+5656;case_30;;Mail ZooClub magazine;;2021-06-16 15:53:49.847000+02:00;;;Zoo
+5656;case_30;;Wait for payment;;2021-06-16 15:53:53.063000+02:00;;;Zoo
+5656;case_30;;Send payment request;send;2021-06-16 15:53:56.058000+02:00;request_28;request;Zoo
+5656;case_30;;Receive payment request;send;2021-06-16 15:53:56.058000+02:00;request_28;request;Zoo
+5656;case_30;notification;Payment confirmed;receive;2021-06-16 15:54:08.720000+02:00;account_29;account;Zoo
+5656;case_30;;Deliver Zooclub card;send;2021-06-16 15:54:15.333000+02:00;card_31;card;Zoo
+5757;case_302;start;Receive visitor information;receive;2021-06-16 17:14:26.929000+02:00;info_302;info;Zoo
+5757;case_302;;Enter customer data into the system;;2021-06-16 17:14:31.541000+02:00;;;Zoo
+5757;case_302;;Forward information to making department;;2021-06-16 17:14:50.837000+02:00;;;Zoo
+5757;case_302;;Mail ZooClub magazine;;2021-06-16 17:14:55.102000+02:00;;;Zoo
+5757;case_302;;Send request to billing department;;2021-06-16 17:14:59.017000+02:00;;;Zoo
+5757;case_302;;Wait for payment;;2021-06-16 17:15:05.482000+02:00;;;Zoo
+5757;case_302;;Send payment request;send;2021-06-16 17:15:08.686000+02:00;request_300;request;Zoo
+5757;case_302;;Receive payment request;send;2021-06-16 17:15:08.686000+02:00;request_300;request;Zoo
+5757;case_302;notification;Payment confirmed;receive;2021-06-16 17:15:19.700000+02:00;account_301;account;Zoo
+5757;case_302;;Deliver Zooclub card;send;2021-06-16 17:15:24.354000+02:00;card_303;card;Zoo
+5858;case_306;start;Receive visitor information;receive;2021-06-16 17:15:39.753000+02:00;info_306;info;Zoo
+5858;case_306;;Enter customer data into the system;;2021-06-16 17:15:47.234000+02:00;;;Zoo
+5858;case_306;;Forward information to making department;;2021-06-16 17:15:48.022000+02:00;;;Zoo
+5858;case_306;;Send request to billing department;;2021-06-16 17:15:50.029000+02:00;;;Zoo
+5858;case_306;;Send payment request;send;2021-06-16 17:15:57.336000+02:00;request_304;request;Zoo
+5858;case_306;;Receive payment request;send;2021-06-16 17:15:57.336000+02:00;request_304;request;Zoo
+5858;case_306;;Mail ZooClub magazine;;2021-06-16 17:16:02.189000+02:00;;;Zoo
+5858;case_306;;Wait for payment;;2021-06-16 17:16:09.851000+02:00;;;Zoo
+5858;case_306;notification;Payment confirmed;receive;2021-06-16 17:16:21.073000+02:00;account_305;account;Zoo
+5858;case_306;;Deliver Zooclub card;send;2021-06-16 17:16:21.669000+02:00;card_307;card;Zoo
+5959;case_310;start;Receive visitor information;receive;2021-06-16 17:16:51.079000+02:00;info_310;info;Zoo
+5959;case_310;;Enter customer data into the system;;2021-06-16 17:16:54.202000+02:00;;;Zoo
+5959;case_310;;Forward information to making department;;2021-06-16 17:16:58.246000+02:00;;;Zoo
+5959;case_310;;Send request to billing department;;2021-06-16 17:17:02.561000+02:00;;;Zoo
+5959;case_310;;Mail ZooClub magazine;;2021-06-16 17:17:05.575000+02:00;;;Zoo
+5959;case_310;;Wait for payment;;2021-06-16 17:17:06.427000+02:00;;;Zoo
+5959;case_310;;Send payment request;send;2021-06-16 17:17:12.607000+02:00;request_308;request;Zoo
+5959;case_310;;Receive payment request;send;2021-06-16 17:17:12.607000+02:00;request_308;request;Zoo
+5959;case_310;notification;Payment confirmed;receive;2021-06-16 17:17:21.313000+02:00;account_309;account;Zoo
+5959;case_310;;Deliver Zooclub card;send;2021-06-16 17:17:25.109000+02:00;card_311;card;Zoo
+6060;case_314;start;Receive visitor information;receive;2021-06-16 17:17:47.975000+02:00;info_314;info;Zoo
+6060;case_314;;Enter customer data into the system;;2021-06-16 17:17:50.394000+02:00;;;Zoo
+6060;case_314;;Forward information to making department;;2021-06-16 17:17:54.755000+02:00;;;Zoo
+6060;case_314;;Mail ZooClub magazine;;2021-06-16 17:17:58.110000+02:00;;;Zoo
+6060;case_314;;Send request to billing department;;2021-06-16 17:18:01.463000+02:00;;;Zoo
+6060;case_314;;Send payment request;send;2021-06-16 17:18:02.861000+02:00;request_312;request;Zoo
+6060;case_314;;Receive payment request;send;2021-06-16 17:18:02.861000+02:00;request_312;request;Zoo
+6060;case_314;;Wait for payment;;2021-06-16 17:18:17.879000+02:00;;;Zoo
+6060;case_314;notification;Payment confirmed;receive;2021-06-16 17:18:27.715000+02:00;account_313;account;Zoo
+6060;case_314;;Deliver Zooclub card;send;2021-06-16 17:18:30.753000+02:00;card_315;card;Zoo
+6161;case_318;start;Receive visitor information;receive;2021-06-16 17:18:55.130000+02:00;info_318;info;Zoo
+6161;case_318;;Enter customer data into the system;;2021-06-16 17:19:04.241000+02:00;;;Zoo
+6161;case_318;;Forward information to making department;;2021-06-16 17:19:12.773000+02:00;;;Zoo
+6161;case_318;;Send request to billing department;;2021-06-16 17:19:14.098000+02:00;;;Zoo
+6161;case_318;;Mail ZooClub magazine;;2021-06-16 17:19:17.240000+02:00;;;Zoo
+6161;case_318;;Send payment request;send;2021-06-16 17:19:20.120000+02:00;request_316;request;Zoo
+6161;case_318;;Receive payment request;send;2021-06-16 17:19:20.120000+02:00;request_316;request;Zoo
+6161;case_318;;Wait for payment;;2021-06-16 17:19:29.279000+02:00;;;Zoo
+6161;case_318;notification;Payment confirmed;receive;2021-06-16 17:19:54.730000+02:00;account_317;account;Zoo
+6161;case_318;;Deliver Zooclub card;send;2021-06-16 17:19:55.902000+02:00;card_319;card;Zoo
+6262;case_322;start;Receive visitor information;receive;2021-06-16 17:20:14.669000+02:00;info_322;info;Zoo
+6262;case_322;;Enter customer data into the system;;2021-06-16 17:20:23.502000+02:00;;;Zoo
+6262;case_322;;Forward information to making department;;2021-06-16 17:20:37.742000+02:00;;;Zoo
+6262;case_322;;Mail ZooClub magazine;;2021-06-16 17:20:45.552000+02:00;;;Zoo
+6262;case_322;;Send request to billing department;;2021-06-16 17:20:51.805000+02:00;;;Zoo
+6262;case_322;;Send payment request;send;2021-06-16 17:20:56.032000+02:00;request_320;request;Zoo
+6262;case_322;;Receive payment request;send;2021-06-16 17:20:56.032000+02:00;request_320;request;Zoo
+6262;case_322;;Wait for payment;;2021-06-16 17:21:18.248000+02:00;;;Zoo
+6262;case_322;notification;Payment confirmed;receive;2021-06-16 17:21:19.402000+02:00;account_321;account;Zoo
+6262;case_322;;Deliver Zooclub card;send;2021-06-16 17:21:23.448000+02:00;card_323;card;Zoo
+6363;case_326;start;Receive visitor information;receive;2021-06-16 17:21:49.481000+02:00;info_326;info;Zoo
+6363;case_326;;Enter customer data into the system;;2021-06-16 17:21:49.540000+02:00;;;Zoo
+6363;case_326;;Forward information to making department;;2021-06-16 17:21:51.945000+02:00;;;Zoo
+6363;case_326;;Mail ZooClub magazine;;2021-06-16 17:21:52.470000+02:00;;;Zoo
+6363;case_326;;Send request to billing department;;2021-06-16 17:21:55.409000+02:00;;;Zoo
+6363;case_326;;Send payment request;send;2021-06-16 17:22:00.030000+02:00;request_324;request;Zoo
+6363;case_326;;Receive payment request;send;2021-06-16 17:22:00.030000+02:00;request_324;request;Zoo
+6363;case_326;;Wait for payment;;2021-06-16 17:22:08.850000+02:00;;;Zoo
+6363;case_326;notification;Payment confirmed;receive;2021-06-16 17:22:20.574000+02:00;account_325;account;Zoo
+6363;case_326;;Deliver Zooclub card;send;2021-06-16 17:22:22.803000+02:00;card_327;card;Zoo
+6464;case_330;start;Receive visitor information;receive;2021-06-16 17:22:45.605000+02:00;info_330;info;Zoo
+6464;case_330;;Enter customer data into the system;;2021-06-16 17:22:48.323000+02:00;;;Zoo
+6464;case_330;;Forward information to making department;;2021-06-16 17:22:49.344000+02:00;;;Zoo
+6464;case_330;;Mail ZooClub magazine;;2021-06-16 17:22:53.696000+02:00;;;Zoo
+6464;case_330;;Send request to billing department;;2021-06-16 17:22:56.887000+02:00;;;Zoo
+6464;case_330;;Send payment request;send;2021-06-16 17:22:58.239000+02:00;request_328;request;Zoo
+6464;case_330;;Receive payment request;send;2021-06-16 17:22:58.239000+02:00;request_328;request;Zoo
+6464;case_330;;Wait for payment;;2021-06-16 17:23:04.139000+02:00;;;Zoo
+6464;case_330;notification;Payment confirmed;receive;2021-06-16 17:23:19.355000+02:00;account_329;account;Zoo
+6464;case_330;;Deliver Zooclub card;send;2021-06-16 17:23:20.611000+02:00;card_331;card;Zoo
+6565;case_334;start;Receive visitor information;receive;2021-06-16 17:23:38.539000+02:00;info_334;info;Zoo
+6565;case_334;;Enter customer data into the system;;2021-06-16 17:23:42.933000+02:00;;;Zoo
+6565;case_334;;Send request to billing department;;2021-06-16 17:23:44.234000+02:00;;;Zoo
+6565;case_334;;Forward information to making department;;2021-06-16 17:23:48.194000+02:00;;;Zoo
+6565;case_334;;Mail ZooClub magazine;;2021-06-16 17:24:01.984000+02:00;;;Zoo
+6565;case_334;;Send payment request;send;2021-06-16 17:24:07.691000+02:00;request_332;request;Zoo
+6565;case_334;;Receive payment request;send;2021-06-16 17:24:07.691000+02:00;request_332;request;Zoo
+6565;case_334;;Wait for payment;;2021-06-16 17:24:28.687000+02:00;;;Zoo
+6565;case_334;notification;Payment confirmed;receive;2021-06-16 17:24:32.657000+02:00;account_333;account;Zoo
+6565;case_334;;Deliver Zooclub card;send;2021-06-16 17:24:34.284000+02:00;card_335;card;Zoo
+6666;case_338;start;Receive visitor information;receive;2021-06-16 17:24:50.313000+02:00;info_338;info;Zoo
+6666;case_338;;Enter customer data into the system;;2021-06-16 17:24:54.018000+02:00;;;Zoo
+6666;case_338;;Send request to billing department;;2021-06-16 17:24:59.241000+02:00;;;Zoo
+6666;case_338;;Forward information to making department;;2021-06-16 17:25:01.038000+02:00;;;Zoo
+6666;case_338;;Mail ZooClub magazine;;2021-06-16 17:25:05.367000+02:00;;;Zoo
+6666;case_338;;Wait for payment;;2021-06-16 17:25:07.209000+02:00;;;Zoo
+6666;case_338;;Send payment request;send;2021-06-16 17:25:14.533000+02:00;request_336;request;Zoo
+6666;case_338;;Receive payment request;send;2021-06-16 17:25:14.533000+02:00;request_336;request;Zoo
+6666;case_338;notification;Payment confirmed;receive;2021-06-16 17:25:22.072000+02:00;account_337;account;Zoo
+6666;case_338;;Deliver Zooclub card;send;2021-06-16 17:25:29.536000+02:00;card_339;card;Zoo
+6767;case_34;start;Receive visitor information;receive;2021-06-16 15:54:35.884000+02:00;info_34;info;Zoo
+6767;case_34;;Enter customer data into the system;;2021-06-16 15:54:36.779000+02:00;;;Zoo
+6767;case_34;;Forward information to making department;;2021-06-16 15:54:41.826000+02:00;;;Zoo
+6767;case_34;;Send request to billing department;;2021-06-16 15:54:47.665000+02:00;;;Zoo
+6767;case_34;;Send payment request;send;2021-06-16 15:54:55.922000+02:00;request_32;request;Zoo
+6767;case_34;;Receive payment request;send;2021-06-16 15:54:55.922000+02:00;request_32;request;Zoo
+6767;case_34;;Wait for payment;;2021-06-16 15:55:05.719000+02:00;;;Zoo
+6767;case_34;;Mail ZooClub magazine;;2021-06-16 15:55:18.351000+02:00;;;Zoo
+6767;case_34;notification;Payment confirmed;receive;2021-06-16 15:55:26.335000+02:00;account_33;account;Zoo
+6767;case_34;;Deliver Zooclub card;send;2021-06-16 15:55:27.429000+02:00;card_35;card;Zoo
+6868;case_342;start;Receive visitor information;receive;2021-06-16 17:25:56.092000+02:00;info_342;info;Zoo
+6868;case_342;;Enter customer data into the system;;2021-06-16 17:26:02.360000+02:00;;;Zoo
+6868;case_342;;Forward information to making department;;2021-06-16 17:26:23.021000+02:00;;;Zoo
+6868;case_342;;Mail ZooClub magazine;;2021-06-16 17:26:24.922000+02:00;;;Zoo
+6868;case_342;;Send request to billing department;;2021-06-16 17:26:29.417000+02:00;;;Zoo
+6868;case_342;;Send payment request;send;2021-06-16 17:26:31.968000+02:00;request_340;request;Zoo
+6868;case_342;;Receive payment request;send;2021-06-16 17:26:31.968000+02:00;request_340;request;Zoo
+6868;case_342;;Wait for payment;;2021-06-16 17:26:32.164000+02:00;;;Zoo
+6868;case_342;notification;Payment confirmed;receive;2021-06-16 17:26:44.855000+02:00;account_341;account;Zoo
+6868;case_342;;Deliver Zooclub card;send;2021-06-16 17:26:45.176000+02:00;card_343;card;Zoo
+6969;case_346;start;Receive visitor information;receive;2021-06-16 17:27:00.295000+02:00;info_346;info;Zoo
+6969;case_346;;Enter customer data into the system;;2021-06-16 17:27:05.086000+02:00;;;Zoo
+6969;case_346;;Send request to billing department;;2021-06-16 17:27:12.559000+02:00;;;Zoo
+6969;case_346;;Forward information to making department;;2021-06-16 17:27:15.880000+02:00;;;Zoo
+6969;case_346;;Wait for payment;;2021-06-16 17:27:20.776000+02:00;;;Zoo
+6969;case_346;;Send payment request;send;2021-06-16 17:27:26.354000+02:00;request_344;request;Zoo
+6969;case_346;;Receive payment request;send;2021-06-16 17:27:26.354000+02:00;request_344;request;Zoo
+6969;case_346;notification;Payment confirmed;receive;2021-06-16 17:28:01.277000+02:00;account_345;account;Zoo
+6969;case_346;;Deliver Zooclub card;send;2021-06-16 17:28:07.892000+02:00;card_347;card;Zoo
+6969;case_346;;Mail ZooClub magazine;;2021-06-16 17:28:13.403000+02:00;;;Zoo
+7070;case_350;start;Receive visitor information;receive;2021-06-16 17:28:38.799000+02:00;info_350;info;Zoo
+7070;case_350;;Enter customer data into the system;;2021-06-16 17:28:40.700000+02:00;;;Zoo
+7070;case_350;;Send request to billing department;;2021-06-16 17:28:44.783000+02:00;;;Zoo
+7070;case_350;;Forward information to making department;;2021-06-16 17:28:46.589000+02:00;;;Zoo
+7070;case_350;;Mail ZooClub magazine;;2021-06-16 17:28:48.459000+02:00;;;Zoo
+7070;case_350;;Wait for payment;;2021-06-16 17:28:51.255000+02:00;;;Zoo
+7070;case_350;;Send payment request;send;2021-06-16 17:28:55.860000+02:00;request_348;request;Zoo
+7070;case_350;;Receive payment request;send;2021-06-16 17:28:55.860000+02:00;request_348;request;Zoo
+7070;case_350;notification;Payment confirmed;receive;2021-06-16 17:29:09.591000+02:00;account_349;account;Zoo
+7070;case_350;;Deliver Zooclub card;send;2021-06-16 17:29:16.015000+02:00;card_351;card;Zoo
+7171;case_354;start;Receive visitor information;receive;2021-06-16 17:29:35.115000+02:00;info_354;info;Zoo
+7171;case_354;;Enter customer data into the system;;2021-06-16 17:29:48.005000+02:00;;;Zoo
+7171;case_354;;Send request to billing department;;2021-06-16 17:29:48.050000+02:00;;;Zoo
+7171;case_354;;Forward information to making department;;2021-06-16 17:29:53.098000+02:00;;;Zoo
+7171;case_354;;Mail ZooClub magazine;;2021-06-16 17:29:56.278000+02:00;;;Zoo
+7171;case_354;;Send payment request;send;2021-06-16 17:29:59.128000+02:00;request_352;request;Zoo
+7171;case_354;;Receive payment request;send;2021-06-16 17:29:59.128000+02:00;request_352;request;Zoo
+7171;case_354;;Wait for payment;;2021-06-16 17:30:18.253000+02:00;;;Zoo
+7171;case_354;notification;Payment confirmed;receive;2021-06-16 17:30:22.421000+02:00;account_353;account;Zoo
+7171;case_354;;Deliver Zooclub card;send;2021-06-16 17:30:25.116000+02:00;card_355;card;Zoo
+7272;case_358;start;Receive visitor information;receive;2021-06-16 17:30:45.545000+02:00;info_358;info;Zoo
+7272;case_358;;Enter customer data into the system;;2021-06-16 17:30:52.636000+02:00;;;Zoo
+7272;case_358;;Forward information to making department;;2021-06-16 17:31:04.169000+02:00;;;Zoo
+7272;case_358;;Send request to billing department;;2021-06-16 17:31:08.268000+02:00;;;Zoo
+7272;case_358;;Wait for payment;;2021-06-16 17:31:10.708000+02:00;;;Zoo
+7272;case_358;;Send payment request;send;2021-06-16 17:31:22.600000+02:00;request_356;request;Zoo
+7272;case_358;;Receive payment request;send;2021-06-16 17:31:22.600000+02:00;request_356;request;Zoo
+7272;case_358;;Mail ZooClub magazine;;2021-06-16 17:31:29.536000+02:00;;;Zoo
+7272;case_358;notification;Payment confirmed;receive;2021-06-16 17:31:44.584000+02:00;account_357;account;Zoo
+7272;case_358;;Deliver Zooclub card;send;2021-06-16 17:31:49.106000+02:00;card_359;card;Zoo
+7373;case_362;start;Receive visitor information;receive;2021-06-16 17:32:02.577000+02:00;info_362;info;Zoo
+7373;case_362;;Enter customer data into the system;;2021-06-16 17:32:02.890000+02:00;;;Zoo
+7373;case_362;;Send request to billing department;;2021-06-16 17:32:05.455000+02:00;;;Zoo
+7373;case_362;;Wait for payment;;2021-06-16 17:32:23.385000+02:00;;;Zoo
+7373;case_362;;Send payment request;send;2021-06-16 17:32:25.678000+02:00;request_360;request;Zoo
+7373;case_362;;Receive payment request;send;2021-06-16 17:32:25.678000+02:00;request_360;request;Zoo
+7373;case_362;;Forward information to making department;;2021-06-16 17:32:31.542000+02:00;;;Zoo
+7373;case_362;;Mail ZooClub magazine;;2021-06-16 17:32:36.378000+02:00;;;Zoo
+7373;case_362;notification;Payment confirmed;receive;2021-06-16 17:32:49.220000+02:00;account_361;account;Zoo
+7373;case_362;;Deliver Zooclub card;send;2021-06-16 17:32:51.578000+02:00;card_363;card;Zoo
+7474;case_366;start;Receive visitor information;receive;2021-06-16 17:33:05.245000+02:00;info_366;info;Zoo
+7474;case_366;;Enter customer data into the system;;2021-06-16 17:33:11.323000+02:00;;;Zoo
+7474;case_366;;Forward information to making department;;2021-06-16 17:33:15.365000+02:00;;;Zoo
+7474;case_366;;Mail ZooClub magazine;;2021-06-16 17:33:15.658000+02:00;;;Zoo
+7474;case_366;;Send request to billing department;;2021-06-16 17:33:21.189000+02:00;;;Zoo
+7474;case_366;;Wait for payment;;2021-06-16 17:33:24.804000+02:00;;;Zoo
+7474;case_366;;Send payment request;send;2021-06-16 17:33:31.978000+02:00;request_364;request;Zoo
+7474;case_366;;Receive payment request;send;2021-06-16 17:33:31.978000+02:00;request_364;request;Zoo
+7474;case_366;notification;Payment confirmed;receive;2021-06-16 17:33:44.442000+02:00;account_365;account;Zoo
+7474;case_366;;Deliver Zooclub card;send;2021-06-16 17:33:48.784000+02:00;card_367;card;Zoo
+7575;case_370;start;Receive visitor information;receive;2021-06-16 17:34:17.848000+02:00;info_370;info;Zoo
+7575;case_370;;Enter customer data into the system;;2021-06-16 17:34:19.479000+02:00;;;Zoo
+7575;case_370;;Forward information to making department;;2021-06-16 17:34:24.378000+02:00;;;Zoo
+7575;case_370;;Send request to billing department;;2021-06-16 17:34:31.067000+02:00;;;Zoo
+7575;case_370;;Wait for payment;;2021-06-16 17:34:35.153000+02:00;;;Zoo
+7575;case_370;;Mail ZooClub magazine;;2021-06-16 17:34:38.311000+02:00;;;Zoo
+7575;case_370;;Send payment request;send;2021-06-16 17:34:42.315000+02:00;request_368;request;Zoo
+7575;case_370;;Receive payment request;send;2021-06-16 17:34:42.315000+02:00;request_368;request;Zoo
+7575;case_370;notification;Payment confirmed;receive;2021-06-16 17:34:58.354000+02:00;account_369;account;Zoo
+7575;case_370;;Deliver Zooclub card;send;2021-06-16 17:35:02.239000+02:00;card_371;card;Zoo
+7676;case_374;start;Receive visitor information;receive;2021-06-16 17:35:39.552000+02:00;info_374;info;Zoo
+7676;case_374;;Enter customer data into the system;;2021-06-16 17:35:41.883000+02:00;;;Zoo
+7676;case_374;;Forward information to making department;;2021-06-16 17:35:42.279000+02:00;;;Zoo
+7676;case_374;;Send request to billing department;;2021-06-16 17:35:53.165000+02:00;;;Zoo
+7676;case_374;;Mail ZooClub magazine;;2021-06-16 17:35:55.841000+02:00;;;Zoo
+7676;case_374;;Wait for payment;;2021-06-16 17:35:56.160000+02:00;;;Zoo
+7676;case_374;;Send payment request;send;2021-06-16 17:35:59.408000+02:00;request_372;request;Zoo
+7676;case_374;;Receive payment request;send;2021-06-16 17:35:59.408000+02:00;request_372;request;Zoo
+7676;case_374;notification;Payment confirmed;receive;2021-06-16 17:36:11.357000+02:00;account_373;account;Zoo
+7676;case_374;;Deliver Zooclub card;send;2021-06-16 17:36:13.739000+02:00;card_375;card;Zoo
+7777;case_378;start;Receive visitor information;receive;2021-06-16 17:36:23.915000+02:00;info_378;info;Zoo
+7777;case_378;;Enter customer data into the system;;2021-06-16 17:36:24.396000+02:00;;;Zoo
+7777;case_378;;Send request to billing department;;2021-06-16 17:36:26.999000+02:00;;;Zoo
+7777;case_378;;Wait for payment;;2021-06-16 17:36:38.914000+02:00;;;Zoo
+7777;case_378;;Send payment request;send;2021-06-16 17:36:45.935000+02:00;request_376;request;Zoo
+7777;case_378;;Receive payment request;send;2021-06-16 17:36:45.935000+02:00;request_376;request;Zoo
+7777;case_378;;Forward information to making department;;2021-06-16 17:36:50.504000+02:00;;;Zoo
+7777;case_378;;Mail ZooClub magazine;;2021-06-16 17:36:58.683000+02:00;;;Zoo
+7777;case_378;notification;Payment confirmed;receive;2021-06-16 17:37:08.307000+02:00;account_377;account;Zoo
+7777;case_378;;Deliver Zooclub card;send;2021-06-16 17:37:11.675000+02:00;card_379;card;Zoo
+7878;case_38;start;Receive visitor information;receive;2021-06-16 15:55:57.286000+02:00;info_38;info;Zoo
+7878;case_38;;Enter customer data into the system;;2021-06-16 15:55:59.986000+02:00;;;Zoo
+7878;case_38;;Forward information to making department;;2021-06-16 15:56:00.849000+02:00;;;Zoo
+7878;case_38;;Mail ZooClub magazine;;2021-06-16 15:56:04.578000+02:00;;;Zoo
+7878;case_38;;Send request to billing department;;2021-06-16 15:56:08.532000+02:00;;;Zoo
+7878;case_38;;Send payment request;send;2021-06-16 15:56:12.623000+02:00;request_36;request;Zoo
+7878;case_38;;Receive payment request;send;2021-06-16 15:56:12.623000+02:00;request_36;request;Zoo
+7878;case_38;;Wait for payment;;2021-06-16 15:56:20.926000+02:00;;;Zoo
+7878;case_38;notification;Payment confirmed;receive;2021-06-16 15:56:42.715000+02:00;account_37;account;Zoo
+7878;case_38;;Deliver Zooclub card;send;2021-06-16 15:56:46.018000+02:00;card_39;card;Zoo
+7979;case_382;start;Receive visitor information;receive;2021-06-16 17:37:34.617000+02:00;info_382;info;Zoo
+7979;case_382;;Enter customer data into the system;;2021-06-16 17:37:38.259000+02:00;;;Zoo
+7979;case_382;;Send request to billing department;;2021-06-16 17:37:39.381000+02:00;;;Zoo
+7979;case_382;;Forward information to making department;;2021-06-16 17:37:40.811000+02:00;;;Zoo
+7979;case_382;;Send payment request;send;2021-06-16 17:37:53.266000+02:00;request_380;request;Zoo
+7979;case_382;;Receive payment request;send;2021-06-16 17:37:53.266000+02:00;request_380;request;Zoo
+7979;case_382;;Wait for payment;;2021-06-16 17:37:54.441000+02:00;;;Zoo
+7979;case_382;;Mail ZooClub magazine;;2021-06-16 17:38:02.912000+02:00;;;Zoo
+7979;case_382;notification;Payment confirmed;receive;2021-06-16 17:38:13.109000+02:00;account_381;account;Zoo
+7979;case_382;;Deliver Zooclub card;send;2021-06-16 17:38:13.811000+02:00;card_383;card;Zoo
+8080;case_386;start;Receive visitor information;receive;2021-06-16 17:38:34.982000+02:00;info_386;info;Zoo
+8080;case_386;;Enter customer data into the system;;2021-06-16 17:38:45.125000+02:00;;;Zoo
+8080;case_386;;Send request to billing department;;2021-06-16 17:38:46.998000+02:00;;;Zoo
+8080;case_386;;Forward information to making department;;2021-06-16 17:38:59.579000+02:00;;;Zoo
+8080;case_386;;Wait for payment;;2021-06-16 17:39:04.069000+02:00;;;Zoo
+8080;case_386;;Send payment request;send;2021-06-16 17:39:13.256000+02:00;request_384;request;Zoo
+8080;case_386;;Receive payment request;send;2021-06-16 17:39:13.256000+02:00;request_384;request;Zoo
+8080;case_386;;Mail ZooClub magazine;;2021-06-16 17:39:37.623000+02:00;;;Zoo
+8080;case_386;notification;Payment confirmed;receive;2021-06-16 17:39:40.065000+02:00;account_385;account;Zoo
+8080;case_386;;Deliver Zooclub card;send;2021-06-16 17:39:41.870000+02:00;card_387;card;Zoo
+8181;case_390;start;Receive visitor information;receive;2021-06-16 17:40:15.022000+02:00;info_390;info;Zoo
+8181;case_390;;Enter customer data into the system;;2021-06-16 17:40:18.614000+02:00;;;Zoo
+8181;case_390;;Forward information to making department;;2021-06-16 17:40:22.337000+02:00;;;Zoo
+8181;case_390;;Mail ZooClub magazine;;2021-06-16 17:40:29.579000+02:00;;;Zoo
+8181;case_390;;Send request to billing department;;2021-06-16 17:40:31.668000+02:00;;;Zoo
+8181;case_390;;Send payment request;send;2021-06-16 17:40:36.662000+02:00;request_388;request;Zoo
+8181;case_390;;Receive payment request;send;2021-06-16 17:40:36.662000+02:00;request_388;request;Zoo
+8181;case_390;;Wait for payment;;2021-06-16 17:40:54.015000+02:00;;;Zoo
+8181;case_390;notification;Payment confirmed;receive;2021-06-16 17:41:01.533000+02:00;account_389;account;Zoo
+8181;case_390;;Deliver Zooclub card;send;2021-06-16 17:41:03.892000+02:00;card_391;card;Zoo
+8282;case_394;start;Receive visitor information;receive;2021-06-16 17:41:31.013000+02:00;info_394;info;Zoo
+8282;case_394;;Enter customer data into the system;;2021-06-16 17:41:33.303000+02:00;;;Zoo
+8282;case_394;;Send request to billing department;;2021-06-16 17:41:33.978000+02:00;;;Zoo
+8282;case_394;;Forward information to making department;;2021-06-16 17:41:36.315000+02:00;;;Zoo
+8282;case_394;;Mail ZooClub magazine;;2021-06-16 17:41:37.673000+02:00;;;Zoo
+8282;case_394;;Send payment request;send;2021-06-16 17:41:40.100000+02:00;request_392;request;Zoo
+8282;case_394;;Receive payment request;send;2021-06-16 17:41:40.100000+02:00;request_392;request;Zoo
+8282;case_394;;Wait for payment;;2021-06-16 17:41:43.009000+02:00;;;Zoo
+8282;case_394;notification;Payment confirmed;receive;2021-06-16 17:41:58.382000+02:00;account_393;account;Zoo
+8282;case_394;;Deliver Zooclub card;send;2021-06-16 17:42:02.953000+02:00;card_395;card;Zoo
+8383;case_398;start;Receive visitor information;receive;2021-06-16 17:42:22.471000+02:00;info_398;info;Zoo
+8383;case_398;;Enter customer data into the system;;2021-06-16 17:42:26.583000+02:00;;;Zoo
+8383;case_398;;Send request to billing department;;2021-06-16 17:42:39.460000+02:00;;;Zoo
+8383;case_398;;Forward information to making department;;2021-06-16 17:42:52.827000+02:00;;;Zoo
+8383;case_398;;Wait for payment;;2021-06-16 17:43:02.444000+02:00;;;Zoo
+8383;case_398;;Mail ZooClub magazine;;2021-06-16 17:43:06.698000+02:00;;;Zoo
+8383;case_398;;Send payment request;send;2021-06-16 17:43:10.244000+02:00;request_396;request;Zoo
+8383;case_398;;Receive payment request;send;2021-06-16 17:43:10.244000+02:00;request_396;request;Zoo
+8383;case_398;notification;Payment confirmed;receive;2021-06-16 17:43:25.517000+02:00;account_397;account;Zoo
+8383;case_398;;Deliver Zooclub card;send;2021-06-16 17:43:30.506000+02:00;card_399;card;Zoo
+8484;case_42;start;Receive visitor information;receive;2021-06-16 15:57:08.520000+02:00;info_42;info;Zoo
+8484;case_42;;Enter customer data into the system;;2021-06-16 15:57:13.462000+02:00;;;Zoo
+8484;case_42;;Forward information to making department;;2021-06-16 15:57:23.603000+02:00;;;Zoo
+8484;case_42;;Mail ZooClub magazine;;2021-06-16 15:57:42.908000+02:00;;;Zoo
+8484;case_42;;Send request to billing department;;2021-06-16 15:57:50.785000+02:00;;;Zoo
+8484;case_42;;Wait for payment;;2021-06-16 15:57:57.203000+02:00;;;Zoo
+8484;case_42;;Send payment request;send;2021-06-16 15:57:57.396000+02:00;request_40;request;Zoo
+8484;case_42;;Receive payment request;send;2021-06-16 15:57:57.396000+02:00;request_40;request;Zoo
+8484;case_42;notification;Payment confirmed;receive;2021-06-16 15:58:17.226000+02:00;account_41;account;Zoo
+8484;case_42;;Deliver Zooclub card;send;2021-06-16 15:58:20.294000+02:00;card_43;card;Zoo
+8585;case_46;start;Receive visitor information;receive;2021-06-16 15:58:39.390000+02:00;info_46;info;Zoo
+8585;case_46;;Enter customer data into the system;;2021-06-16 15:58:47.774000+02:00;;;Zoo
+8585;case_46;;Send request to billing department;;2021-06-16 15:58:55.296000+02:00;;;Zoo
+8585;case_46;;Send payment request;send;2021-06-16 15:58:59.833000+02:00;request_44;request;Zoo
+8585;case_46;;Receive payment request;send;2021-06-16 15:58:59.833000+02:00;request_44;request;Zoo
+8585;case_46;;Wait for payment;;2021-06-16 15:59:05.676000+02:00;;;Zoo
+8585;case_46;;Forward information to making department;;2021-06-16 15:59:35.893000+02:00;;;Zoo
+8585;case_46;;Mail ZooClub magazine;;2021-06-16 15:59:45.465000+02:00;;;Zoo
+8585;case_46;notification;Payment confirmed;receive;2021-06-16 15:59:47.255000+02:00;account_45;account;Zoo
+8585;case_46;;Deliver Zooclub card;send;2021-06-16 15:59:47.654000+02:00;card_47;card;Zoo
+8686;case_50;start;Receive visitor information;receive;2021-06-16 16:00:07.925000+02:00;info_50;info;Zoo
+8686;case_50;;Enter customer data into the system;;2021-06-16 16:00:10.918000+02:00;;;Zoo
+8686;case_50;;Forward information to making department;;2021-06-16 16:00:14.929000+02:00;;;Zoo
+8686;case_50;;Mail ZooClub magazine;;2021-06-16 16:00:22.439000+02:00;;;Zoo
+8686;case_50;;Send request to billing department;;2021-06-16 16:00:24.284000+02:00;;;Zoo
+8686;case_50;;Send payment request;send;2021-06-16 16:00:28.181000+02:00;request_48;request;Zoo
+8686;case_50;;Receive payment request;send;2021-06-16 16:00:28.181000+02:00;request_48;request;Zoo
+8686;case_50;;Wait for payment;;2021-06-16 16:00:30.948000+02:00;;;Zoo
+8686;case_50;notification;Payment confirmed;receive;2021-06-16 16:00:47.390000+02:00;account_49;account;Zoo
+8686;case_50;;Deliver Zooclub card;send;2021-06-16 16:00:51.345000+02:00;card_51;card;Zoo
+8787;case_54;start;Receive visitor information;receive;2021-06-16 16:01:01.038000+02:00;info_54;info;Zoo
+8787;case_54;;Enter customer data into the system;;2021-06-16 16:01:10.787000+02:00;;;Zoo
+8787;case_54;;Send request to billing department;;2021-06-16 16:01:13.363000+02:00;;;Zoo
+8787;case_54;;Forward information to making department;;2021-06-16 16:01:18.763000+02:00;;;Zoo
+8787;case_54;;Send payment request;send;2021-06-16 16:01:26.280000+02:00;request_52;request;Zoo
+8787;case_54;;Receive payment request;send;2021-06-16 16:01:26.280000+02:00;request_52;request;Zoo
+8787;case_54;;Wait for payment;;2021-06-16 16:01:34.847000+02:00;;;Zoo
+8787;case_54;;Mail ZooClub magazine;;2021-06-16 16:01:49.595000+02:00;;;Zoo
+8787;case_54;notification;Payment confirmed;receive;2021-06-16 16:02:04.033000+02:00;account_53;account;Zoo
+8787;case_54;;Deliver Zooclub card;send;2021-06-16 16:02:06.394000+02:00;card_55;card;Zoo
+8888;case_58;start;Receive visitor information;receive;2021-06-16 16:02:25.281000+02:00;info_58;info;Zoo
+8888;case_58;;Enter customer data into the system;;2021-06-16 16:02:28.770000+02:00;;;Zoo
+8888;case_58;;Forward information to making department;;2021-06-16 16:02:29.261000+02:00;;;Zoo
+8888;case_58;;Send request to billing department;;2021-06-16 16:02:37.617000+02:00;;;Zoo
+8888;case_58;;Wait for payment;;2021-06-16 16:02:42.737000+02:00;;;Zoo
+8888;case_58;;Send payment request;send;2021-06-16 16:02:48.354000+02:00;request_56;request;Zoo
+8888;case_58;;Receive payment request;send;2021-06-16 16:02:48.354000+02:00;request_56;request;Zoo
+8888;case_58;;Mail ZooClub magazine;;2021-06-16 16:03:01.452000+02:00;;;Zoo
+8888;case_58;notification;Payment confirmed;receive;2021-06-16 16:03:18.371000+02:00;account_57;account;Zoo
+8888;case_58;;Deliver Zooclub card;send;2021-06-16 16:03:20.474000+02:00;card_59;card;Zoo
+8989;case_6;start;Receive visitor information;receive;2021-06-16 15:45:57.487000+02:00;info_6;info;Zoo
+8989;case_6;;Enter customer data into the system;;2021-06-16 15:46:02.952000+02:00;;;Zoo
+8989;case_6;;Forward information to making department;;2021-06-16 15:46:12.027000+02:00;;;Zoo
+8989;case_6;;Mail ZooClub magazine;;2021-06-16 15:46:20.341000+02:00;;;Zoo
+8989;case_6;;Send request to billing department;;2021-06-16 15:46:22.303000+02:00;;;Zoo
+8989;case_6;;Send payment request;send;2021-06-16 15:46:25.895000+02:00;request_4;request;Zoo
+8989;case_6;;Receive payment request;send;2021-06-16 15:46:25.895000+02:00;request_4;request;Zoo
+8989;case_6;;Wait for payment;;2021-06-16 15:46:48.320000+02:00;;;Zoo
+8989;case_6;notification;Payment confirmed;receive;2021-06-16 15:46:52.445000+02:00;account_5;account;Zoo
+8989;case_6;;Deliver Zooclub card;send;2021-06-16 15:46:55.293000+02:00;card_7;card;Zoo
+9090;case_62;start;Receive visitor information;receive;2021-06-16 16:03:36.358000+02:00;info_62;info;Zoo
+9090;case_62;;Enter customer data into the system;;2021-06-16 16:03:41.915000+02:00;;;Zoo
+9090;case_62;;Send request to billing department;;2021-06-16 16:03:44.922000+02:00;;;Zoo
+9090;case_62;;Forward information to making department;;2021-06-16 16:03:53.565000+02:00;;;Zoo
+9090;case_62;;Mail ZooClub magazine;;2021-06-16 16:04:13.016000+02:00;;;Zoo
+9090;case_62;;Send payment request;send;2021-06-16 16:04:15.957000+02:00;request_60;request;Zoo
+9090;case_62;;Receive payment request;send;2021-06-16 16:04:15.957000+02:00;request_60;request;Zoo
+9090;case_62;;Wait for payment;;2021-06-16 16:04:22.279000+02:00;;;Zoo
+9090;case_62;notification;Payment confirmed;receive;2021-06-16 16:04:40.458000+02:00;account_61;account;Zoo
+9090;case_62;;Deliver Zooclub card;send;2021-06-16 16:04:42.803000+02:00;card_63;card;Zoo
+9191;case_66;start;Receive visitor information;receive;2021-06-16 16:05:11.114000+02:00;info_66;info;Zoo
+9191;case_66;;Enter customer data into the system;;2021-06-16 16:05:12.473000+02:00;;;Zoo
+9191;case_66;;Forward information to making department;;2021-06-16 16:05:15.521000+02:00;;;Zoo
+9191;case_66;;Mail ZooClub magazine;;2021-06-16 16:05:21.542000+02:00;;;Zoo
+9191;case_66;;Send request to billing department;;2021-06-16 16:05:27.174000+02:00;;;Zoo
+9191;case_66;;Wait for payment;;2021-06-16 16:05:31.036000+02:00;;;Zoo
+9191;case_66;;Send payment request;send;2021-06-16 16:05:37.854000+02:00;request_64;request;Zoo
+9191;case_66;;Receive payment request;send;2021-06-16 16:05:37.854000+02:00;request_64;request;Zoo
+9191;case_66;notification;Payment confirmed;receive;2021-06-16 16:05:54.680000+02:00;account_65;account;Zoo
+9191;case_66;;Deliver Zooclub card;send;2021-06-16 16:05:58.808000+02:00;card_67;card;Zoo
+9292;case_70;start;Receive visitor information;receive;2021-06-16 16:06:11.805000+02:00;info_70;info;Zoo
+9292;case_70;;Enter customer data into the system;;2021-06-16 16:06:20.100000+02:00;;;Zoo
+9292;case_70;;Forward information to making department;;2021-06-16 16:06:33.581000+02:00;;;Zoo
+9292;case_70;;Send request to billing department;;2021-06-16 16:06:36.907000+02:00;;;Zoo
+9292;case_70;;Mail ZooClub magazine;;2021-06-16 16:06:40.857000+02:00;;;Zoo
+9292;case_70;;Send payment request;send;2021-06-16 16:06:44.204000+02:00;request_68;request;Zoo
+9292;case_70;;Receive payment request;send;2021-06-16 16:06:44.204000+02:00;request_68;request;Zoo
+9292;case_70;;Wait for payment;;2021-06-16 16:06:59.319000+02:00;;;Zoo
+9292;case_70;notification;Payment confirmed;receive;2021-06-16 16:07:01.723000+02:00;account_69;account;Zoo
+9292;case_70;;Deliver Zooclub card;send;2021-06-16 16:07:06.150000+02:00;card_71;card;Zoo
+9393;case_74;start;Receive visitor information;receive;2021-06-16 16:07:33.608000+02:00;info_74;info;Zoo
+9393;case_74;;Enter customer data into the system;;2021-06-16 16:07:36+02:00;;;Zoo
+9393;case_74;;Forward information to making department;;2021-06-16 16:07:42.076000+02:00;;;Zoo
+9393;case_74;;Mail ZooClub magazine;;2021-06-16 16:07:43.737000+02:00;;;Zoo
+9393;case_74;;Send request to billing department;;2021-06-16 16:07:44.605000+02:00;;;Zoo
+9393;case_74;;Wait for payment;;2021-06-16 16:07:45.956000+02:00;;;Zoo
+9393;case_74;;Send payment request;send;2021-06-16 16:07:47.631000+02:00;request_72;request;Zoo
+9393;case_74;;Receive payment request;send;2021-06-16 16:07:47.631000+02:00;request_72;request;Zoo
+9393;case_74;notification;Payment confirmed;receive;2021-06-16 16:07:58.041000+02:00;account_73;account;Zoo
+9393;case_74;;Deliver Zooclub card;send;2021-06-16 16:07:59.879000+02:00;card_75;card;Zoo
+9494;case_78;start;Receive visitor information;receive;2021-06-16 16:08:15.459000+02:00;info_78;info;Zoo
+9494;case_78;;Enter customer data into the system;;2021-06-16 16:08:17.088000+02:00;;;Zoo
+9494;case_78;;Forward information to making department;;2021-06-16 16:08:23.674000+02:00;;;Zoo
+9494;case_78;;Send request to billing department;;2021-06-16 16:08:24.146000+02:00;;;Zoo
+9494;case_78;;Mail ZooClub magazine;;2021-06-16 16:08:28.476000+02:00;;;Zoo
+9494;case_78;;Send payment request;send;2021-06-16 16:08:30.201000+02:00;request_76;request;Zoo
+9494;case_78;;Receive payment request;send;2021-06-16 16:08:30.201000+02:00;request_76;request;Zoo
+9494;case_78;;Wait for payment;;2021-06-16 16:08:42.916000+02:00;;;Zoo
+9494;case_78;notification;Payment confirmed;receive;2021-06-16 16:08:59.258000+02:00;account_77;account;Zoo
+9494;case_78;;Deliver Zooclub card;send;2021-06-16 16:09:00.574000+02:00;card_79;card;Zoo
+9595;case_82;start;Receive visitor information;receive;2021-06-16 16:09:25.926000+02:00;info_82;info;Zoo
+9595;case_82;;Enter customer data into the system;;2021-06-16 16:09:30.298000+02:00;;;Zoo
+9595;case_82;;Send request to billing department;;2021-06-16 16:09:31.737000+02:00;;;Zoo
+9595;case_82;;Forward information to making department;;2021-06-16 16:09:34.916000+02:00;;;Zoo
+9595;case_82;;Wait for payment;;2021-06-16 16:09:47.602000+02:00;;;Zoo
+9595;case_82;;Mail ZooClub magazine;;2021-06-16 16:09:56.439000+02:00;;;Zoo
+9595;case_82;;Send payment request;send;2021-06-16 16:09:58.998000+02:00;request_80;request;Zoo
+9595;case_82;;Receive payment request;send;2021-06-16 16:09:58.998000+02:00;request_80;request;Zoo
+9595;case_82;notification;Payment confirmed;receive;2021-06-16 16:10:14.447000+02:00;account_81;account;Zoo
+9595;case_82;;Deliver Zooclub card;send;2021-06-16 16:10:18.785000+02:00;card_83;card;Zoo
+9696;case_86;start;Receive visitor information;receive;2021-06-16 16:10:37.662000+02:00;info_86;info;Zoo
+9696;case_86;;Enter customer data into the system;;2021-06-16 16:10:48.933000+02:00;;;Zoo
+9696;case_86;;Forward information to making department;;2021-06-16 16:10:55.781000+02:00;;;Zoo
+9696;case_86;;Mail ZooClub magazine;;2021-06-16 16:10:55.879000+02:00;;;Zoo
+9696;case_86;;Send request to billing department;;2021-06-16 16:11:00.573000+02:00;;;Zoo
+9696;case_86;;Send payment request;send;2021-06-16 16:11:01.318000+02:00;request_84;request;Zoo
+9696;case_86;;Receive payment request;send;2021-06-16 16:11:01.318000+02:00;request_84;request;Zoo
+9696;case_86;;Wait for payment;;2021-06-16 16:11:07.836000+02:00;;;Zoo
+9696;case_86;notification;Payment confirmed;receive;2021-06-16 16:11:20.528000+02:00;account_85;account;Zoo
+9696;case_86;;Deliver Zooclub card;send;2021-06-16 16:11:23.011000+02:00;card_87;card;Zoo
+9797;case_90;start;Receive visitor information;receive;2021-06-16 16:11:33.513000+02:00;info_90;info;Zoo
+9797;case_90;;Enter customer data into the system;;2021-06-16 16:11:44.820000+02:00;;;Zoo
+9797;case_90;;Forward information to making department;;2021-06-16 16:11:49.559000+02:00;;;Zoo
+9797;case_90;;Mail ZooClub magazine;;2021-06-16 16:11:53.752000+02:00;;;Zoo
+9797;case_90;;Send request to billing department;;2021-06-16 16:11:54.786000+02:00;;;Zoo
+9797;case_90;;Wait for payment;;2021-06-16 16:12:00.368000+02:00;;;Zoo
+9797;case_90;;Send payment request;send;2021-06-16 16:12:01.668000+02:00;request_88;request;Zoo
+9797;case_90;;Receive payment request;send;2021-06-16 16:12:01.668000+02:00;request_88;request;Zoo
+9797;case_90;notification;Payment confirmed;receive;2021-06-16 16:12:21.968000+02:00;account_89;account;Zoo
+9797;case_90;;Deliver Zooclub card;send;2021-06-16 16:12:24.527000+02:00;card_91;card;Zoo
+9898;case_94;start;Receive visitor information;receive;2021-06-16 16:12:44.190000+02:00;info_94;info;Zoo
+9898;case_94;;Enter customer data into the system;;2021-06-16 16:12:55.699000+02:00;;;Zoo
+9898;case_94;;Forward information to making department;;2021-06-16 16:12:57.419000+02:00;;;Zoo
+9898;case_94;;Send request to billing department;;2021-06-16 16:13:08.222000+02:00;;;Zoo
+9898;case_94;;Wait for payment;;2021-06-16 16:13:17.715000+02:00;;;Zoo
+9898;case_94;;Send payment request;send;2021-06-16 16:13:20.268000+02:00;request_92;request;Zoo
+9898;case_94;;Receive payment request;send;2021-06-16 16:13:20.268000+02:00;request_92;request;Zoo
+9898;case_94;;Mail ZooClub magazine;;2021-06-16 16:13:36.254000+02:00;;;Zoo
+9898;case_94;notification;Payment confirmed;receive;2021-06-16 16:13:46.866000+02:00;account_93;account;Zoo
+9898;case_94;;Deliver Zooclub card;send;2021-06-16 16:13:48.127000+02:00;card_95;card;Zoo
+9999;case_98;start;Receive visitor information;receive;2021-06-16 16:14:09.866000+02:00;info_98;info;Zoo
+9999;case_98;;Enter customer data into the system;;2021-06-16 16:14:17.023000+02:00;;;Zoo
+9999;case_98;;Forward information to making department;;2021-06-16 16:14:21.386000+02:00;;;Zoo
+9999;case_98;;Send request to billing department;;2021-06-16 16:14:26.508000+02:00;;;Zoo
+9999;case_98;;Wait for payment;;2021-06-16 16:14:31.336000+02:00;;;Zoo
+9999;case_98;;Send payment request;send;2021-06-16 16:14:38.025000+02:00;request_96;request;Zoo
+9999;case_98;;Receive payment request;send;2021-06-16 16:14:38.025000+02:00;request_96;request;Zoo
+9999;case_98;;Mail ZooClub magazine;;2021-06-16 16:14:43.839000+02:00;;;Zoo
+9999;case_98;notification;Payment confirmed;receive;2021-06-16 16:14:57.140000+02:00;account_97;account;Zoo
+9999;case_98;;Deliver Zooclub card;send;2021-06-16 16:15:00.837000+02:00;card_99;card;Zoo

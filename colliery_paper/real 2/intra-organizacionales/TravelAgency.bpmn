@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" targetNamespace="http://www.omg.org/bpmn20" exporter="ProM. http://www.promtools.org/prom6" exporterVersion="6.3" xsi:schemaLocation="http://www.omg.org/spec/BPMN/20100524/MODEL BPMN20.xsd"><process id="proc_1725097945">
+<startEvent id="node_4b551290-263f-4b75-a7ea-d0147a84497b" name=""/>
+<endEvent id="node_49fe3790-f91f-4d58-bb7c-a1e440bb7c73" name=""/>
+<task id="node_01d595c9-cd87-480f-b5cf-932954a85f6e" name="Book Received"/>
+<task id="node_5d108009-ffcd-48fb-831c-a2817ea09a52" name="Make Travel Offer">
+<standardLoopCharacteristics testBefore="false"/>
+</task>
+<task id="node_d9a176a0-9a29-4629-9d58-89fe56e4a179" name="Payment Received"/>
+<task id="node_50e64341-833f-4e9a-9142-5263cbce134e" name="Order Ticket"/>
+<task id="node_fe33a9a3-18d4-4520-833d-5dbc813b33d5" name="Confirm Booking"/>
+<sequenceFlow id="node_9d0f9c4c-6cf5-4578-92e6-fea5ff1ab8c9" name="" sourceRef="node_50e64341-833f-4e9a-9142-5263cbce134e" targetRef="node_49fe3790-f91f-4d58-bb7c-a1e440bb7c73"/>
+<sequenceFlow id="node_d7d2b1e8-17d4-4c52-ad09-a228d7967168" name="" sourceRef="node_fe33a9a3-18d4-4520-833d-5dbc813b33d5" targetRef="node_50e64341-833f-4e9a-9142-5263cbce134e"/>
+<sequenceFlow id="node_450c9019-07c3-4af3-9dad-734f1093198e" name="" sourceRef="node_5d108009-ffcd-48fb-831c-a2817ea09a52" targetRef="node_01d595c9-cd87-480f-b5cf-932954a85f6e"/>
+<sequenceFlow id="node_a320bcad-c79d-451d-95ab-a8d846fe93a8" name="" sourceRef="node_4b551290-263f-4b75-a7ea-d0147a84497b" targetRef="node_5d108009-ffcd-48fb-831c-a2817ea09a52"/>
+<sequenceFlow id="node_e9a05972-998b-4379-8355-86293fb5a907" name="" sourceRef="node_01d595c9-cd87-480f-b5cf-932954a85f6e" targetRef="node_d9a176a0-9a29-4629-9d58-89fe56e4a179"/>
+<sequenceFlow id="node_091220e6-dcf5-4c3d-8d65-074f1527467a" name="" sourceRef="node_d9a176a0-9a29-4629-9d58-89fe56e4a179" targetRef="node_fe33a9a3-18d4-4520-833d-5dbc813b33d5"/>
+</process>
+<bpmndi:BPMNDiagram id="id_340302146">
+<bpmndi:BPMNPlane bpmnElement="proc_1725097945">
+<bpmndi:BPMNShape bpmnElement="node_50e64341-833f-4e9a-9142-5263cbce134e">
+<dc:Bounds x="596.0" y="101.0" width="80.0" height="40.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_5d108009-ffcd-48fb-831c-a2817ea09a52">
+<dc:Bounds x="76.0" y="101.0" width="80.0" height="40.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_01d595c9-cd87-480f-b5cf-932954a85f6e">
+<dc:Bounds x="206.0" y="101.0" width="80.0" height="40.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_d9a176a0-9a29-4629-9d58-89fe56e4a179">
+<dc:Bounds x="336.0" y="101.0" width="80.0" height="40.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_49fe3790-f91f-4d58-bb7c-a1e440bb7c73">
+<dc:Bounds x="726.0" y="108.5" width="25.0" height="25.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_fe33a9a3-18d4-4520-833d-5dbc813b33d5">
+<dc:Bounds x="466.0" y="101.0" width="80.0" height="40.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_4b551290-263f-4b75-a7ea-d0147a84497b">
+<dc:Bounds x="1.0" y="108.5" width="25.0" height="25.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNEdge bpmnElement="node_d7d2b1e8-17d4-4c52-ad09-a228d7967168">
+<di:waypoint x="506.0" y="121.0"/>
+<di:waypoint x="636.0" y="121.0"/>
+</bpmndi:BPMNEdge>
+<bpmndi:BPMNEdge bpmnElement="node_091220e6-dcf5-4c3d-8d65-074f1527467a">
+<di:waypoint x="376.0" y="121.0"/>
+<di:waypoint x="506.0" y="121.0"/>
+</bpmndi:BPMNEdge>
+<bpmndi:BPMNEdge bpmnElement="node_e9a05972-998b-4379-8355-86293fb5a907">
+<di:waypoint x="246.0" y="121.0"/>
+<di:waypoint x="376.0" y="121.0"/>
+</bpmndi:BPMNEdge>
+<bpmndi:BPMNEdge bpmnElement="node_450c9019-07c3-4af3-9dad-734f1093198e">
+<di:waypoint x="116.0" y="121.0"/>
+<di:waypoint x="246.0" y="121.0"/>
+</bpmndi:BPMNEdge>
+<bpmndi:BPMNEdge bpmnElement="node_a320bcad-c79d-451d-95ab-a8d846fe93a8">
+<di:waypoint x="13.5" y="121.0"/>
+<di:waypoint x="116.0" y="121.0"/>
+</bpmndi:BPMNEdge>
+<bpmndi:BPMNEdge bpmnElement="node_9d0f9c4c-6cf5-4578-92e6-fea5ff1ab8c9">
+<di:waypoint x="636.0" y="121.0"/>
+<di:waypoint x="738.5" y="121.0"/>
+</bpmndi:BPMNEdge>
+</bpmndi:BPMNPlane>
+</bpmndi:BPMNDiagram>
+</definitions>

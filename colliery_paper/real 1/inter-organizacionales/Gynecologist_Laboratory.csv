@@ -1,0 +1,23 @@
+id_new;IdCase;org:group;msgType;msgInstanceId;eventType;msgFlow;concept:name;time:timestamp
+00;case_325;Gynecologist;receive;disease_356;start;disease;Receive disease info;2021-06-17 11:54:21.936000+02:00
+00;case_325;Gynecologist;;;;;Examine patient;2021-06-17 11:54:29.684000+02:00
+00;case_325;Gynecologist;;;;;Blood draw;2021-06-17 11:54:30.694000+02:00
+00;case_325;Gynecologist;send;blood sample_357;;blood sample;Send blood sample;2021-06-17 11:54:31.782000+02:00
+00;case_325;Gynecologist;send;blood sample_357;;blood sample;Receive blood sample;2021-06-17 11:54:31.782000+02:00
+00;case_325;Gynecologist;receive;results_358;;results;Receive blood analysis results;2021-06-17 11:54:35.037000+02:00
+00;case_325;Gynecologist;send;hospitalisation_359;;hospitalisation;Communicate the need to hospitalise;2021-06-17 11:54:35.706000+02:00
+00;case_325;Gynecologist;send;admission request_360;;admission request;Require patient admission;2021-06-17 11:54:40.507000+02:00
+00;case_325;Gynecologist;send;patient analysis_361;;patient analysis;Forward patient analysis results;2021-06-17 11:54:53.426000+02:00
+11;case_5;Gynecologist;receive;disease_4;start;disease;Receive disease info;2021-06-17 10:59:27.090000+02:00
+11;case_5;Gynecologist;;;;;Examine patient;2021-06-17 10:59:32.126000+02:00
+11;case_5;Gynecologist;;;;;Blood draw;2021-06-17 10:59:33.695000+02:00
+11;case_5;Gynecologist;send;blood sample_5;;blood sample;Send blood sample;2021-06-17 10:59:36.540000+02:00
+11;case_5;Gynecologist;send;blood sample_5;;blood sample;Receive blood sample;2021-06-17 10:59:36.540000+02:00
+11;case_5;Gynecologist;receive;results_6;;results;Receive blood analysis results;2021-06-17 10:59:44.850000+02:00
+11;case_5;Gynecologist;send;prescription_7;;prescription;Send prescription;2021-06-17 10:59:44.871000+02:00
+00;case_162;Laboratory;receive;blood sample_165;start;blood sample;Receive blood sample;2021-06-17 11:23:42.936000+02:00
+00;case_162;Laboratory;;;;;Analyse blood sample;2021-06-17 11:23:44.155000+02:00
+00;case_162;Laboratory;send;results_166;;results;Send results;2021-06-17 11:23:47.792000+02:00
+11;case_237;Laboratory;receive;blood sample_255;start;blood sample;Receive blood sample;2021-06-17 11:38:47.220000+02:00
+11;case_237;Laboratory;;;;;Analyse blood sample;2021-06-17 11:38:47.356000+02:00
+11;case_237;Laboratory;send;results_256;;results;Send results;2021-06-17 11:38:49.433000+02:00

@@ -1,0 +1,256 @@
+<log>
+<trace>
+<string key="concept:name" value="0"/> 
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_325"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="receive"/> 
+<string key="msgInstanceId" value="disease_356"/> 
+<string key="eventType" value="start"/> 
+<string key="msgFlow" value="disease"/> 
+<string key="concept:name" value="Receive disease info"/> 
+<string key="time:timestamp" value="2021-06-17 11:54:21.936000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_325"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value=""/> 
+<string key="msgInstanceId" value=""/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value=""/> 
+<string key="concept:name" value="Examine patient"/> 
+<string key="time:timestamp" value="2021-06-17 11:54:29.684000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_325"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value=""/> 
+<string key="msgInstanceId" value=""/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value=""/> 
+<string key="concept:name" value="Blood draw"/> 
+<string key="time:timestamp" value="2021-06-17 11:54:30.694000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_325"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="send"/> 
+<string key="msgInstanceId" value="blood sample_357"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="blood sample"/> 
+<string key="concept:name" value="Send blood sample"/> 
+<string key="time:timestamp" value="2021-06-17 11:54:31.782000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_325"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="send"/> 
+<string key="msgInstanceId" value="blood sample_357"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="blood sample"/> 
+<string key="concept:name" value="Receive blood sample"/> 
+<string key="time:timestamp" value="2021-06-17 11:54:31.782000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_325"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="receive"/> 
+<string key="msgInstanceId" value="results_358"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="results"/> 
+<string key="concept:name" value="Receive blood analysis results"/> 
+<string key="time:timestamp" value="2021-06-17 11:54:35.037000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_325"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="send"/> 
+<string key="msgInstanceId" value="hospitalisation_359"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="hospitalisation"/> 
+<string key="concept:name" value="Communicate the need to hospitalise"/> 
+<string key="time:timestamp" value="2021-06-17 11:54:35.706000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_325"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="send"/> 
+<string key="msgInstanceId" value="admission request_360"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="admission request"/> 
+<string key="concept:name" value="Require patient admission"/> 
+<string key="time:timestamp" value="2021-06-17 11:54:40.507000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_325"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="send"/> 
+<string key="msgInstanceId" value="patient analysis_361"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="patient analysis"/> 
+<string key="concept:name" value="Forward patient analysis results"/> 
+<string key="time:timestamp" value="2021-06-17 11:54:53.426000+02:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="1"/> 
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="case_5"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="receive"/> 
+<string key="msgInstanceId" value="disease_4"/> 
+<string key="eventType" value="start"/> 
+<string key="msgFlow" value="disease"/> 
+<string key="concept:name" value="Receive disease info"/> 
+<string key="time:timestamp" value="2021-06-17 10:59:27.090000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="case_5"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value=""/> 
+<string key="msgInstanceId" value=""/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value=""/> 
+<string key="concept:name" value="Examine patient"/> 
+<string key="time:timestamp" value="2021-06-17 10:59:32.126000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="case_5"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value=""/> 
+<string key="msgInstanceId" value=""/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value=""/> 
+<string key="concept:name" value="Blood draw"/> 
+<string key="time:timestamp" value="2021-06-17 10:59:33.695000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="case_5"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="send"/> 
+<string key="msgInstanceId" value="blood sample_5"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="blood sample"/> 
+<string key="concept:name" value="Send blood sample"/> 
+<string key="time:timestamp" value="2021-06-17 10:59:36.540000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="case_5"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="send"/> 
+<string key="msgInstanceId" value="blood sample_5"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="blood sample"/> 
+<string key="concept:name" value="Receive blood sample"/> 
+<string key="time:timestamp" value="2021-06-17 10:59:36.540000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="case_5"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="receive"/> 
+<string key="msgInstanceId" value="results_6"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="results"/> 
+<string key="concept:name" value="Receive blood analysis results"/> 
+<string key="time:timestamp" value="2021-06-17 10:59:44.850000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="case_5"/> 
+<string key="org:group" value="Gynecologist"/> 
+<string key="msgType" value="send"/> 
+<string key="msgInstanceId" value="prescription_7"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="prescription"/> 
+<string key="concept:name" value="Send prescription"/> 
+<string key="time:timestamp" value="2021-06-17 10:59:44.871000+02:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="0"/> 
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_162"/> 
+<string key="org:group" value="Laboratory"/> 
+<string key="msgType" value="receive"/> 
+<string key="msgInstanceId" value="blood sample_165"/> 
+<string key="eventType" value="start"/> 
+<string key="msgFlow" value="blood sample"/> 
+<string key="concept:name" value="Receive blood sample"/> 
+<string key="time:timestamp" value="2021-06-17 11:23:42.936000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_162"/> 
+<string key="org:group" value="Laboratory"/> 
+<string key="msgType" value=""/> 
+<string key="msgInstanceId" value=""/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value=""/> 
+<string key="concept:name" value="Analyse blood sample"/> 
+<string key="time:timestamp" value="2021-06-17 11:23:44.155000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="case_162"/> 
+<string key="org:group" value="Laboratory"/> 
+<string key="msgType" value="send"/> 
+<string key="msgInstanceId" value="results_166"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="results"/> 
+<string key="concept:name" value="Send results"/> 
+<string key="time:timestamp" value="2021-06-17 11:23:47.792000+02:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="1"/> 
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="case_237"/> 
+<string key="org:group" value="Laboratory"/> 
+<string key="msgType" value="receive"/> 
+<string key="msgInstanceId" value="blood sample_255"/> 
+<string key="eventType" value="start"/> 
+<string key="msgFlow" value="blood sample"/> 
+<string key="concept:name" value="Receive blood sample"/> 
+<string key="time:timestamp" value="2021-06-17 11:38:47.220000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="case_237"/> 
+<string key="org:group" value="Laboratory"/> 
+<string key="msgType" value=""/> 
+<string key="msgInstanceId" value=""/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value=""/> 
+<string key="concept:name" value="Analyse blood sample"/> 
+<string key="time:timestamp" value="2021-06-17 11:38:47.356000+02:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="case_237"/> 
+<string key="org:group" value="Laboratory"/> 
+<string key="msgType" value="send"/> 
+<string key="msgInstanceId" value="results_256"/> 
+<string key="eventType" value=""/> 
+<string key="msgFlow" value="results"/> 
+<string key="concept:name" value="Send results"/> 
+<string key="time:timestamp" value="2021-06-17 11:38:49.433000+02:00"/> 
+</event>
+</trace>
+</log>
