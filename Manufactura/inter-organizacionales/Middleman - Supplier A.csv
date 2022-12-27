@@ -1,0 +1,49 @@
+id_new;IdCase;time:timestamp;id;concept:name;result;concept:instance;lifecycle:transition;id:id
+00;Instance 210;2016-12-15T15:58:37+01:00;Instance 210;Order intermediate A;;;complete;a4
+00;Instance 210;2016-12-15T15:58:37+01:00;Instance 210;FWD order Intermediate A;;;complete;a2
+00;Instance 210;2016-12-15T15:58:38+01:00;Instance 210;Get authority permission;;;complete;a0
+00;Instance 210;2016-12-15T15:58:39+01:00;Instance 210;FWD order Intermediate A 2;;;complete;a3
+00;Instance 210;2016-12-15T15:58:39+01:00;Instance 210;FWD order Intermediate A;;;complete;a3
+11;Instance 216;2016-12-15T15:58:39+01:00;Instance 216;Order intermediate A;;;complete;a4
+11;Instance 216;2016-12-15T15:58:39+01:00;Instance 216;FWD order Intermediate A;;;complete;a2
+11;Instance 216;2016-12-15T15:58:40+01:00;Instance 216;Get authority permission;;;complete;a0
+11;Instance 216;2016-12-15T15:58:40+01:00;Instance 216;FWD order Intermediate A 2;;;complete;a3
+11;Instance 216;2016-12-15T15:58:40+01:00;Instance 216;FWD order Intermediate A;;;complete;a3
+22;Instance 222;2016-12-15T15:58:41+01:00;Instance 222;Order intermediate A;;;complete;a4
+22;Instance 222;2016-12-15T15:58:41+01:00;Instance 222;FWD order Intermediate A;;;complete;a2
+22;Instance 222;2016-12-15T15:58:42+01:00;Instance 222;Get authority permission;;;complete;a0
+22;Instance 222;2016-12-15T15:58:43+01:00;Instance 222;FWD order Intermediate A 2;;;complete;a3
+22;Instance 222;2016-12-15T15:58:43+01:00;Instance 222;FWD order Intermediate A;;;complete;a3
+33;Instance 228;2016-12-15T15:58:45+01:00;Instance 228;Order intermediate A;;;complete;a4
+33;Instance 228;2016-12-15T15:58:46+01:00;Instance 228;FWD order Intermediate A;;;complete;a2
+33;Instance 228;2016-12-15T15:58:47+01:00;Instance 228;Get authority permission;;;complete;a0
+44;Instance 234;2016-12-15T15:58:48+01:00;Instance 234;Order intermediate A;;;complete;a4
+44;Instance 234;2016-12-15T15:58:49+01:00;Instance 234;Get authority permission;;;complete;a0
+44;Instance 234;2016-12-15T15:58:50+01:00;Instance 234;FWD order Intermediate A 2;;;complete;a3
+44;Instance 234;2016-12-15T15:58:50+01:00;Instance 234;FWD order Intermediate A;;;complete;a3
+00;Instance 212;15/12/2016 15:58;Instance 212;FWD order Intermediate A;;;complete;a8
+00;Instance 212;15/12/2016 15:58;Instance 212;Produce intermediate A;;;complete;a1
+00;Instance 212;15/12/2016 15:58;Instance 212;Quality test intermediate A;;;complete;a6
+00;Instance 212;15/12/2016 15:58;Instance 212;quality report intermediate A;;;complete;a7
+00;Instance 212;15/12/2016 15:58;Instance 212;Prepare transport;;;complete;a5
+00;Instance 212;15/12/2016 15:58;Instance 212;waybill intermediate A;;;complete;a10
+11;Instance 218;15/12/2016 15:58;Instance 218;FWD order Intermediate A;;;complete;a8
+11;Instance 218;15/12/2016 15:58;Instance 218;request detalis;;;complete;a2
+11;Instance 218;15/12/2016 15:58;Instance 218;transport details;;;complete;a3
+11;Instance 218;15/12/2016 15:58;Instance 218;waybill intermediate A;;;complete;a10
+22;Instance 224;15/12/2016 15:58;Instance 224;FWD order Intermediate A;;;complete;a8
+22;Instance 224;15/12/2016 15:58;Instance 224;Produce intermediate A;;;complete;a1
+22;Instance 224;15/12/2016 15:58;Instance 224;Quality test intermediate A;;;complete;a6
+22;Instance 224;15/12/2016 15:58;Instance 224;quality report intermediate A;;;complete;a7
+22;Instance 224;15/12/2016 15:58;Instance 224;Prepare transport;;;complete;a5
+22;Instance 224;15/12/2016 15:58;Instance 224;waybill intermediate A;;;complete;a10
+33;Instance 230;15/12/2016 15:58;Instance 230;FWD order Intermediate A;;;complete;a8
+33;Instance 230;15/12/2016 15:58;Instance 230;request detalis;;;complete;a2
+33;Instance 230;15/12/2016 15:58;Instance 230;transport details;;;complete;a3
+33;Instance 230;15/12/2016 15:58;Instance 230;waybill intermediate A;;;complete;a10
+44;Instance 236;15/12/2016 15:58;Instance 236;FWD order Intermediate A;;;complete;a8
+44;Instance 236;15/12/2016 15:58;Instance 236;Produce intermediate A;;;complete;a1
+44;Instance 236;15/12/2016 15:58;Instance 236;Quality test intermediate A;;;complete;a6
+44;Instance 236;15/12/2016 15:58;Instance 236;quality report intermediate A;;;complete;a7
+44;Instance 236;15/12/2016 15:58;Instance 236;Prepare transport;;;complete;a5
+44;Instance 236;15/12/2016 15:58;Instance 236;waybill intermediate A;;;complete;a10

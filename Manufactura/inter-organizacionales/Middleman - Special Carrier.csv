@@ -1,0 +1,66 @@
+id_new;IdCase;result;time:timestamp;concept:instance;id:id;lifecycle:transition;id;concept:name
+00;Instance 210;;2016-12-15T15:58:37+01:00;;a4;complete;Instance 210;Order intermediate A
+00;Instance 210;;2016-12-15T15:58:37+01:00;;a2;complete;Instance 210;FWD order Intermediate A
+00;Instance 210;;2016-12-15T15:58:37+01:00;;a2;complete;Instance 210;FWD order Intermediate A
+00;Instance 210;;2016-12-15T15:58:38+01:00;;a0;complete;Instance 210;Get authority permission
+00;Instance 210;;2016-12-15T15:58:39+01:00;;a3;complete;Instance 210;FWD order Intermediate A
+00;Instance 210;;2016-12-15T15:58:39+01:00;;a3;complete;Instance 210;FWD order Intermediate A
+11;Instance 216;;2016-12-15T15:58:39+01:00;;a4;complete;Instance 216;Order intermediate A
+11;Instance 216;;2016-12-15T15:58:39+01:00;;a2;complete;Instance 216;FWD order Intermediate A
+11;Instance 216;;2016-12-15T15:58:39+01:00;;a2;complete;Instance 216;FWD order Intermediate A
+11;Instance 216;;2016-12-15T15:58:40+01:00;;a0;complete;Instance 216;Get authority permission
+11;Instance 216;;2016-12-15T15:58:40+01:00;;a3;complete;Instance 216;FWD order Intermediate A
+11;Instance 216;;2016-12-15T15:58:40+01:00;;a3;complete;Instance 216;FWD order Intermediate A
+22;Instance 222;;2016-12-15T15:58:41+01:00;;a4;complete;Instance 222;Order intermediate A
+22;Instance 222;;2016-12-15T15:58:41+01:00;;a2;complete;Instance 222;FWD order Intermediate A
+22;Instance 222;;2016-12-15T15:58:41+01:00;;a2;complete;Instance 222;FWD order Intermediate A
+22;Instance 222;;2016-12-15T15:58:42+01:00;;a0;complete;Instance 222;Get authority permission
+22;Instance 222;;2016-12-15T15:58:43+01:00;;a3;complete;Instance 222;FWD order Intermediate A
+22;Instance 222;;2016-12-15T15:58:43+01:00;;a3;complete;Instance 222;FWD order Intermediate A
+33;Instance 228;;2016-12-15T15:58:45+01:00;;a4;complete;Instance 228;Order intermediate A
+33;Instance 228;;2016-12-15T15:58:46+01:00;;a2;complete;Instance 228;FWD order Intermediate A
+33;Instance 228;;2016-12-15T15:58:46+01:00;;a2;complete;Instance 228;FWD order Intermediate A
+33;Instance 228;;2016-12-15T15:58:47+01:00;;a0;complete;Instance 228;Get authority permission
+44;Instance 234;;2016-12-15T15:58:48+01:00;;a4;complete;Instance 234;Order intermediate A
+44;Instance 234;;2016-12-15T15:58:49+01:00;;a0;complete;Instance 234;Get authority permission
+44;Instance 234;;2016-12-15T15:58:50+01:00;;a3;complete;Instance 234;FWD order Intermediate A
+44;Instance 234;;2016-12-15T15:58:50+01:00;;a3;complete;Instance 234;FWD order Intermediate A
+00;Instance 211;;2016-12-15T15:58:37+01:00;;a1;complete;Instance 211;request details
+00;Instance 211;;2016-12-15T15:58:37+01:00;;a8;complete;Instance 211;FWD order Intermediate A
+00;Instance 211;;2016-12-15T15:58:39+01:00;;a0;complete;Instance 211;transport details
+00;Instance 211;;2016-12-15T15:58:41+01:00;;a2;complete;Instance 211;Safety check
+00;Instance 211;;2016-12-15T15:58:43+01:00;;a5;complete;Instance 211;waybill intermediate A
+00;Instance 211;;2016-12-15T15:58:43+01:00;;a3;complete;Instance 211;Intermediate A delivery details
+00;Instance 211;;2016-12-15T15:58:45+01:00;;a4;complete;Instance 211;transport intermediate A
+00;Instance 211;;2016-12-15T15:58:46+01:00;;a6;complete;Instance 211;Arrival intermediate A
+11;Instance 217;;2016-12-15T15:58:39+01:00;;a8;complete;Instance 217;FWD order Intermediate A
+11;Instance 217;;2016-12-15T15:58:39+01:00;;a1;complete;Instance 217;request details
+11;Instance 217;;2016-12-15T15:58:40+01:00;;a0;complete;Instance 217;transport details
+11;Instance 217;;2016-12-15T15:58:42+01:00;;a2;complete;Instance 217;Safety check
+11;Instance 217;;2016-12-15T15:58:44+01:00;;a5;complete;Instance 217;waybill intermediate A
+11;Instance 217;;2016-12-15T15:58:45+01:00;;a3;complete;Instance 217;Intermediate A delivery details
+11;Instance 217;;2016-12-15T15:58:46+01:00;;a4;complete;Instance 217;transport intermediate A
+11;Instance 217;;2016-12-15T15:58:46+01:00;;a6;complete;Instance 217;Arrival intermediate A
+22;Instance 223;;2016-12-15T15:58:41+01:00;;a8;complete;Instance 223;FWD order Intermediate A
+22;Instance 223;;2016-12-15T15:58:42+01:00;;a1;complete;Instance 223;request details
+22;Instance 223;;2016-12-15T15:58:43+01:00;;a0;complete;Instance 223;transport details
+22;Instance 223;;2016-12-15T15:58:44+01:00;;a2;complete;Instance 223;Safety check
+22;Instance 223;;2016-12-15T15:58:47+01:00;;a5;complete;Instance 223;waybill intermediate A
+22;Instance 223;;2016-12-15T15:58:47+01:00;;a3;complete;Instance 223;Intermediate A delivery details
+22;Instance 223;;2016-12-15T15:58:49+01:00;;a4;complete;Instance 223;transport intermediate A
+22;Instance 223;;2016-12-15T15:58:49+01:00;;a6;complete;Instance 223;Arrival intermediate A
+33;Instance 229;;2016-12-15T15:58:46+01:00;;a8;complete;Instance 229;FWD order Intermediate A
+33;Instance 229;;2016-12-15T15:58:46+01:00;;a1;complete;Instance 229;request details
+33;Instance 229;;2016-12-15T15:58:47+01:00;;a0;complete;Instance 229;transport details
+33;Instance 229;;2016-12-15T15:58:49+01:00;;a2;complete;Instance 229;Safety check
+33;Instance 229;;2016-12-15T15:58:51+01:00;;a5;complete;Instance 229;waybill intermediate A
+33;Instance 229;;2016-12-15T15:58:51+01:00;;a3;complete;Instance 229;Intermediate A delivery details
+33;Instance 229;;2016-12-15T15:58:52+01:00;;a4;complete;Instance 229;transport intermediate A
+33;Instance 229;;2016-12-15T15:58:52+01:00;;a6;complete;Instance 229;Arrival intermediate A
+44;Instance 235;;2016-12-15T15:58:48+01:00;;a8;complete;Instance 235;FWD order Intermediate A
+44;Instance 235;;2016-12-15T15:58:50+01:00;;a0;complete;Instance 235;transport details
+44;Instance 235;;2016-12-15T15:58:51+01:00;;a2;complete;Instance 235;Safety check
+44;Instance 235;;2016-12-15T15:58:53+01:00;;a5;complete;Instance 235;waybill intermediate A
+44;Instance 235;;2016-12-15T15:58:53+01:00;;a3;complete;Instance 235;Intermediate A delivery details
+44;Instance 235;;2016-12-15T15:58:54+01:00;;a4;complete;Instance 235;transport intermediate A
+44;Instance 235;;2016-12-15T15:58:54+01:00;;a6;complete;Instance 235;Arrival intermediate A

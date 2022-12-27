@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" targetNamespace="http://www.omg.org/bpmn20" exporter="ProM. http://www.promtools.org/prom6" exporterVersion="6.3" xsi:schemaLocation="http://www.omg.org/spec/BPMN/20100524/MODEL BPMN20.xsd"><process id="proc_1778535015">
+<startEvent id="node_9d1a6e27-876c-4741-8943-00f19a8a0479" name=""/>
+<endEvent id="node_ce03a7aa-c23e-4fe4-998d-beed9884b296" name=""/>
+<task id="node_403e4e80-f4ba-4124-88e8-b7e580740ec6" name="arrival intermediate B"/>
+<task id="node_2dbbfa61-501e-4f76-872d-656cac39808f" name="Transport intermediate B"/>
+<task id="node_c2f7b5ff-98cb-4dbb-893b-324dd48ef9df" name="produce intermediate B"/>
+<task id="node_1913153a-8caa-4401-98ce-e3e6c308a227" name="order intermediate B"/>
+<sequenceFlow id="node_f56bd423-9983-4008-8a4f-c24bd089c820" name="" sourceRef="node_1913153a-8caa-4401-98ce-e3e6c308a227" targetRef="node_c2f7b5ff-98cb-4dbb-893b-324dd48ef9df"/>
+<sequenceFlow id="node_04103087-105b-4c6e-8b70-59782e61057c" name="" sourceRef="node_2dbbfa61-501e-4f76-872d-656cac39808f" targetRef="node_403e4e80-f4ba-4124-88e8-b7e580740ec6"/>
+<sequenceFlow id="node_113dc425-60e2-485d-93c0-2f8060bd5f3a" name="" sourceRef="node_403e4e80-f4ba-4124-88e8-b7e580740ec6" targetRef="node_ce03a7aa-c23e-4fe4-998d-beed9884b296"/>
+<sequenceFlow id="node_b1f7183a-aad9-4390-846d-c8219a1662e6" name="" sourceRef="node_c2f7b5ff-98cb-4dbb-893b-324dd48ef9df" targetRef="node_2dbbfa61-501e-4f76-872d-656cac39808f"/>
+<sequenceFlow id="node_2af2886e-8f45-4c8c-82cf-b8961138f2e1" name="" sourceRef="node_9d1a6e27-876c-4741-8943-00f19a8a0479" targetRef="node_1913153a-8caa-4401-98ce-e3e6c308a227"/>
+</process>
+<bpmndi:BPMNDiagram id="id_496636946">
+<bpmndi:BPMNPlane bpmnElement="proc_1778535015">
+<bpmndi:BPMNShape bpmnElement="node_9d1a6e27-876c-4741-8943-00f19a8a0479">
+<dc:Bounds x="1.0" y="108.5" width="25.0" height="25.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_1913153a-8caa-4401-98ce-e3e6c308a227">
+<dc:Bounds x="76.0" y="101.0" width="80.0" height="40.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_2dbbfa61-501e-4f76-872d-656cac39808f">
+<dc:Bounds x="336.0" y="101.0" width="80.0" height="40.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_c2f7b5ff-98cb-4dbb-893b-324dd48ef9df">
+<dc:Bounds x="206.0" y="101.0" width="80.0" height="40.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_ce03a7aa-c23e-4fe4-998d-beed9884b296">
+<dc:Bounds x="596.0" y="108.5" width="25.0" height="25.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNShape bpmnElement="node_403e4e80-f4ba-4124-88e8-b7e580740ec6">
+<dc:Bounds x="466.0" y="101.0" width="80.0" height="40.0"/>
+<bpmndi:BPMNLabel/>
+</bpmndi:BPMNShape>
+<bpmndi:BPMNEdge bpmnElement="node_04103087-105b-4c6e-8b70-59782e61057c">
+<di:waypoint x="376.0" y="121.0"/>
+<di:waypoint x="506.0" y="121.0"/>
+</bpmndi:BPMNEdge>
+<bpmndi:BPMNEdge bpmnElement="node_2af2886e-8f45-4c8c-82cf-b8961138f2e1">
+<di:waypoint x="13.5" y="121.0"/>
+<di:waypoint x="116.0" y="121.0"/>
+</bpmndi:BPMNEdge>
+<bpmndi:BPMNEdge bpmnElement="node_b1f7183a-aad9-4390-846d-c8219a1662e6">
+<di:waypoint x="246.0" y="121.0"/>
+<di:waypoint x="376.0" y="121.0"/>
+</bpmndi:BPMNEdge>
+<bpmndi:BPMNEdge bpmnElement="node_113dc425-60e2-485d-93c0-2f8060bd5f3a">
+<di:waypoint x="506.0" y="121.0"/>
+<di:waypoint x="608.5" y="121.0"/>
+</bpmndi:BPMNEdge>
+<bpmndi:BPMNEdge bpmnElement="node_f56bd423-9983-4008-8a4f-c24bd089c820">
+<di:waypoint x="116.0" y="121.0"/>
+<di:waypoint x="246.0" y="121.0"/>
+</bpmndi:BPMNEdge>
+</bpmndi:BPMNPlane>
+</bpmndi:BPMNDiagram>
+</definitions>

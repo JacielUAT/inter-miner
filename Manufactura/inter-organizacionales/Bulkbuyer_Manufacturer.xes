@@ -1,0 +1,1506 @@
+<log>
+<trace>
+<string key="concept:name" value="0"/> 
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="207"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="207"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:34+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="207"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order1"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="207"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:34+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="207"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a2"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="207"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:34+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="207"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a5"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="207"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:47+01:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="1"/> 
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="213"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="213"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:35+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="213"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order1"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="213"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:35+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="213"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a2"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="213"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:36+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="213"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a3"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="213"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:49+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="213"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a5"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="213"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:49+01:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="2"/> 
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="219"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="219"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:37+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="219"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order1"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="219"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:37+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="219"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a2"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="219"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:38+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="219"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a3"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="219"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="219"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a5"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="219"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="3"/> 
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="225"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="225"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:40+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="225"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order1"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="225"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:40+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="225"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a2"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="225"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:40+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="225"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a3"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="225"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:54+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="225"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a5"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="225"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:54+01:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="4"/> 
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="231"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="231"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:44+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="231"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order1"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="231"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:44+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="231"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a2"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="231"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:44+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="231"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a3"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="231"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:56+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="231"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a5"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="231"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:56+01:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="0"/> 
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order1"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a24"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:34+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="process order"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a0"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:35+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="calculate demand intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a2"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:37+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="calculate demand intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a10"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:37+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a14"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:37+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Order intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a3"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:37+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="arrival intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a15"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:40+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="quick test intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a11"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:41+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="quality report intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:42+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Intermediate A delivery details"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a5"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:43+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Arrival intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a7"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:44+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="prepare preprocessing intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a9"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:45+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="full quality test intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a8"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:45+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="preprocess intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a16"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:46+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a13"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:47+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a13"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:47+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a17"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:48+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a18"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:48+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a18"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:48+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="final test"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a19"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:49+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="prepare delivery"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a20"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a22"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:51+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="IdCase" value="Instance 208"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a22"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 208"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:51+01:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="1"/> 
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order1"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a24"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:36+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="process order"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a0"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:37+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="calculate demand intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a2"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:38+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="calculate demand intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a10"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:38+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a14"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:39+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Order intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a3"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:39+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="arrival intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a15"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:42+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="quick test intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a11"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:43+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="quality report intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:43+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Intermediate A delivery details"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a5"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:45+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Arrival intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a7"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:46+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="prepare preprocessing intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a9"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:46+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="full quality test intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a8"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:47+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="preprocess intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a16"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:48+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a17"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a18"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a18"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="final test"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a19"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:51+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="prepare delivery"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a20"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:52+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a22"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:52+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="IdCase" value="Instance 214"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a22"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 214"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:52+01:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="2"/> 
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order1"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a24"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:38+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="process order"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a0"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:39+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="calculate demand intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a2"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:41+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="calculate demand intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a10"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:41+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Order intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a3"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:41+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a14"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:41+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="arrival intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a15"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:45+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="quality report intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:45+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="quick test intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a11"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:46+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Intermediate A delivery details"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a5"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:47+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Arrival intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a7"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:48+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="prepare preprocessing intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a9"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:49+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="full quality test intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a8"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:49+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="preprocess intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a16"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a13"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a13"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a17"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:51+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a18"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:51+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a18"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:51+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="final test"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a19"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:52+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="prepare delivery"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a20"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:54+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a22"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:54+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="2"/> 
+<string key="IdCase" value="Instance 220"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a22"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 220"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:54+01:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="3"/> 
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order1"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a24"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:42+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="process order"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a0"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:43+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="calculate demand intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a10"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:45+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="calculate demand intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a2"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:45+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a14"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:45+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Order intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a3"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:45+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="arrival intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a15"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:48+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="quick test intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a11"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:49+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="quality report intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Intermediate A delivery details"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a5"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:51+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Arrival intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a7"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:51+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="prepare preprocessing intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a9"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:52+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="full quality test intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a8"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:52+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="preprocess intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a16"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:53+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a13"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:53+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a13"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:53+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a17"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:55+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a18"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:55+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a18"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:55+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="final test"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a19"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:56+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="3"/> 
+<string key="IdCase" value="Instance 226"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="prepare delivery"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a20"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 226"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:57+01:00"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="4"/> 
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order1"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a24"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:45+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="process order"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a0"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:46+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="calculate demand intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a10"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:48+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="calculate demand intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a2"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:48+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="order intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a14"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:48+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Order intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a3"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:48+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="arrival intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a15"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:50+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="quick test intermediate B"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a11"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:51+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="quality report intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a4"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:52+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Intermediate A delivery details"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a5"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:53+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="prepare preprocessing intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a9"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:54+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="full quality test intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a8"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:54+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="preprocess intermediate A"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a16"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:55+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a13"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:56+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report production start"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a13"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:56+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="Production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a17"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:57+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a18"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:57+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="status report end production"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a18"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:57+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="final test"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a19"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:58+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="prepare delivery"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a20"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:59+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a22"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:59+01:00"/> 
+</event>
+<event>
+<string key="id_new" value="4"/> 
+<string key="IdCase" value="Instance 232"/> 
+<string key="result" value=""/> 
+<string key="concept:name" value="delivery of product"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="id:id" value="a22"/> 
+<string key="concept:instance" value=""/> 
+<string key="id" value="Instance 232"/> 
+<string key="time:timestamp" value="2016-12-15T15:58:59+01:00"/> 
+</event>
+</trace>
+</log>

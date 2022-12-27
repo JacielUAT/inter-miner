@@ -1,0 +1,135 @@
+id_new;IdCase;result;concept:name;lifecycle:transition;id:id;concept:instance;id;time:timestamp
+00;207;;order;complete;a4;;207;2016-12-15T15:58:34+01:00
+00;207;;order;complete;a4;;207;2016-12-15T15:58:34+01:00
+00;207;;status report production start;complete;a2;;207;2016-12-15T15:58:34+01:00
+00;207;;delivery of product;complete;a5;;207;2016-12-15T15:58:47+01:00
+11;213;;order;complete;a4;;213;2016-12-15T15:58:35+01:00
+11;213;;order;complete;a4;;213;2016-12-15T15:58:35+01:00
+11;213;;status report production start;complete;a2;;213;2016-12-15T15:58:36+01:00
+11;213;;status report end production;complete;a3;;213;2016-12-15T15:58:49+01:00
+11;213;;delivery of product;complete;a5;;213;2016-12-15T15:58:49+01:00
+22;219;;order;complete;a4;;219;2016-12-15T15:58:37+01:00
+22;219;;order;complete;a4;;219;2016-12-15T15:58:37+01:00
+22;219;;status report production start;complete;a2;;219;2016-12-15T15:58:38+01:00
+22;219;;status report end production;complete;a3;;219;2016-12-15T15:58:50+01:00
+22;219;;delivery of product;complete;a5;;219;2016-12-15T15:58:50+01:00
+33;225;;order;complete;a4;;225;2016-12-15T15:58:40+01:00
+33;225;;order;complete;a4;;225;2016-12-15T15:58:40+01:00
+33;225;;status report production start;complete;a2;;225;2016-12-15T15:58:40+01:00
+33;225;;status report end production;complete;a3;;225;2016-12-15T15:58:54+01:00
+33;225;;delivery of product;complete;a5;;225;2016-12-15T15:58:54+01:00
+44;231;;order;complete;a4;;231;2016-12-15T15:58:44+01:00
+44;231;;order;complete;a4;;231;2016-12-15T15:58:44+01:00
+44;231;;status report production start;complete;a2;;231;2016-12-15T15:58:44+01:00
+44;231;;status report end production;complete;a3;;231;2016-12-15T15:58:56+01:00
+44;231;;delivery of product;complete;a5;;231;2016-12-15T15:58:56+01:00
+00;Instance 208;;order;complete;a24;;Instance 208;2016-12-15T15:58:34+01:00
+00;Instance 208;;process order;complete;a0;;Instance 208;2016-12-15T15:58:35+01:00
+00;Instance 208;;calculate demand intermediate A;complete;a2;;Instance 208;2016-12-15T15:58:37+01:00
+00;Instance 208;;calculate demand intermediate B;complete;a10;;Instance 208;2016-12-15T15:58:37+01:00
+00;Instance 208;;order intermediate B;complete;a14;;Instance 208;2016-12-15T15:58:37+01:00
+00;Instance 208;;Order intermediate A;complete;a3;;Instance 208;2016-12-15T15:58:37+01:00
+00;Instance 208;;arrival intermediate B;complete;a15;;Instance 208;2016-12-15T15:58:40+01:00
+00;Instance 208;;quick test intermediate B;complete;a11;;Instance 208;2016-12-15T15:58:41+01:00
+00;Instance 208;;quality report intermediate A;complete;a4;;Instance 208;2016-12-15T15:58:42+01:00
+00;Instance 208;;Intermediate A delivery details;complete;a5;;Instance 208;2016-12-15T15:58:43+01:00
+00;Instance 208;;Arrival intermediate A;complete;a7;;Instance 208;2016-12-15T15:58:44+01:00
+00;Instance 208;;prepare preprocessing intermediate A;complete;a9;;Instance 208;2016-12-15T15:58:45+01:00
+00;Instance 208;;full quality test intermediate A;complete;a8;;Instance 208;2016-12-15T15:58:45+01:00
+00;Instance 208;;preprocess intermediate A;complete;a16;;Instance 208;2016-12-15T15:58:46+01:00
+00;Instance 208;;status report production start;complete;a13;;Instance 208;2016-12-15T15:58:47+01:00
+00;Instance 208;;status report production start;complete;a13;;Instance 208;2016-12-15T15:58:47+01:00
+00;Instance 208;;Production;complete;a17;;Instance 208;2016-12-15T15:58:48+01:00
+00;Instance 208;;status report end production;complete;a18;;Instance 208;2016-12-15T15:58:48+01:00
+00;Instance 208;;status report end production;complete;a18;;Instance 208;2016-12-15T15:58:48+01:00
+00;Instance 208;;final test;complete;a19;;Instance 208;2016-12-15T15:58:49+01:00
+00;Instance 208;;prepare delivery;complete;a20;;Instance 208;2016-12-15T15:58:50+01:00
+00;Instance 208;;delivery of product;complete;a22;;Instance 208;2016-12-15T15:58:51+01:00
+00;Instance 208;;delivery of product;complete;a22;;Instance 208;2016-12-15T15:58:51+01:00
+11;Instance 214;;order;complete;a24;;Instance 214;2016-12-15T15:58:36+01:00
+11;Instance 214;;process order;complete;a0;;Instance 214;2016-12-15T15:58:37+01:00
+11;Instance 214;;calculate demand intermediate A;complete;a2;;Instance 214;2016-12-15T15:58:38+01:00
+11;Instance 214;;calculate demand intermediate B;complete;a10;;Instance 214;2016-12-15T15:58:38+01:00
+11;Instance 214;;order intermediate B;complete;a14;;Instance 214;2016-12-15T15:58:39+01:00
+11;Instance 214;;Order intermediate A;complete;a3;;Instance 214;2016-12-15T15:58:39+01:00
+11;Instance 214;;arrival intermediate B;complete;a15;;Instance 214;2016-12-15T15:58:42+01:00
+11;Instance 214;;quick test intermediate B;complete;a11;;Instance 214;2016-12-15T15:58:43+01:00
+11;Instance 214;;quality report intermediate A;complete;a4;;Instance 214;2016-12-15T15:58:43+01:00
+11;Instance 214;;Intermediate A delivery details;complete;a5;;Instance 214;2016-12-15T15:58:45+01:00
+11;Instance 214;;Arrival intermediate A;complete;a7;;Instance 214;2016-12-15T15:58:46+01:00
+11;Instance 214;;prepare preprocessing intermediate A;complete;a9;;Instance 214;2016-12-15T15:58:46+01:00
+11;Instance 214;;full quality test intermediate A;complete;a8;;Instance 214;2016-12-15T15:58:47+01:00
+11;Instance 214;;preprocess intermediate A;complete;a16;;Instance 214;2016-12-15T15:58:48+01:00
+11;Instance 214;;Production;complete;a17;;Instance 214;2016-12-15T15:58:50+01:00
+11;Instance 214;;status report end production;complete;a18;;Instance 214;2016-12-15T15:58:50+01:00
+11;Instance 214;;status report end production;complete;a18;;Instance 214;2016-12-15T15:58:50+01:00
+11;Instance 214;;final test;complete;a19;;Instance 214;2016-12-15T15:58:51+01:00
+11;Instance 214;;prepare delivery;complete;a20;;Instance 214;2016-12-15T15:58:52+01:00
+11;Instance 214;;delivery of product;complete;a22;;Instance 214;2016-12-15T15:58:52+01:00
+11;Instance 214;;delivery of product;complete;a22;;Instance 214;2016-12-15T15:58:52+01:00
+22;Instance 220;;order;complete;a24;;Instance 220;2016-12-15T15:58:38+01:00
+22;Instance 220;;process order;complete;a0;;Instance 220;2016-12-15T15:58:39+01:00
+22;Instance 220;;calculate demand intermediate A;complete;a2;;Instance 220;2016-12-15T15:58:41+01:00
+22;Instance 220;;calculate demand intermediate B;complete;a10;;Instance 220;2016-12-15T15:58:41+01:00
+22;Instance 220;;Order intermediate A;complete;a3;;Instance 220;2016-12-15T15:58:41+01:00
+22;Instance 220;;order intermediate B;complete;a14;;Instance 220;2016-12-15T15:58:41+01:00
+22;Instance 220;;arrival intermediate B;complete;a15;;Instance 220;2016-12-15T15:58:45+01:00
+22;Instance 220;;quality report intermediate A;complete;a4;;Instance 220;2016-12-15T15:58:45+01:00
+22;Instance 220;;quick test intermediate B;complete;a11;;Instance 220;2016-12-15T15:58:46+01:00
+22;Instance 220;;Intermediate A delivery details;complete;a5;;Instance 220;2016-12-15T15:58:47+01:00
+22;Instance 220;;Arrival intermediate A;complete;a7;;Instance 220;2016-12-15T15:58:48+01:00
+22;Instance 220;;prepare preprocessing intermediate A;complete;a9;;Instance 220;2016-12-15T15:58:49+01:00
+22;Instance 220;;full quality test intermediate A;complete;a8;;Instance 220;2016-12-15T15:58:49+01:00
+22;Instance 220;;preprocess intermediate A;complete;a16;;Instance 220;2016-12-15T15:58:50+01:00
+22;Instance 220;;status report production start;complete;a13;;Instance 220;2016-12-15T15:58:50+01:00
+22;Instance 220;;status report production start;complete;a13;;Instance 220;2016-12-15T15:58:50+01:00
+22;Instance 220;;Production;complete;a17;;Instance 220;2016-12-15T15:58:51+01:00
+22;Instance 220;;status report end production;complete;a18;;Instance 220;2016-12-15T15:58:51+01:00
+22;Instance 220;;status report end production;complete;a18;;Instance 220;2016-12-15T15:58:51+01:00
+22;Instance 220;;final test;complete;a19;;Instance 220;2016-12-15T15:58:52+01:00
+22;Instance 220;;prepare delivery;complete;a20;;Instance 220;2016-12-15T15:58:54+01:00
+22;Instance 220;;delivery of product;complete;a22;;Instance 220;2016-12-15T15:58:54+01:00
+22;Instance 220;;delivery of product;complete;a22;;Instance 220;2016-12-15T15:58:54+01:00
+33;Instance 226;;order;complete;a24;;Instance 226;2016-12-15T15:58:42+01:00
+33;Instance 226;;process order;complete;a0;;Instance 226;2016-12-15T15:58:43+01:00
+33;Instance 226;;calculate demand intermediate B;complete;a10;;Instance 226;2016-12-15T15:58:45+01:00
+33;Instance 226;;calculate demand intermediate A;complete;a2;;Instance 226;2016-12-15T15:58:45+01:00
+33;Instance 226;;order intermediate B;complete;a14;;Instance 226;2016-12-15T15:58:45+01:00
+33;Instance 226;;Order intermediate A;complete;a3;;Instance 226;2016-12-15T15:58:45+01:00
+33;Instance 226;;arrival intermediate B;complete;a15;;Instance 226;2016-12-15T15:58:48+01:00
+33;Instance 226;;quick test intermediate B;complete;a11;;Instance 226;2016-12-15T15:58:49+01:00
+33;Instance 226;;quality report intermediate A;complete;a4;;Instance 226;2016-12-15T15:58:50+01:00
+33;Instance 226;;Intermediate A delivery details;complete;a5;;Instance 226;2016-12-15T15:58:51+01:00
+33;Instance 226;;Arrival intermediate A;complete;a7;;Instance 226;2016-12-15T15:58:51+01:00
+33;Instance 226;;prepare preprocessing intermediate A;complete;a9;;Instance 226;2016-12-15T15:58:52+01:00
+33;Instance 226;;full quality test intermediate A;complete;a8;;Instance 226;2016-12-15T15:58:52+01:00
+33;Instance 226;;preprocess intermediate A;complete;a16;;Instance 226;2016-12-15T15:58:53+01:00
+33;Instance 226;;status report production start;complete;a13;;Instance 226;2016-12-15T15:58:53+01:00
+33;Instance 226;;status report production start;complete;a13;;Instance 226;2016-12-15T15:58:53+01:00
+33;Instance 226;;Production;complete;a17;;Instance 226;2016-12-15T15:58:55+01:00
+33;Instance 226;;status report end production;complete;a18;;Instance 226;2016-12-15T15:58:55+01:00
+33;Instance 226;;status report end production;complete;a18;;Instance 226;2016-12-15T15:58:55+01:00
+33;Instance 226;;final test;complete;a19;;Instance 226;2016-12-15T15:58:56+01:00
+33;Instance 226;;prepare delivery;complete;a20;;Instance 226;2016-12-15T15:58:57+01:00
+44;Instance 232;;order;complete;a24;;Instance 232;2016-12-15T15:58:45+01:00
+44;Instance 232;;process order;complete;a0;;Instance 232;2016-12-15T15:58:46+01:00
+44;Instance 232;;calculate demand intermediate B;complete;a10;;Instance 232;2016-12-15T15:58:48+01:00
+44;Instance 232;;calculate demand intermediate A;complete;a2;;Instance 232;2016-12-15T15:58:48+01:00
+44;Instance 232;;order intermediate B;complete;a14;;Instance 232;2016-12-15T15:58:48+01:00
+44;Instance 232;;Order intermediate A;complete;a3;;Instance 232;2016-12-15T15:58:48+01:00
+44;Instance 232;;arrival intermediate B;complete;a15;;Instance 232;2016-12-15T15:58:50+01:00
+44;Instance 232;;quick test intermediate B;complete;a11;;Instance 232;2016-12-15T15:58:51+01:00
+44;Instance 232;;quality report intermediate A;complete;a4;;Instance 232;2016-12-15T15:58:52+01:00
+44;Instance 232;;Intermediate A delivery details;complete;a5;;Instance 232;2016-12-15T15:58:53+01:00
+44;Instance 232;;prepare preprocessing intermediate A;complete;a9;;Instance 232;2016-12-15T15:58:54+01:00
+44;Instance 232;;full quality test intermediate A;complete;a8;;Instance 232;2016-12-15T15:58:54+01:00
+44;Instance 232;;preprocess intermediate A;complete;a16;;Instance 232;2016-12-15T15:58:55+01:00
+44;Instance 232;;status report production start;complete;a13;;Instance 232;2016-12-15T15:58:56+01:00
+44;Instance 232;;status report production start;complete;a13;;Instance 232;2016-12-15T15:58:56+01:00
+44;Instance 232;;Production;complete;a17;;Instance 232;2016-12-15T15:58:57+01:00
+44;Instance 232;;status report end production;complete;a18;;Instance 232;2016-12-15T15:58:57+01:00
+44;Instance 232;;status report end production;complete;a18;;Instance 232;2016-12-15T15:58:57+01:00
+44;Instance 232;;final test;complete;a19;;Instance 232;2016-12-15T15:58:58+01:00
+44;Instance 232;;prepare delivery;complete;a20;;Instance 232;2016-12-15T15:58:59+01:00
+44;Instance 232;;delivery of product;complete;a22;;Instance 232;2016-12-15T15:58:59+01:00
+44;Instance 232;;delivery of product;complete;a22;;Instance 232;2016-12-15T15:58:59+01:00
