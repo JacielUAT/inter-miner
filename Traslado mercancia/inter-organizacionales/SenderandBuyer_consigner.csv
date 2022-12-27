@@ -1,0 +1,39 @@
+id_new;IdCase;description;lifecycle:transition;concept:received_message;concept:name;time:timestamp;concept:sent_message;org:resource
+00;1122;Simulated process instance;complete;{};Transportation Application;2015-04-02T8:32:00.000+01:00;{Application Form};SenderandBuyer
+00;1122;Simulated process instance;complete;{};Application Acceptance;2015-04-02T8:32:00.000+01:00;{Application Form};SenderandBuyer
+00;1122;Simulated process instance;complete;{contract};Contract Assignment;2015-04-02T8:58:00.000+01:00;{};SenderandBuyer
+00;1122;Simulated process instance;complete;{};Goods Preparation;2015-04-02T9:12:00.000+01:00;{};SenderandBuyer
+00;1122;Simulated process instance;complete;{};Payment;2015-04-02T9:20:00.000+01:00;{Payment Notice};SenderandBuyer
+00;1122;Simulated process instance;complete;{};Payment Receipt;2015-04-02T9:20:00.000+01:00;{Payment Notice};SenderandBuyer
+00;1122;Simulated process instance;complete;{Delivery Order};Goods Receipt;2015-04-02T9:58:00.000+01:00;{};SenderandBuyer
+11;1123;Simulated process instance;complete;{};Transportation Application;2015-04-03T8:32:00.000+01:00;{Application Form};SenderandBuyer
+11;1123;Simulated process instance;complete;{};Application Acceptance;2015-04-03T8:32:00.000+01:00;{Application Form};SenderandBuyer
+11;1123;Simulated process instance;complete;{contract};Contract Assignment;2015-04-03T8:58:00.000+01:00;{};SenderandBuyer
+11;1123;Simulated process instance;complete;{};Goods Preparation;2015-04-03T9:12:00.000+01:00;{};SenderandBuyer
+11;1123;Simulated process instance;complete;{};Payment;2015-04-03T9:20:00.000+01:00;{Payment Notice};SenderandBuyer
+11;1123;Simulated process instance;complete;{};Payment Receipt;2015-04-03T9:20:00.000+01:00;{Payment Notice};SenderandBuyer
+11;1123;Simulated process instance;complete;{Delivery Order};Goods Receipt;2015-04-03T9:58:00.000+01:00;{};SenderandBuyer
+00;1122;Simulated process instance;complete;{Application Form};Application Acceptance;2015-04-02T8:38:00.000+01:00;{};Consigner
+00;1122;Simulated process instance;complete;{};Generate Contract;2015-04-02T8:42:00.000+01:00;{contract};Consigner
+00;1122;Simulated process instance;complete;{};Contract Assignment;2015-04-02T8:42:00.000+01:00;{contract};Consigner
+00;1122;Simulated process instance;complete;{};Booking Request;2015-04-02T8:52:00.000+01:00;{Request Form to Carrier, Request Form to Shipper};Consigner
+00;1122;Simulated process instance;complete;{Carrier Acceptance Notice, Shipper Acceptance Notice};Packing Notice;2015-04-02T8:58:00.000+01:00;{};Consigner
+00;1122;Simulated process instance;complete;{};Packing Preparation;2015-04-02T9:12:00.000+01:00;{};Consigner
+00;1122;Simulated process instance;complete;{};Forward Transportation;2015-04-02T9:18:00.000+01:00;{Transportation Notice};Consigner
+00;1122;Simulated process instance;complete;{Carrier Payment Notice};Payment to Carrier;2015-04-02T9:34:00.000+01:00;{Carrier Bill Form};Consigner
+00;1122;Simulated process instance;complete;{Shipper Payment Notice};Payment to Shipper;2015-04-02T9:40:00.000+01:00;{Shipper Bill Form};Consigner
+00;1122;Simulated process instance;complete;{Payment Notice};Payment Receipt;2015-04-02T9:46:00.000+01:00;{};Consigner
+00;1122;Simulated process instance;complete;{};Generate Delivery Order;2015-04-02T9:52:00.000+01:00;{Delivery Order};Consigner
+00;1122;Simulated process instance;complete;{};Goods Receipt;2015-04-02T9:52:00.000+01:00;{Delivery Order};Consigner
+11;1123;Simulated process instance;complete;{Application Form};Application Acceptance;2015-04-03T8:38:00.000+01:00;{};Consigner
+11;1123;Simulated process instance;complete;{};Generate Contract;2015-04-03T8:42:00.000+01:00;{contract};Consigner
+11;1123;Simulated process instance;complete;{};Contract Assignment;2015-04-03T8:42:00.000+01:00;{contract};Consigner
+11;1123;Simulated process instance;complete;{};Booking Request;2015-04-03T8:52:00.000+01:00;{Request Form to Carrier, Request Form to Shipper};Consigner
+11;1123;Simulated process instance;complete;{Carrier Acceptance Notice, Shipper Acceptance Notice};Packing Notice;2015-04-03T8:58:00.000+01:00;{};Consigner
+11;1123;Simulated process instance;complete;{};Packing Preparation;2015-04-03T9:12:00.000+01:00;{};Consigner
+11;1123;Simulated process instance;complete;{};Forward Transportation;2015-04-03T9:18:00.000+01:00;{Transportation Notice};Consigner
+11;1123;Simulated process instance;complete;{Carrier Payment Notice};Payment to Carrier;2015-04-03T9:34:00.000+01:00;{Carrier Bill Form};Consigner
+11;1123;Simulated process instance;complete;{Shipper Payment Notice};Payment to Shipper;2015-04-03T9:40:00.000+01:00;{Shipper Bill Form};Consigner
+11;1123;Simulated process instance;complete;{Payment Notice};Payment Receipt;2015-04-03T9:46:00.000+01:00;{};Consigner
+11;1123;Simulated process instance;complete;{};Generate Delivery Order;2015-04-03T9:52:00.000+01:00;{Delivery Order};Consigner
+11;1123;Simulated process instance;complete;{};Goods Receipt;2015-04-03T9:52:00.000+01:00;{Delivery Order};Consigner

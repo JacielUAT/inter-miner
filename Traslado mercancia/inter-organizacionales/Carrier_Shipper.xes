@@ -1,0 +1,344 @@
+<log>
+<trace>
+<string key="concept:name" value="0"/> 
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value=""/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{Request Form to Carrier}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Booking Acceptance receive"/> 
+<string key="time:timestamp" value="2015-04-02T8:54:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Carrier Acceptance Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value=""/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{Request Form to Carrier}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Booking Acceptance send"/> 
+<string key="time:timestamp" value="2015-04-02T8:54:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Carrier Acceptance Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value=""/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Preparation"/> 
+<string key="time:timestamp" value="2015-04-02T9:12:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value=""/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{Transportation Notice}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Loading"/> 
+<string key="time:timestamp" value="2015-04-02T9:20:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value=""/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Issue Waybill"/> 
+<string key="time:timestamp" value="2015-04-02T9:24:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Carrier Payment Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value=""/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{Carrier Bill Form}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Transportation receive"/> 
+<string key="time:timestamp" value="2015-04-02T9:42:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Transfer Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value=""/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{Carrier Bill Form}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Transportation send"/> 
+<string key="time:timestamp" value="2015-04-02T9:42:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Transfer Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value=""/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{Carrier Bill Form}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Transportation Transfer"/> 
+<string key="time:timestamp" value="2015-04-02T9:42:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Transfer Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="1"/> 
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{Request Form to Carrier}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Booking Acceptance receive"/> 
+<string key="time:timestamp" value="2015-04-03T8:54:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Carrier Acceptance Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{Request Form to Carrier}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Booking Acceptance send"/> 
+<string key="time:timestamp" value="2015-04-03T8:54:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Carrier Acceptance Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Preparation"/> 
+<string key="time:timestamp" value="2015-04-03T9:12:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{Transportation Notice}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Loading"/> 
+<string key="time:timestamp" value="2015-04-03T9:20:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Issue Waybill"/> 
+<string key="time:timestamp" value="2015-04-03T9:24:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Carrier Payment Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{Carrier Bill Form}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Transportation receive"/> 
+<string key="time:timestamp" value="2015-04-03T9:42:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Transfer Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{Carrier Bill Form}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Carrier Transportation send"/> 
+<string key="time:timestamp" value="2015-04-03T9:42:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Transfer Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{Carrier Bill Form}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Transportation Transfer"/> 
+<string key="time:timestamp" value="2015-04-03T9:42:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Transfer Notice}"/> 
+<string key="org:resource" value="Carrier"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="0"/> 
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{Request Form to Shipper}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Shipper Booking Acceptance receive"/> 
+<string key="time:timestamp" value="2015-04-02T8:56:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Shipper Acceptance Notice}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{Request Form to Shipper}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Shipper Booking Acceptance send"/> 
+<string key="time:timestamp" value="2015-04-02T8:56:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Shipper Acceptance Notice}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Shipper Preparation"/> 
+<string key="time:timestamp" value="2015-04-02T9:14:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{Transfer Notice}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Transportation Transfer"/> 
+<string key="time:timestamp" value="2015-04-02T9:28:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Shipper Issue Waybill"/> 
+<string key="time:timestamp" value="2015-04-02T9:34:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Shipper Payment Notice}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{Shipper Bill Form}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Shipper Transportation"/> 
+<string key="time:timestamp" value="2015-04-02T9:48:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="0"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1122"/> 
+<string key="concept:received_message" value="{}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Goods Arrival"/> 
+<string key="time:timestamp" value="2015-04-02T9:52:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+</trace>
+<trace>
+<string key="concept:name" value="1"/> 
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{Request Form to Shipper}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Shipper Booking Acceptance receive"/> 
+<string key="time:timestamp" value="2015-04-03T8:56:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Shipper Acceptance Notice}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{Request Form to Shipper}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Shipper Booking Acceptance send"/> 
+<string key="time:timestamp" value="2015-04-03T8:56:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Shipper Acceptance Notice}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Shipper Preparation"/> 
+<string key="time:timestamp" value="2015-04-03T9:14:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{Transfer Notice}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Transportation Transfer"/> 
+<string key="time:timestamp" value="2015-04-03T9:28:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Shipper Issue Waybill"/> 
+<string key="time:timestamp" value="2015-04-03T9:34:00.000+01:00"/> 
+<string key="concept:sent_message" value="{Shipper Payment Notice}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{Shipper Bill Form}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Shipper Transportation"/> 
+<string key="time:timestamp" value="2015-04-03T9:48:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+<event>
+<string key="id_new" value="1"/> 
+<string key="description" value="Simulated process instance"/> 
+<string key="IdCase" value="1123"/> 
+<string key="concept:received_message" value="{}"/> 
+<string key="lifecycle:transition" value="complete"/> 
+<string key="concept:name" value="Goods Arrival"/> 
+<string key="time:timestamp" value="2015-04-03T9:52:00.000+01:00"/> 
+<string key="concept:sent_message" value="{}"/> 
+<string key="org:resource" value="Shipper"/> 
+</event>
+</trace>
+</log>
